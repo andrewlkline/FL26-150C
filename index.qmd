@@ -1,0 +1,170 @@
+---
+title: "LINGUISTICS 150C"
+subtitle: "Language in Hawaiʻi and the Pacific"
+date: ""
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+Fall 2026 — University of Hawaiʻi at Mānoa
+
+| | |
+|---|---|
+| **Instructor:** Andrew Kline | **Time:** TR 10:30–11:45am, Bilger Hall 341A |
+| **Email:** [klineal@hawaii.edu](mailto:klineal@hawaii.edu) | **CRN:** 75669 |
+| **Office:** Moore 574 | **Dept. phone:** 956-8602 (emergency) |
+| **Office Hours:** W/F 1:30-2:30pm, or by appointment | **Dept. email:** linguist@hawaii.edu |
+
+## 1. Course Description
+
+This course is an introduction to the languages of Hawaiʻi and the broader Pacific region. Topics covered include the prehistoric settlement of the Pacific and the history of the Austronesian language family, principles of historical language change, the organization of linguistic systems of sound and grammar, the social use of language, language contact and shift, pidgins and creoles, language endangerment and documentation, and language maintenance and revitalization.
+
+LING 150C has been approved for both Writing Intensive (WI) and Hawaiian, Asian and Pacific Issues (H or HAPS) focus. In order to receive WI and H credit, students must satisfy the specified course requirements, including the written assignments, as described in Sections 2.5 – 2.6.
+
+### 1.1 Student Learning Outcomes
+
+Upon successful completion of this course, students will:
+
+1. understand the breadth of linguistic diversity found in the Pacific region;
+2. understand similarities and differences among languages of the Pacific in terms of their structure, demographics, and use;
+3. be able to describe how the study of language informs our understanding of culture, history, migration, and politics in the Pacific;
+4. understand the relationships between different groups in the Pacific through language contact;
+5. be able to independently carry out research regarding language in the Pacific region; and
+6. be able to describe in formal prose aspects of language structure and use in the Pacific.
+
+## 2. Grading and Course Requirements
+
+| Component | Weight | Notes |
+|---|---|---|
+| Participation | 10% | Attendance + journal + Lamākū discussion posts |
+| Quizzes (4 total) | 10% | Online via Lamākū; released Fridays |
+| Midterm Exam | 20% | In-class; open notes (no laptops) |
+| Writing Assignment 1 – Language Autoethnography | 20% | Scaffolded: proposal → draft → final |
+| Final Presentation | 15% | 10 min in-class; Weeks 15–16 |
+| Final Paper | 25% | Scaffolded: 2500 words; due Finals Week |
+
+### 2.1 Grading Scale
+
+| A+ | A | A− | B+ | B | B− | C+ | C | C− | D+ | D | D− | F |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 98–100 | 93–97 | 90–92 | 87–89 | 83–86 | 80–82 | 77–79 | 73–76 | 70–72 | 67–69 | 63–66 | 60–62 | 59 and below |
+
+Final grades will be rounded (e.g., 87.5 → 88 = B+; 92.4 → 92 = A–). Grades will not be curved.
+
+### 2.2 Participation (10%)
+
+Your participation grade is made up of three components:
+
+1. **Attendance & Journal** – I will take attendance at the start of each class, usually with a brief journal prompt. Please bring a physical notebook to every class. Journals must be handwritten. If you have extenuating circumstances requiring you to miss class, contact me as soon as possible.
+
+2. **Lamākū Discussion Posts** – You are responsible for 9 discussion posts over the semester, based on a prompt, and released roughly weekly. Each post must be at least 100 words. These posts contribute to your Writing Intensive (WI) requirement.
+
+3. **Syllabus Quiz** – A short quiz on the syllabus will be available in Week 1 on Lamākū. It familiarizes you with the course structure and the quiz format.
+
+### 2.3 Quizzes (10%)
+
+There will be 4 online quizzes administered through Lamākū. Each quiz will be 10 questions (multiple choice, true/false, fill-in-the-blank, and 1–2 short answer questions) with a 1-hour limit and one attempt. Quizzes will be released on Fridays and close the following Monday at 11:55pm. They cover all course reader and lecture material up to that point. Because quizzes close automatically, late submissions receive a score of 0.
+
+### 2.4 Midterm Exam (20%)
+
+The midterm exam will be held in-class on Tuesday, October 27. It will cover all course reader and lecture material through Week 8. The exam will be 25–30 questions and open-notes (no textbook or internet). A review sheet will be distributed two weeks beforehand.
+
+### 2.5 Writing Assignment 1 – Language Autoethnography (20%)
+
+The first writing assignment asks you to reflect on your own experiences with language in Hawaiʻi or the Pacific region. This may include reflecting on your family's language history, your experience of language shift or maintenance, your relationship to a heritage language, or your observations of multilingualism in your community. The autoethnography should connect your personal narrative to course concepts and readings.
+
+WA1 is scaffolded across three stages, each contributing to the assignment grade:
+
+- Proposal (10%): ~200 words describing your focus and how it relates to course content. Due Friday, Sep 25.
+- Draft (30%): Complete first draft of at least 750 words. Due Friday, Oct 9.
+- Final (60%): Revised final version incorporating instructor feedback. At least 750 words, excluding references. Due Friday, Oct 23.
+
+Detailed instructions will be posted on Lamākū in Week 2.
+
+### 2.6 Final Paper (25%)
+
+The Final Paper is a focused research paper of at least 2,500 words (excluding references) on one language, country, or island in the Pacific region, on any topic related to one or more course readings and pre-approved by the instructor. The paper must cite at least 7 academic sources using a consistent citation style. The Final Paper replaces a final exam and is due during Finals Week via Lamākū.
+
+Like WA1, the final paper is scaffolded:
+
+- Topic Idea (5%): ~100-150 words identifying a topic or a few topics that you would be interested in pursuing. Due Friday, October 30.
+- Preliminary Sources and Initial Research Question (15%): 3 academic sources that you think might be appropriate to this topic, and why each one fits, along with your initial research question(s), including a short explanation of what you anticipate you will learn. Due Friday, Nov 6.
+- Draft (25%): Complete first draft of at least 1,750 words. Due Friday, November 20.
+- Final Paper (45%): Complete revised final version of at least 2,500 words. Due the date and time of our final exam period (Tuesday, Dec 15 9:45 – 11:45 am).
+- Final Reflection (10%): Submitted at the same time as the final paper, ~300 words reflecting on the process of researching and writing your final paper.
+
+Detailed instructions will be posted on Lamākū in Week 6.
+
+### 2.7 Final Presentation (15%)
+
+Final Presentations will take place during Weeks 15–16, after your first draft but before your final paper is due. Each student will have a 10-minute slot: 7–8 minutes of presentation plus 2–3 minutes for questions. Sign-up will be via Google Sheets in Week 14. Presentations will be graded on:
+
+- Clear research topic/question
+- Content accuracy and relevance
+- Use of at least 3 academic sources
+- Quality and clarity of slides
+- Presentation flow and organization
+
+### 2.8 Extra Credit
+
+There is one extra credit opportunity, worth 4% added to your final grade:
+
+- Optional 1-on-1 Meeting (Week 14): Meet with me for 7 minutes via Zoom or in-person at my office hours to discuss your Final Paper/Presentation plans. You must have submitted your Initial Research Question on time and be prepared to discuss your topic and presentation ideas.
+
+## 3. Course Policies
+
+### 3.1 Lateness Policy
+
+Late writing assignments (WA1, Final Paper Components, Final Paper) will be penalized 5% for each day submitted after the deadline. It is always better to submit late for partial credit than not to submit at all. Quizzes cannot be taken late — they close automatically on Lamākū.
+
+### 3.2 Academic Honesty
+
+Academic honesty is expected in this course. Academic dishonesty includes plagiarism and cheating. Students who violate the University rules on scholastic dishonesty will be subject to disciplinary penalties, including possible failure in the course and/or dismissal from the University. Policies will be strictly enforced.
+
+### 3.3 Generative AI Policy
+
+Generative AI tools (including ChatGPT, Gemini, Copilot, and similar) may be used to support your thinking and polish your writing, but not to generate first drafts, summarize readings, or otherwise substitute for your own intellectual work. You are expected to be the primary author of all submitted work. If you use an AI tool in any assignment, you must include a brief statement at the top describing how you used it (e.g., "I used ChatGPT to check for grammatical errors after completing my draft.") Undisclosed use of AI to produce substantive written content will be treated as academic dishonesty. When in doubt, ask me.
+
+Keep in mind: learning to write is learning to think. Overreliance on AI undermines the development of your own analytical skills — which is the whole point of a writing-intensive course.
+
+### 3.4 Accessibility and Accommodations (Kōkua)
+
+If you are a student with a disability and have disability-related needs or concerns, please contact the Kōkua program: (808) 956-7511, kokua@hawaii.edu, or in person at the Queen Liliʻuokalani Center for Student Services, Room 013.
+
+### 3.5 Counseling and Wellness
+
+If you are experiencing personal difficulties or excessive stress and do not feel comfortable speaking with me directly, the UHM Counseling Center is available to you: <http://manoa.hawaii.edu/counseling/>.
+
+### 3.6 Title IX
+
+As a UH employee, I am required to promptly report incidents of sex discrimination or sex-based harassment to the Title IX Coordinator. If you have experienced sex discrimination or harassment and wish to speak with someone confidentially, contact the Confidential Mānoa Advocate at manoaadv@hawaii.edu or (808) 956-9499. For more information: <https://manoa.hawaii.edu/titleix/resources/>.
+
+## 4. Course Schedule
+
+This schedule is subject to change. The UHM Academic Calendar with administrative deadlines (add/drop, withdrawal, etc.) can be found at <https://manoa.hawaii.edu/registrar/academiccalendar/>.
+
+| Week | Dates | Topics | Readings (before class) | Assignments / Notes |
+|---|---|---|---|---|
+| 1 | Aug 25 / 27 | Course overview; Pacific geography and linguistic diversity | Ch. 1 – Introduction (Lynch) | Lamākū syllabus quiz (opens Fri 8/28, closes Mon 8/31) |
+| 2 | Sep 1 / 3 | History of the Austronesian languages | Ch. 2 – History of Austronesian (Blust) | Discussion Post #1 (closes Thu 9/3) |
+| 3 | Sep 8 / 10 | Historical linguistics and the Oceanic subgroup | Ch. 3 – Historical Linguistics (Kikusawa) | Discussion Post #2; Quiz #1 (opens Fri 9/11, closes Mon 9/14) |
+| 4 | Sep 15 / 17 | Sound systems; Typology and grammar | Ch. 4 (Harrison); Ch. 5 (Lichtenberk) | Discussion Post #3 |
+| 5 | Sep 22 / 24 | Comparative linguistics; Cognates | Ch. 6 – Cognates (Cook) | WA1 Proposal due Fri 9/25; Quiz #2 (opens Fri 9/25, closes Mon 9/28) |
+| 6 | Sep 29 / Oct 1 | Multilingualism; Language diversity in the Pacific | Ch. 7 – Multilingualism (Lynch) | Discussion Post #4 |
+| 7 | Oct 6 / 8 | Languages of Micronesia; Languages of Polynesia | Ch. 9 (Bender); Ch. 10 (Schütz) | WA1 Draft due Fri 10/9; Quiz #3 (opens Fri 10/9, closes Mon 10/12) |
+| 8 | Oct 13 / 15 | Pidgins and Creoles; Hawaiian Pidgin | Ch. 13 (Meyerhoff); Ch. 14 (Sakoda & Siegel) | Discussion Post #5 |
+| 9 | Oct 20 / 22 | Language contact and borrowing; Midterm review | Ch. 15 – Borrowing (Geraghty) | WA1 Final due Fri 10/23; Quiz #4 (opens Fri 10/23, closes Mon 10/26) |
+| 10 | Oct 27 / 29 | Midterm Exam (Tue 10/27); Hawaiian literacy | Ch. 17 – Hawaiian Literacy (Schütz) | Midterm Exam Tue 10/27; Discussion Post #6; Final Paper Topic Idea due Fri 10/30 |
+| 11 | Nov 3 / 5 | Language endangerment (no class Tue 11/3 — Election Day) | Ch. 18 (Guérin & Yourupi) | Preliminary Sources and Research Question due Fri 11/6 |
+| 12 | Nov 10 / 12 | Hawaiian & Māori language revitalization | Ch. 19 (Wilson); Ch. 20 – Māori Revitalization (Benton) | Discussion Post #7 |
+| 13 | Nov 17 / 19 | Language documentation; UHM Linguistics Dept. | Ch. 21 (Thieberger); Ch. 22 (Grace) | Draft due Fri 11/20 |
+| 14 | Nov 24 / 26 | Optional 1-on-1 meetings (Tue 11/24); Thanksgiving (no class Thu 11/26) | — | Discussion Post #8; sign up for presentation slot |
+| 15 | Dec 1 / 3 | Final Presentations – Days 1 & 2 | — | |
+| 16 | Dec 8 / 10 | Final Presentations – Days 3 & 4 | — | Discussion Post #9 (last day of class Dec 10) |
+| Finals | Week of Dec 14 | — | — | Final Paper due on Lamākū (Tuesday, Dec 15 11:45 am) |
+
+### Note on Course Readings
+
+All readings are drawn from *Languages of the Pacific Islands: Introductory Readings* (LPI), edited by Hiroko Sato and Joel Bradshaw, and are available as a Course Reader on Lamākū. If you would like a physical copy of the Course Reader, contact me in the first two weeks of the semester.
