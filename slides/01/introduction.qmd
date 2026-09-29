@@ -1,0 +1,81 @@
+---
+title: "Course overview"
+subtitle: "(LING 150C, Week 1)"
+author:
+  - name: Andrew Kline
+    email: klineal@hawaii.edu
+institute: "University of Hawaiʻi at Mānoa"
+date: 2026-08-25
+date-format: long
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "LING 150C — Language in Hawaiʻi and the Pacific"
+    transition: slide
+    incremental: false
+    chalkboard: false
+---
+
+## Today
+
+- Course overview
+- Pacific geography and linguistic diversity
+- Introductions
+- Syllabus walkthrough
+
+## Introductions
+
+Take a minute with the person next to you:
+
+- Where are you from?
+- What languages do you speak, or grew up hearing?
+- Why did you enroll in this course?
+
+## Syllabus
+
+Full syllabus, grading breakdown, and schedule:
+
+[View the syllabus](../../index.qmd)
+
+Key things to note today:
+
+- Writing Intensive (WI) and Hawaiian, Asian and Pacific Issues (H/HAPS) focus
+- Participation includes a **handwritten** journal — bring a notebook every class
+- Syllabus quiz opens Friday on Lamākū
+
+## Pacific geography {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Three culture areas**
+
+- Melanesia
+- Micronesia
+- Polynesia
+:::
+::: {.column width="50%"}
+**Today's reading**
+
+Ch. 1 – Introduction (Lynch)
+:::
+:::
+
+## Linguistic diversity in the Pacific
+
+- One of the most linguistically diverse regions on Earth
+- Home to a large share of the world's Austronesian languages
+- Also Papuan (Non-Austronesian) languages in parts of Melanesia
+
+::: {.notes}
+Speaker notes go here — press `s` during the presentation to open the speaker view.
+:::
+
+## Discussion
+
+> What does "language in Hawaiʻi and the Pacific" mean to you, before we've read anything?
+
+## Next time
+
+- **Reading:** Ch. 2 – History of Austronesian (Blust)
+- **Due:** Discussion Post #1 (closes Thursday)
