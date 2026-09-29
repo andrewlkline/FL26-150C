@@ -1,0 +1,338 @@
+---
+title: "Why Is Melanesia So Linguistically Diverse?"
+subtitle: "LING 150C — Language in Hawaiʻi and the Pacific, Day 11"
+author: "Andrew Kline"
+institute: "University of Hawaiʻi at Mānoa"
+date: 2026-09-29
+format:
+  revealjs:
+    theme: [simple, custom.scss]
+    slide-number: c/t
+    progress: true
+    chalkboard: true
+    logo: images/manoa-seal.png
+    footer: "LING 150C"
+    transition: slide
+    incremental: false
+    code-fold: false
+---
+
+# Why Is Melanesia So Linguistically Diverse?
+
+Fall 2026 · Andrew Kline · University of Hawaiʻi at Mānoa
+
+::: {.notes}
+Day 11 title. Journal starts right away — this builds on Thursday but goes a different direction: not pidgin/creole basics, but the puzzle of why Melanesia has so many more languages than Polynesia/Micronesia.
+:::
+
+## Journal (5 min)
+
+Choose one option and write silently. We'll hear from a couple of people afterward.
+
+::: {.columns}
+::: {.column width="50%"}
+**Option A**
+
+Think of the most linguistically diverse place you've spent real time in — a family gathering, a workplace, a neighborhood, a market. How many languages were in the air? What did it feel like to be surrounded by that much variety?
+:::
+::: {.column width="50%"}
+**Option B**
+
+Now think of the opposite — a place where just about everyone around you spoke the same way. Did that sameness stand out to you at the time, or only looking back on it now?
+:::
+:::
+
+::: {.notes}
+~5 min: 4 min silent writing, then 1-2 volunteers share. Personal/experiential prompts, not fact-based. Bridge into the next slide: "some of you described Option A places, some Option B — that split tracks a real pattern."
+:::
+
+## Today's Plan
+
+1. WA1 proposals: overall takeaways before you draft
+2. The scale puzzle: reveal the real numbers
+3. Case studies: a day in the life in Vanuatu vs. Samoa
+4. Fiji: the in-between case, and Fiji Hindi
+5. Telephone Tree: simulating language change over time
+6. Why the difference? Three explanatory factors
+
+## WA1 Proposals: Takeaways for Your Draft
+
+1. **Name a specific concept** — the strongest proposals cited an actual course term or reading, not just "language stuff we talked about."
+2. **Pick ONE throughline** — several proposals bundled two or three angles at once. For 750 words, narrowing to one story now makes the Draft easier.
+3. **Word count is a guide, not a wall** — plenty of you went past ~200 words on the proposal, which is fine. It just isn't required.
+4. **Anchor in one concrete scene** — the strongest proposals are built around a specific moment, not a general description.
+
+::: {.notes}
+~4 min. Quick, whole-class debrief on WA1 proposals before diving into new content — not individual feedback, just the patterns worth naming out loud. Keep this brisk and encouraging.
+:::
+
+## How Many Languages? PNG vs. Samoa
+
+::: {.columns}
+::: {.column width="50%"}
+### 843
+languages in Papua New Guinea — the most linguistically diverse country on Earth (2025/26 count), ahead of Indonesia's ~709.
+:::
+::: {.column width="50%"}
+### 1
+indigenous language in Samoa. (Compare: Vanuatu ~100, Solomon Islands ~63, all of Micronesia ~16, all of Fiji/Polynesia ~22 combined.)
+:::
+:::
+
+> **Pair-share (2 min):** Walking through a market in Port Moresby, Honiara, or Port Vila, you might hear twenty languages before you finish shopping. In Apia, maybe two. Why would that be so different? Don't look it up — just guess with a partner.
+
+::: {.notes}
+~7 min. Bridge from the journal: "some of you just described Option A places, some described Option B — turns out that split tracks a real, measurable pattern." Then Lynch's market scenario, pair-share on WHY before moving on.
+:::
+
+## Four Kinds of Pacific Languages
+
+| Category | Description |
+|---|---|
+| ① Indigenous | Native to the country or territory — what most of this course has focused on so far. |
+| ② Metropolitan | The colonial or national language of government, education, and formal life — usually English, sometimes French, Spanish, or Indonesian. |
+| ③ Pidgin / Creole | Contact languages like Bislama, Tok Pisin, Pijin — covered in depth Thursday. |
+| ④ Immigrant | Languages brought by more recent arrivals. Lynch sets this aside in the chapter — keep it in mind for Fiji. |
+
+::: {.notes}
+~4 min framing. New content from Ch.7 §2. Flag pidgin-creole is a quick callback only. End by flagging Fiji Hindi as a preview — technically "immigrant" by this framework, yet functions almost like a metropolitan language.
+:::
+
+## Vanuatu vs. Samoa
+
+::: {.columns}
+::: {.column width="50%"}
+**Team Vanuatu**
+
+- ~100 indigenous languages, ~250,000 people
+- Jointly ruled by England & France until 1980 — both English and French are official
+- Bislama spoken by ~95% of the population
+- Typical ni-Vanuatu speaks 3+ languages: local language at home, Bislama in town, English or French at school/work
+- Port Vila: ~85% of the country's languages have some speakers there
+:::
+::: {.column width="50%"}
+**Team Samoa**
+
+- 1 indigenous language: Samoan
+- Former German colony (to WWI), independent from New Zealand since 1962
+- Just two languages in daily use: Samoan and English
+- Samoan is the medium of instruction in primary school
+- English = formal/modern settings; Samoan = basically everywhere else
+:::
+:::
+
+::: {.notes}
+~3 min setup. Split the room in half: Team Vanuatu and Team Samoa. Each group gets their fact sheet and 5 minutes to script a "day in the life."
+:::
+
+## Vanuatu vs. Samoa: Activity Instructions
+
+1. **Script it** — narrate one full day, naming which language gets used at each moment.
+2. **Assign roles** — 1-2 narrators, and actors if you want to act out an exchange.
+3. **Perform** — 2-3 minutes per group.
+4. **Compare** — what would be hardest about the other country's day? Easiest?
+
+::: {.notes}
+~10 min: 5 min group prep, then 2-3 min per group to perform. Debrief: what does it feel like to switch that often vs. barely at all?
+:::
+
+## Fiji: The In-Between Case
+
+1. **Fijian** — actually a dialect chain; eastern/western and northern/southern speakers don't always understand each other. A standardized eastern variety is used officially.
+2. **Rotuman** — spoken on Rotuma, part of Fiji but its own language, related to Fijian but distinct.
+3. **Fiji Hindi** — brought by Indian indentured laborers in the late 1800s.
+
+::: {.notes}
+~4 min. New territory. Introduce Fiji as the messy in-between case. Three-way split sets up the Fiji Hindi deep-dive next.
+:::
+
+## Fiji Hindi
+
+::: {.columns}
+::: {.column width="33%"}
+### ~60,000
+Indian indentured laborers (girmitiyas) brought to Fiji 1879–1916 on 5-year contracts to work sugarcane
+:::
+::: {.column width="33%"}
+### ~350,000
+descendants in Fiji today — about 30% of the country's population
+:::
+::: {.column width="33%"}
+### "Fiji Baat"
+the resulting language, mainly from Awadhi and Bhojpuri — now an official language of Fiji (as "Hindi")
+:::
+:::
+
+> **Language attitudes, again:** Fiji Hindi is often looked down on by speakers of Standard Hindi/Urdu as "broken" or "inferior" — even though linguists are clear it's a full, rule-governed language, not a degraded one. Same pattern we've seen with Pidgin/Creole attitudes.
+
+::: {.notes}
+~8 min. This is the expanded section — spend real time here.
+:::
+
+## Fiji Hindi: Girmit History
+
+::: {.columns}
+::: {.column width="33%"}
+### May 14, 1879
+the ship *Leonidas* arrives at Levuka from Calcutta with the first 463 indentured laborers
+:::
+::: {.column width="33%"}
+### 37 years
+1879–1916: the full span of Indian indentured emigration to Fiji, ~60,500+ people total
+:::
+::: {.column width="33%"}
+### 5-year contracts
+"Girmit" is a mispronunciation of "agreement" — now the name for the whole era
+:::
+:::
+
+> **Today:** May 14 is observed as Girmit Day by Indo-Fijian communities in Fiji and the diaspora.
+
+::: {.notes}
+~5 min. Concrete historical anchor — a specific ship, date, and number of people rather than just aggregate stats.
+:::
+
+## Discussion: Fiji
+
+- Fiji has real internal diversity — the Fijian dialect chain plus Rotuman — that looks more like the Melanesian pattern.
+- But a standardized Fijian and English both function as unifying, public-life languages — more like the Polynesia/Micronesia pattern.
+- And then there's Fiji Hindi — a whole additional layer neither pattern predicts, because it's about 19th-century indentured labor migration, not indigenous settlement history.
+
+> **Discuss:** What does Fiji teach us about the limits of a two-category explanation?
+
+::: {.notes}
+~4 min discussion. Cold-call or pair-share.
+:::
+
+## The Telephone Tree
+
+1. **Four communities, one ancestor** — split into 4 groups. Everyone starts with: "The octopus stole my sandwich at the market."
+2. **Pass it down** — telephone-style within each group, several rounds, no writing anything down.
+3. **A later split** — split each of the 4 groups in half again, run one more short round within each half.
+4. **Compare all eight** — write all 8 final versions on the board. Which resemble each other? Which drifted furthest?
+
+::: {.notes}
+~12-15 min. This models Lynch's Figure 1 (branching diversification) experientially, no phonetics required.
+:::
+
+## Telephone Tree: Debrief
+
+> **Notice:** the two halves that split from the same group later usually still sound more alike than the more distantly split groups. That's exactly the branching pattern behind real language families.
+
+::: {.columns}
+::: {.column width="33%"}
+**~50,000 yrs** — settlement in parts of Melanesia (New Guinea region)
+:::
+::: {.column width="33%"}
+**~3,000 yrs** — oldest settlements in Polynesia/Micronesia
+:::
+::: {.column width="33%"}
+**~1,000 yrs** — since Hawaiʻi and New Zealand were first settled
+:::
+:::
+
+::: {.notes}
+~4 min debrief + bridge. More "rounds" = more drift = more languages.
+:::
+
+## Three Explanatory Factors
+
+::: {.columns}
+::: {.column width="33%"}
+**① Time**
+
+More generations = more drift (just modeled with Telephone Tree).
+:::
+::: {.column width="33%"}
+**② Separation**
+
+Geographic AND social isolation. Surprise: the sea is often NOT a barrier — coastal communities across a strait can be more similar than communities on the same island.
+:::
+::: {.column width="33%"}
+**③ Social Structure**
+
+Polynesian societies: large, hierarchical — holds one language together. Melanesian societies: small, egalitarian — harder to keep one language unified.
+:::
+:::
+
+::: {.notes}
+~5 min mini-lecture.
+:::
+
+## Activity: Apply the Three Factors
+
+> **In small groups:** you'll be assigned one of the three factors. In 4 minutes, come up with your own real-world example — Pacific or not — of that factor driving language or dialect divergence. Lynch's own examples: Canadian vs. European French, or regional US English.
+
+- What's your example?
+- What kept the groups apart (or together) long enough for the difference to take hold?
+- Could you imagine it eventually producing two fully separate languages?
+
+::: {.notes}
+~8 min. Groups of 3-4, each assigned one factor, share out ~3 min.
+:::
+
+## Vanuatu: A 2025 Research Update
+
+::: {.columns}
+::: {.column width="50%"}
+### 72%
+of Vanuatu's indigenous languages are spoken by fewer than 1,000 people
+:::
+::: {.column width="50%"}
+### 1
+Vanuatu language has more than 10,000 speakers — out of nearly 100
+:::
+:::
+
+> A September 2025 study found evidence that Bislama itself may now be squeezing out the local languages it coexists with. Does this undercut Lynch's picture, or fit right alongside it?
+
+::: {.notes}
+~7 min. Complicate Lynch's rosy multilingualism picture with current research.
+:::
+
+## Activity: Research a Pacific Country
+
+**In your group:** research your assigned country/territory on Wikipedia or another reliable source. You have 8 minutes.
+
+1. New Caledonia
+2. Tonga
+3. Federated States of Micronesia
+4. Indonesian Papua
+5. Solomon Islands
+6. French Polynesia
+
+**Answer as a group:**
+
+- How many indigenous languages does it have? What's your source?
+- What's the metropolitan (colonial/official) language?
+- Is there a pidgin, creole, or lingua franca used across language groups?
+- Which of today's three factors best explains its level of diversity?
+- Anything that doesn't fit the patterns we discussed today?
+
+::: {.notes}
+~8 min research time. Groups have laptops. Circulate while they work.
+:::
+
+## Compare and Contrast
+
+1. **Report** — each group gives a 1-2 minute rundown.
+2. **Track it** — jot each one on the board: indigenous count, metropolitan language, pidgin/creole (y/n), best-fit factor.
+3. **Look at the board** — once all six are up, look across the whole set together.
+
+> **Discuss:** Which factor came up most often as the best explanation across the six? Did any country not fit neatly into the patterns from today?
+
+::: {.notes}
+~10-12 min: 1-2 min report per group.
+:::
+
+## Exit Ticket
+
+> Which of the three factors — time, separation, or social structure — best explains a pattern of multilingualism (or its absence) in your own family or community?
+
+Take 3 minutes, write silently. Hang onto this — it may help with your autoethnography.
+
+Reading for next class: Ch. 8, Bradshaw — see Lamākū for the schedule.
+
+::: {.notes}
+~4 min. Exit ticket, silent writing.
+:::

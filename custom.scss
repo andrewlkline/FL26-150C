@@ -1,0 +1,24 @@
+/*-- scss:rules --*/
+
+// Just the layout mechanics needed for the .columns/.column divs used in
+// day11.qmd — no color/branding overrides, so the deck stays close to
+// the plain "simple" theme's own look.
+
+.reveal .columns {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.reveal .column {
+  flex: 1;
+}
+
+.reveal blockquote {
+  border-left: 3px solid #888;
+  padding: 0.5em 1em;
+  font-style: normal;
+}
+
+.reveal table {
+  font-size: 0.75em;
+}
