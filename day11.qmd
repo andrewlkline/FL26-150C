@@ -10,7 +10,7 @@ format:
     slide-number: c/t
     progress: true
     chalkboard: true
-    logo: images/manoa-seal.png
+    logo: images/left.png
     footer: "LING 150C"
     transition: slide
     incremental: false
