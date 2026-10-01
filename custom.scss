@@ -22,3 +22,43 @@
 .reveal table {
   font-size: 0.75em;
 }
+
+// Loaded after manoa.scss — brings back the bolder, plainer look from the
+// old "simple" theme for slide titles/body text, on top of the clean-revealjs
+// title-slide layout we're keeping.
+
+.reveal .slides section h1,
+.reveal .slides section h2 {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif !important;
+  font-weight: bold !important;
+  color: #000 !important;
+}
+
+.reveal .slides section h3 {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif !important;
+  font-weight: bold !important;
+  font-style: italic !important;
+  color: #024731 !important;
+}
+
+.reveal .slides section p,
+.reveal .slides section li {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif !important;
+  font-weight: normal !important;
+}
+
+// Dark green border around the full slide (inset shadow so it hugs the
+// actual viewport edge, not just this theme's narrower text column)
+.reveal {
+  box-shadow: inset 0 0 0 10px #024731;
+}
+
+// manoa.scss colors list markers red/orange by default — match our green instead
+.reveal ul li::marker,
+.reveal ul ul li:before {
+  color: #024731 !important;
+}
+
+.reveal ol li::marker {
+  color: #024731 !important;
+}
