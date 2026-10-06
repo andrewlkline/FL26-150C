@@ -1,220 +1,283 @@
 [
   {
-    "objectID": "template.html#journal-5-min",
-    "href": "template.html#journal-5-min",
-    "title": "Lecture Title Here",
+    "objectID": "micronesia.html#journal-5-min",
+    "href": "micronesia.html#journal-5-min",
+    "title": "The Languages of Micronesia",
     "section": "Journal (5 min)",
-    "text": "Journal (5 min)\nChoose one option and write silently. We’ll hear from a couple of people afterward.\n\n\nOption A\n[Personal/experiential prompt A — students respond better to these than fact-recall prompts.]\n\nOption B\n[Personal/experiential prompt B.]\n\n\n~5 min: 4 min silent writing, then 1-2 volunteers share."
+    "text": "Journal (5 min)\nChoose one option and write silently. We’ll hear from a couple of people afterward.\n\n\nOption A\nThink of a place you’ve lived whose everyday vocabulary — weather, food, directions, local slang — an outsider wouldn’t fully get. What would you lose if you moved away from it?\n\nOption B\nWhat do you know already about Micronesia? Think about its islands, peoples, languages, history, or anyone you know with connections there.\n\nWhere did you learn it (school, family, media, travel)?\nWhat would you like to find out after reading Bender’s chapter?\n\n\n\n~5 min: 4 min silent writing, then 1-2 volunteers share."
   },
   {
-    "objectID": "template.html#todays-plan",
-    "href": "template.html#todays-plan",
-    "title": "Lecture Title Here",
-    "section": "Today’s Plan",
-    "text": "Today’s Plan\n\n[Agenda item 1]\n[Agenda item 2]\n[Agenda item 3]\n[Agenda item 4]"
-  },
-  {
-    "objectID": "template.html#content-slide-title",
-    "href": "template.html#content-slide-title",
-    "title": "Lecture Title Here",
-    "section": "[Content Slide Title]",
-    "text": "[Content Slide Title]\n\n[Point 1]\n[Point 2]\n[Point 3]\n\n\n[Timing and facilitation notes for this slide.]"
-  },
-  {
-    "objectID": "template.html#two-column-example",
-    "href": "template.html#two-column-example",
-    "title": "Lecture Title Here",
-    "section": "[Two-Column Example]",
-    "text": "[Two-Column Example]\n\n\n[Left heading]\n\n[point]\n[point]\n\n\n[Right heading]\n\n[point]\n[point]"
-  },
-  {
-    "objectID": "template.html#three-stat-example",
-    "href": "template.html#three-stat-example",
-    "title": "Lecture Title Here",
-    "section": "[Three-Stat Example]",
-    "text": "[Three-Stat Example]\n\n\n[Number]\n[caption]\n\n[Number]\n[caption]\n\n[Number]\n[caption]"
-  },
-  {
-    "objectID": "template.html#activity-slide",
-    "href": "template.html#activity-slide",
-    "title": "Lecture Title Here",
-    "section": "[Activity Slide]",
-    "text": "[Activity Slide]\n\n[Step name] — [instruction]\n[Step name] — [instruction]\n[Step name] — [instruction]\n\n\nDiscuss: [discussion prompt]\n\n\n[~X min. Facilitation notes: group size, materials needed, etc.]"
-  },
-  {
-    "objectID": "template.html#exit-ticket",
-    "href": "template.html#exit-ticket",
-    "title": "Lecture Title Here",
-    "section": "Exit Ticket",
-    "text": "Exit Ticket\n\n[Reflection prompt tied to today’s material.]\n\nTake 3 minutes, write silently.\nReading for next class: [Chapter/reading] — see Lamākū for the schedule.\n\n~4 min. Exit ticket, silent writing."
-  },
-  {
-    "objectID": "slides/01/introduction.html#today",
-    "href": "slides/01/introduction.html#today",
-    "title": "Course overview",
-    "section": "Today",
-    "text": "Today\n\nCourse overview\nPacific geography and linguistic diversity\nIntroductions\nSyllabus walkthrough"
-  },
-  {
-    "objectID": "slides/01/introduction.html#introductions",
-    "href": "slides/01/introduction.html#introductions",
-    "title": "Course overview",
-    "section": "Introductions",
-    "text": "Introductions\nTake a minute with the person next to you:\n\nWhere are you from?\nWhat languages do you speak, or grew up hearing?\nWhy did you enroll in this course?"
-  },
-  {
-    "objectID": "slides/01/introduction.html#syllabus",
-    "href": "slides/01/introduction.html#syllabus",
-    "title": "Course overview",
-    "section": "Syllabus",
-    "text": "Syllabus\nFull syllabus, grading breakdown, and schedule:\nView the syllabus\nKey things to note today:\n\nWriting Intensive (WI) and Hawaiian, Asian and Pacific Issues (H/HAPS) focus\nParticipation includes a handwritten journal — bring a notebook every class\nSyllabus quiz opens Friday on Lamākū"
-  },
-  {
-    "objectID": "slides/01/introduction.html#pacific-geography",
-    "href": "slides/01/introduction.html#pacific-geography",
-    "title": "Course overview",
-    "section": "Pacific geography",
-    "text": "Pacific geography\n\n\nThree culture areas\n\nMelanesia\nMicronesia\nPolynesia\n\n\nToday’s reading\nCh. 1 – Introduction (Lynch)"
-  },
-  {
-    "objectID": "slides/01/introduction.html#linguistic-diversity-in-the-pacific",
-    "href": "slides/01/introduction.html#linguistic-diversity-in-the-pacific",
-    "title": "Course overview",
-    "section": "Linguistic diversity in the Pacific",
-    "text": "Linguistic diversity in the Pacific\n\nOne of the most linguistically diverse regions on Earth\nHome to a large share of the world’s Austronesian languages\nAlso Papuan (Non-Austronesian) languages in parts of Melanesia\n\n\nSpeaker notes go here — press s during the presentation to open the speaker view."
-  },
-  {
-    "objectID": "slides/01/introduction.html#discussion",
-    "href": "slides/01/introduction.html#discussion",
-    "title": "Course overview",
-    "section": "Discussion",
-    "text": "Discussion\n\nWhat does “language in Hawaiʻi and the Pacific” mean to you, before we’ve read anything?"
-  },
-  {
-    "objectID": "slides/01/introduction.html#next-time",
-    "href": "slides/01/introduction.html#next-time",
-    "title": "Course overview",
-    "section": "Next time",
-    "text": "Next time\n\nReading: Ch. 2 – History of Austronesian (Blust)\nDue: Discussion Post #1 (closes Thursday)"
-  },
-  {
-    "objectID": "10-1.html#journal-5-min",
-    "href": "10-1.html#journal-5-min",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Journal (5 min)",
-    "text": "Journal (5 min)\nChoose one option and write silently. We’ll hear from a couple of people afterward.\n\n\nOption A\nHave you ever noticed a group (a friend group, a team, your hometown) deliberately speaking differently from a neighboring group, almost as a way of saying “we’re not them”? What did that look like?\n\nOption B\nDescribe a word or phrase that’s specific to your family, hometown, or friend group — something an outsider wouldn’t get. What would be lost if you stopped using it?\n\n\n~5 min: 4 min silent writing, then 1-2 volunteers share."
-  },
-  {
-    "objectID": "10-1.html#reminders",
-    "href": "10-1.html#reminders",
-    "title": "Multilingualism & Language Diversity (cont.)",
+    "objectID": "micronesia.html#reminders",
+    "href": "micronesia.html#reminders",
+    "title": "The Languages of Micronesia",
     "section": "Reminders",
-    "text": "Reminders\nQuiz 2 closes on Lamakū tomorrow, Friday, October 2 at 11:59pm. Only 7 of you have completed it so far — please finish it before the deadline.\nOffice Hours: Wednesdays/Fridays 1:30-2:30pm in Moore Hall 574 or on Zoom\n\nIf you can’t make that time, email me to set up a different time.\n\nWriting Assignment 1 Draft is due next Friday, October 9 at 11:59pm\n\n750 words"
+    "text": "Reminders\nWriting Assignment 1 Draft is due this Friday, October 9 at 11:59pm\nOffice Hours: Wednesdays/Fridays 1:30-2:30pm in Moore Hall 574 or on Zoom\n\nIf you can’t make that time, email me to set up a different time."
   },
   {
-    "objectID": "10-1.html#todays-plan",
-    "href": "10-1.html#todays-plan",
-    "title": "Multilingualism & Language Diversity (cont.)",
+    "objectID": "micronesia.html#todays-plan",
+    "href": "micronesia.html#todays-plan",
+    "title": "The Languages of Micronesia",
     "section": "Today’s Plan",
-    "text": "Today’s Plan\n\nActivity: Research a Pacific Country\nYour Discussion Questions\nLooking ahead to next week"
+    "text": "Today’s Plan\n\nIntroduction & geography of Micronesia\nCountries & Territories of Micronesia\nRelocate or Raise the Land?\nLooking ahead to next week"
   },
   {
-    "objectID": "10-1.html#activity-research-a-pacific-country",
-    "href": "10-1.html#activity-research-a-pacific-country",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Activity: Research a Pacific Country",
-    "text": "Activity: Research a Pacific Country\n\nIn your group: research your assigned country/territory on Wikipedia or another reliable source. You have 8 minutes.\n\n\n\nNew Caledonia\nTonga\nFederated States of Micronesia\n\n\n\nIndonesian Papua\nSolomon Islands\nFrench Polynesia\n\n\nhttps://go.hawaii.edu/RvH\n\n\nAnswer as a group:\n\n\n\nHow many indigenous languages does it have? What’s your source?\nWhat’s the metropolitan (colonial/official) language?\nIs there a pidgin, creole, or lingua franca used across language groups?\n\n\n\nWhich of today’s three factors best explains its level of diversity?\nAnything that doesn’t fit the patterns we discussed today?\nOne fun fact about the country/territory that your group didn’t know before\n\n\n\n\n~8 min research time. Groups have laptops. Circulate while they work."
+    "objectID": "micronesia.html#just-how-big-is-micronesia",
+    "href": "micronesia.html#just-how-big-is-micronesia",
+    "title": "The Languages of Micronesia",
+    "section": "Just How Big Is Micronesia?",
+    "text": "Just How Big Is Micronesia?\nBender’s own way of putting it:\n\nFly from Los Angeles to Hawai’i, then keep going the same distance again in the same direction — you’d land in Majuro, Marshall Islands, just past the International Date Line\nCrossing Micronesia east to west, from Majuro to Palau, is roughly the distance from New York to California — about 3,000 miles\nAnd most of what’s in between is, as Bender puts it, barely specks on a map — this region’s name literally means “small islands”\n\n\n\nQuick opening hook before the map. Helps students viscerally grasp that “Micronesia” isn’t one tight cluster of islands, it’s an area the size of the continental US, just almost entirely ocean."
   },
   {
-    "objectID": "10-1.html#compare-and-constrast",
-    "href": "10-1.html#compare-and-constrast",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Compare and Constrast",
-    "text": "Compare and Constrast\n\nReport Each Each group gives a 1-2 minute rundown of what they found — locating the country/territory, reporting the numbers, the languages, and their factor hypothesis.\nLook at the doc Once all six are finished, look across the whole set together — what patterns jump out?\n\n\nDiscuss: Which factor came up most often as the best explanation across the six? Did any country not fit neatly into the patterns from Tuesday?\n\n\n~8 min research time. Groups have laptops. Circulate while they work."
+    "objectID": "micronesia.html#what-is-a-culture-area",
+    "href": "micronesia.html#what-is-a-culture-area",
+    "title": "The Languages of Micronesia",
+    "section": "What Is a “Culture Area”?",
+    "text": "What Is a “Culture Area”?\n\n\nMicronesia, Melanesia, and Polynesia — the three areas we’ve been using all semester — aren’t geographic or political categories.\n\nThey’re defined by indigenous peoples and their ways of living, including their languages — not by neat boundaries on a map\nWe’ll see this complicate things today: Chamorro and Palauan aren’t even Oceanic languages, and two Polynesian languages (Kapingamarangi, Nukuoro) are spoken deep inside Micronesia\nKeep an eye out for how often “which culture area is this?” and “which language family is this?” give different answers"
   },
   {
-    "objectID": "10-1.html#from-your-discussion-posts",
-    "href": "10-1.html#from-your-discussion-posts",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "From Your Discussion Posts",
-    "text": "From Your Discussion Posts\nGreat questions and connections came in on Chapter 7 — let’s dig into a few.\n\nOnly 11 of you posted this week; Remember that these posts contribute to your Writing Intensive (WI) requirement, and make up part of your final grade for this class.\n\n\nOpening framing slide. Names the three threads we’re pulling from student posts before diving into each."
+    "objectID": "micronesia.html#living-on-a-life-raft",
+    "href": "micronesia.html#living-on-a-life-raft",
+    "title": "The Languages of Micronesia",
+    "section": "Living on a Life Raft",
+    "text": "Living on a Life Raft\nAlmost 2 in 5 Micronesians live on coral atolls — a sliver of land, often under a mile wide, a few feet above sea level at most. That environment leaves a mark on the language.\n\n\nAtoll languages are unusually rich in vocabulary for:\n\nNavigation, stars, and wayfinding\nFishing methods, canoe parts and sailing\nCoconut, breadfruit, and pandanus cultivation\n\n\nHigh-island languages are richer instead in:\n\nNames for flora and fauna\nTopographical features (ridges, valleys, streams)\n\n\nWhen atoll families resettle on high islands — Mortlock Islanders on Pohnpei, Satawal Islanders on Saipan — their children often stop acquiring that specialized atoll vocabulary within a generation or two.\n\nDiscuss: If you grew up on a high island and moved to an atoll (or vice versa), what vocabulary do you think would be hardest to pick up?\n\n\nThis is the richest unused material in the chapter and connects directly back to Kale’s ecology question and the Abui classification material from Tuesday — language tracks environment, and that knowledge is genuinely fragile across a single generation of relocation."
   },
   {
-    "objectID": "10-1.html#vanuatu-revisited",
-    "href": "10-1.html#vanuatu-revisited",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Vanuatu, Revisited",
-    "text": "Vanuatu, Revisited\n\n\nMichael asked: how can one small island group have languages so different that neighboring islands can’t understand each other?\nDyllan asked: when a language is only spoken by a few hundred people and isn’t being passed to kids, what happens next — and does losing the language mean losing parts of the culture?\n\nDiscuss: What would it take for a language with a few hundred speakers to survive another generation?\n\n\n\n\n\nTie back to Tuesday’s three factors (time, separation, social structure) — Vanuatu is the extreme case of all three stacking together.\nDyllan’s question, updated: Crowley (2000) famously argued Bislama posed no real threat to Vanuatu’s indigenous languages. A 2025 review (Lavender Forsyth) challenges that — 2020 census data show only 14% of Vanuatu’s population now speaks an indigenous language as their first language, and in rural areas as many as 1 in 5 people aged 4-20 have Bislama, not an indigenous language, as their first language. That’s the mechanism behind Dyllan’s question: kids growing up with Bislama at home instead of the local language breaks the chain of transmission. Don’t over-explain this — just flag it, since full language endangerment is covered in a later unit."
+    "objectID": "micronesia.html#quick-activity-sort-the-languages",
+    "href": "micronesia.html#quick-activity-sort-the-languages",
+    "title": "The Languages of Micronesia",
+    "section": "Quick Activity: Sort the Languages",
+    "text": "Quick Activity: Sort the Languages\nFrom Bender’s chapter, you’ve met these eight languages:\nChamorro · Palauan · Yapese · Marshallese · Pohnpeian · Kosraean · Nauruan · Kiribati\nIn pairs, 3 minutes: sort them into three groups, and be ready to explain your reasoning.\n\nNot Oceanic at all\nOceanic, but not Nuclear Micronesian\nNuclear Micronesian\n\n\nRetrieval from the reading, before the tour. Cold-call 2-3 pairs, then reveal the answer on the next slide. Keep this to about 3-4 minutes total."
   },
   {
-    "objectID": "10-1.html#why-so-many-languages",
-    "href": "10-1.html#why-so-many-languages",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Why So Many Languages?",
-    "text": "Why So Many Languages?\n\n\nLinguist Alexandre François has spent decades documenting this exact puzzle in northern Vanuatu (the Torres and Banks Islands).\n\n17 languages, 9,400 people — all descended from one ancestor language, 3,000 years of divergence\nIsolation alone doesn’t explain it — people there are constantly in contact: trading, intermarrying, visiting\nLanguage as identity marker: communities deliberately keep their speech different from close, friendly neighbors — François calls this language’s “emblematic function”\nEgalitarian multilingualism: no village outranks another, so no variety becomes “the” prestige language — everyone just learns their neighbors’ languages instead\n\n\n\n\n\nFrançois (2012)\n\n\n\nDiscuss: If isolation alone doesn’t explain Vanuatu’s diversity, what does this suggest about places that are very isolated but still only have one language?\n\n\n\nDirect answer to Michael’s and Dyllan’s questions, grounded in François (2011, 2012). Key reframe: diversity isn’t an accident of geography, it’s maintained on purpose. Also sets up Dyllan’s endangerment question — the same egalitarian multilingualism that sustains tiny languages today is exactly what’s eroding under colonial-era disruption and modern schooling (mention briefly, don’t dive deep — save for later unit on endangerment)."
+    "objectID": "micronesia.html#sort-the-languages-answers",
+    "href": "micronesia.html#sort-the-languages-answers",
+    "title": "The Languages of Micronesia",
+    "section": "Sort the Languages: Answers",
+    "text": "Sort the Languages: Answers\n\n\nNot Oceanic\n\nChamorro\nPalauan\n\nFirst wave out of Taiwan, with the Philippines and Indonesia\n\nOceanic, not Nuclear Micronesian\n\nYapese\n\nAn early, separate branch of Oceanic\n\nNuclear Micronesian\n\nMarshallese\nPohnpeian\nKosraean\nNauruan\nKiribati\n\nOne shared ancestor, Proto-Micronesian\n\n\nCommon misses: students put Chamorro/Palauan in Nuclear Micronesian because they’re in Micronesia, or Yapese with the other FSM languages because it’s in the FSM. Use that to preview the “culture area vs. language family” point: geography and language family don’t line up. Nauruan is Nuclear Micronesian but its position within the group is unclear (Bender: likely its own top-level branch)."
   },
   {
-    "objectID": "10-1.html#zooming-out-is-this-just-vanuatu",
-    "href": "10-1.html#zooming-out-is-this-just-vanuatu",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Zooming Out: Is This Just Vanuatu?",
-    "text": "Zooming Out: Is This Just Vanuatu?\n\nNot unique to the Pacific: linguists call this pattern “small-scale” or “egalitarian” multilingualism — the same setup (many small languages, no prestige hierarchy, everyone multilingual) is documented in West Africa, the Amazon, and northern Australia too (Lüpke 2016; Pakendorf, Dobrushina & Khanina 2021)\nA bigger claim: linguist Nicholas Evans (2018) argues this may be close to the ancestral human condition — that language itself likely evolved in multilingual small-scale societies, not isolated monolingual ones\nIf he’s right, multilingualism isn’t the exception that needs explaining — monolingual nation-states are the historically recent, unusual case\n\n\nDiscuss: If small-scale multilingualism was the human norm for most of history, why does monolingualism feel like the “default” to so many people today?\n\n\n~5 min. Good note to end the Vanuatu thread on: reframes the whole unit. Monolingualism isn’t neutral/natural — it’s a product of nation-state language policy, mass schooling, and standardization, which is a much more recent development than multilingual small-scale societies. Don’t need to resolve the discuss prompt — just let it sit before moving to Kale’s question."
+    "objectID": "micronesia.html#guam-the-northern-mariana-islands",
+    "href": "micronesia.html#guam-the-northern-mariana-islands",
+    "title": "The Languages of Micronesia",
+    "section": "Guam & the Northern Mariana Islands 🇬🇺 🇲🇵",
+    "text": "Guam & the Northern Mariana Islands 🇬🇺 🇲🇵\nChamorro — not part of the Oceanic subgroup we’ve been discussing\n\n\n\nSettled from the Philippines around 1500 BC — one of the longest open-ocean voyages (1,300 mi.) in the entire Austronesian expansion, until Polynesians later crossed even farther\nBelongs to the first wave of Austronesian migration out of Taiwan, the same wave that settled the Philippines and Indonesia — a completely separate branch from the Oceanic languages of Melanesia/Polynesia we’ve covered so far\nOn Saipan (NMI) today, many residents instead speak Carolinian — descended from more recent Chuukic-area settlers, and bilingual with their Chamorro neighbors\n\n\n\n\n\nGood opening move: most students will assume “Pacific Islander language” = Oceanic by default. Chamorro breaks that pattern immediately and is worth flagging explicitly."
   },
   {
-    "objectID": "10-1.html#vanuatus-other-language-split",
-    "href": "10-1.html#vanuatus-other-language-split",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Vanuatu’s Other Language Split",
-    "text": "Vanuatu’s Other Language Split\n\n\nJinghao’s question: the reading mentions ni-Vanuatu learn English or French depending on their school — how is that distributed? Do families choose, or is it based on where they live? Is there debate about it?\n\nVanuatu was jointly ruled by Britain and France until 1980 — a colonial “condominium” — and kept two entirely separate, parallel school systems at independence rather than merging them\nSchools register as English-medium or French-medium, not mixed; children usually attend whichever is available locally, often tied to earlier missionary history in that area\nYears 1-2: Bislama or the local vernacular; English or French phased in by Year 3; Years 3-13: instruction entirely in English or French\nThe split isn’t a strict geographic English-region/French-region boundary — it’s institutional, school by school, a direct legacy of the colonial system surviving 45+ years after independence\n\n\n\n\nDiscuss: Why might a newly independent country choose to keep two parallel colonial-language school systems rather than consolidating into one national language of instruction (English, French, or Bislama)?\n\n\n\nDirect answer to Jinghao’s question. Good follow-up point if time: this is a different kind of “diversity” than the indigenous-language diversity from earlier slides — this one is purely a colonial-era institutional artifact, not organic. Worth distinguishing the two kinds of multilingualism for students."
+    "objectID": "micronesia.html#chamorro-two-ways-to-count",
+    "href": "micronesia.html#chamorro-two-ways-to-count",
+    "title": "The Languages of Micronesia",
+    "section": "Chamorro: Two Ways to Count",
+    "text": "Chamorro: Two Ways to Count\nChamorro has two number systems side by side:\n\n\n\n\nNative Chamorro\nSpanish-derived\n\n\n\n\n1\nhåcha\nuno\n\n\n2\nhugua\ndos\n\n\n3\ntulu\ntres\n\n\n4\nfatfat\nkuåtro\n\n\n5\nlima\nsinko\n\n\n\n\nThe native numbers are Austronesian to the core — compare hugua ‘two’ and lima ‘five’ with Malay dua, lima and Hawaiian lua, lima\nThe Spanish set is typically used for money, time, and ages\n\nThe Spanish layer: Spain colonized the Marianas from the 1600s until 1898, and left a heavy imprint on Chamorro vocabulary — days of the week, much of the Catholic vocabulary, and everyday words. Si Yu’os ma’åse’ (“thank you”) literally means “God have mercy.”\n\nDiscuss: Why might a language keep both a native and a borrowed set of numbers, and use them for different jobs?\n\n\nSpanish numbers are used for money, time, and age; the native set is used in other counting contexts. Verify spellings/diacritics with a Chamorro speaker or the Chamorro Language Commission before class. Sets up the Marshallese/Bislama language-contact discussion later."
   },
   {
-    "objectID": "10-1.html#language-and-local-knowledge",
-    "href": "10-1.html#language-and-local-knowledge",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Language and Local Knowledge",
-    "text": "Language and Local Knowledge\nKale’s connection: in BOT 444 (Ethnoecology), Kale has studied how Indigenous and Local Knowledge (ILK) develops over generations through a community’s relationship with its environment — and noticed this tracks closely with how Lynch describes language diverging through geographic and social separation.\nKale’s question: could neighboring language groups in Melanesia have different names, classifications, or knowledge systems for the same plants and animals?\n\nDiscuss: If language and ecological knowledge both diverge through isolation, which one do you think usually changes first?\n\n\nThis is a strong interdisciplinary connection — worth explicitly praising in class. If no one has a confident answer to the discuss prompt, that’s fine; the point is raising the possibility that linguistic diversity and biocultural diversity are entangled, not resolving it today."
+    "objectID": "micronesia.html#palau",
+    "href": "micronesia.html#palau",
+    "title": "The Languages of Micronesia",
+    "section": "Palau 🇵🇼",
+    "text": "Palau 🇵🇼"
   },
   {
-    "objectID": "10-1.html#kales-question-globally",
-    "href": "10-1.html#kales-question-globally",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Kale’s Question, Globally",
-    "text": "Kale’s Question, Globally\nDavid Harmon (1996) compared the countries with the most endemic languages (found nowhere else) to the countries with the most endemic vertebrate species (mammals, reptiles, birds, amphibians found nowhere else).\n\n64% overlap between the top 25 countries on each list\nPapua New Guinea ranks #1 for endemic languages (847) and in the top 10 for endemic vertebrate species\nHis explanation: the same conditions — rugged terrain, isolation, small-scale societies — that let species diverge into new forms also let languages diverge into new forms. One doesn’t cause the other; both are downstream of the same isolation\n\n\nDiscuss: Harmon’s explanation is about geographic isolation producing both effects in parallel. How does this compare to François’s claim (from the Vanuatu slides) that language diversity is partly deliberate, not just a byproduct of isolation? Could both be true at once?\n\n\nAnswers Kale’s question at the macro/statistical level: diversity of language and diversity of species co-occur geographically, worldwide, not just impressionistically in Melanesia. Harmon (1996), Southwest Journal of Linguistics. Good moment to have students hold two explanations in tension rather than picking one — isolation-as-shared-cause (Harmon) vs. deliberate differentiation (François) aren’t mutually exclusive."
+    "objectID": "micronesia.html#palau-1",
+    "href": "micronesia.html#palau-1",
+    "title": "The Languages of Micronesia",
+    "section": "Palau 🇵🇼",
+    "text": "Palau 🇵🇼\n\n\nPalauan — also outside the Oceanic subgroup, like Chamorro, but its migration route is much less certain than Chamorro’s\n\nSix remote outer atolls of Palau (Sonsorol, Pulo Anna, Merir, Tobi) speak a totally different, unrelated language: Sonsorol-Tobi, actually part of the Chuukic group tied to Yap State — a reminder that national borders and language families don’t line up\nHistorical link to Yap: Yapese stone money (“rai”) was literally quarried in Palau, and Yapese has a number of Palauan loanwords from that contact\n\n\n\n\nYapese stone money (rai)"
   },
   {
-    "objectID": "10-1.html#example",
-    "href": "10-1.html#example",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "Example",
-    "text": "Example\nA concrete case: the Kalam people of the Upper Kaironk Valley, Papua New Guinea highlands (~13,000 speakers).\n\n\nZoology (Bulmer 1967): Kalam classify cassowaries separately from all other birds — not by mistake, but because cassowaries occupy a unique role in Kalam thought and ritual. Their system also sorts animals by habitat (forest vs. garden vs. homestead; aerial vs. terrestrial vs. underground), not just by body shape the way Western biology does.\n\n\nBotany (Gardner 2010): Kalam distinguish roughly 500 named plants — many finer-grained than Western scientific species, some grouping things Western botany splits apart.\n\nDiscuss: Bulmer titled his paper “Why is the cassowary not a bird?” What does it tell us that this is a real, serious research question?\n\n\n\nThis is the direct, concrete answer to Kale’s original question — yes, a documented Melanesian group has a classification system for plants/animals that diverges meaningfully from both Western science and (presumably) from neighboring groups, though a direct neighbor-to-neighbor comparison wasn’t found in this search. Emphasize: Kalam taxonomy isn’t “wrong” or “primitive” — it’s organized around different, equally coherent criteria (ritual significance, habitat, practical use) rather than evolutionary descent."
+    "objectID": "micronesia.html#palauan-the-japanese-layer",
+    "href": "micronesia.html#palauan-the-japanese-layer",
+    "title": "The Languages of Micronesia",
+    "section": "Palauan: The Japanese Layer",
+    "text": "Palauan: The Japanese Layer\nJust as Spanish left its mark on Chamorro, Japanese left its mark on Palauan.\n\n\n\nJapan administered Palau from 1914 to 1944 and introduced Japanese-language schooling right away\nHundreds of Japanese loanwords entered everyday Palauan (one study counts 850+), and many are still in use today, though fewer than a generation ago\nJapanese rule also brought surnames into common use — civil records like birth certificates, marriage licenses, and inheritance required them\nFun fact: the state of Angaur’s constitution has recognized Japanese as an official language, alongside Palauan and English\n\n\n\n\n\nPalauan\nMeaning\nJapanese\n\n\n\n\nsensei\nteacher\nsensei\n\n\nbento\nfood eaten away from home\nbentō\n\n\ndengki\nelectricity\ndenki\n\n\ndengua\ntelephone\ndenwa\n\n\nsimbung\nnewspaper\nshinbun\n\n\nskoki\nairplane\nhikōki\n\n\nsidosia\ncar, automobile\njidōsha\n\n\niakiu\nbaseball\nyakyū\n\n\n\n\n\nDiscuss: Chamorro has a Spanish layer, Palauan has a Japanese layer. What does this tell us about how a colonial language’s imprint depends on who ruled, for how long, and through what institutions (schools, government, church)?\n\n\nCompare directly with the Chamorro “Spanish layer” note: different colonizer, different institutional channel (church vs. schooling/civil administration). Sources: Long & Imamura, “The Japanese Language in Palau”; “The Changes in the Use of Japanese Loanwords in Palauan” (J-STAGE). The Angaur detail is widely reported — double-check wording before class if you want to state it precisely. Loanword spellings and glosses are from the New Palauan–English Dictionary (Josephs 1990), as compiled at faroutliers.com; the Japanese source forms are my own matching. Notice how many are modern technology and institutions (electricity, telephone, newspaper, airplane, car), plus baseball. Palauan orthography: ng = velar nasal, ch = glottal stop. If the slide overflows, drop a row or two from the table."
   },
   {
-    "objectID": "10-1.html#this-research-is-happening-right-now",
-    "href": "10-1.html#this-research-is-happening-right-now",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "This Research Is Happening Right Now",
-    "text": "This Research Is Happening Right Now\nA 2024 PhD dissertation — from right here at UH Mānoa — documented exactly this kind of plant knowledge for the Abui people of Alor Island, eastern Indonesia (A.L. Blake, advised by Gary Holton). It’s a direct, current answer to Kale’s question about how a group actually classifies plants.\n\n\nNames encode different kinds of knowledge, not just appearance:\n\nal fiyaai “nettlespurge,” lit. “Islam candlenut” — two plants that look nothing alike, linked because both were burned for lamp oil; the name preserves history, not shape\nfia beeka “fern bad” — marks a fern as inedible, in contrast to “good” (edible) ferns — classification by utility\nkupai meeting “forest betel-vine” — classification by habitat\n\n\nMetaphor drives the categories, often from the body or animals:\n\nkaai hawet “Ziziphus,” lit. “dog its teeth” (thorns)\nwata muur “pomelo,” lit. “coconut citrus” (fruit size)\nkatiki “Conyza,” lit. “loincloth broke” (shredded-looking leaves)\n\n\nDiscuss: Western botany classifies primarily by evolutionary descent. Abui plant names show at least five other organizing logics — history, utility, habitat, body-part metaphor, taxonomic prototype. Is any one of these more “correct” than the others?\n\n\n\nThis is the most direct, current answer to Kale’s actual question. Good closing move on the Kale thread: shows this isn’t settled 1960s-70s scholarship (Bulmer) — it’s live research, happening now, at Andy’s own institution, on a different island group from Vanuatu/PNG, reinforcing that this pattern isn’t one-off. The “metaphor hardening into taxonomy” point (alokai example) is worth dwelling on — it shows folk classification isn’t a fixed system handed down unchanged, it’s actively being renegotiated as new plants and new generations enter the picture."
+    "objectID": "micronesia.html#listen-palauan",
+    "href": "micronesia.html#listen-palauan",
+    "title": "The Languages of Micronesia",
+    "section": "Listen: Palauan",
+    "text": "Listen: Palauan\n\nOluchel speaking Palauan — Wikitongues language archive\n\nEmbedded directly from Wikitongues’ YouTube video. A nice way to let students actually hear the language we’ve been talking about in the abstract."
   },
   {
-    "objectID": "10-1.html#from-pidgin-to-mother-tongue",
-    "href": "10-1.html#from-pidgin-to-mother-tongue",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "From Pidgin to Mother Tongue",
-    "text": "From Pidgin to Mother Tongue\nFrancesca’s question: Bislama, Tok Pisin, and Pijin all started as simplified contact languages for 19th-century trade and plantation labor — how does a language like that become someone’s actual first language?\n\nThe short answer: urbanization, not a deliberate decision. As towns like Port Vila, Port Moresby, and Honiara grew, people from many different indigenous-language backgrounds ended up living side by side\nWith no single shared indigenous language in these mixed communities, the pidgin — already everyone’s common second language — became the only shared language of daily life\nAdults kept making the pidgin more expressive through ordinary creative use, even before any child spoke it natively\nOnce children in these communities grew up hearing only the pidgin at home, it became their native language — this is creolization: pidgin → creole happens when a generation of kids acquires it as a first language\nThe scale today: Tok Pisin alone has an estimated 3-5 million speakers, many now native\n\n\nDiscuss: This is the same process (urbanization, a shared contact language taking over daily life) driving the Bislama/indigenous-language shift from earlier in class. Is a pidgin becoming a creole a loss, a gain, or both?\n\n\nDirect answer to Francesca’s question, and a nice bridge back to Dyllan’s endangerment thread — same underlying mechanism (urbanization + a dominant contact language) creates new creole-speaking generations AND erodes smaller indigenous languages simultaneously. Worth being explicit that this is not a contradiction, it’s the same process viewed from two angles."
+    "objectID": "micronesia.html#fsm",
+    "href": "micronesia.html#fsm",
+    "title": "The Languages of Micronesia",
+    "section": "FSM 🇫🇲",
+    "text": "FSM 🇫🇲"
   },
   {
-    "objectID": "10-1.html#one-person-several-languages",
-    "href": "10-1.html#one-person-several-languages",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "One Person, Several Languages",
-    "text": "One Person, Several Languages\nLinguists call it domain-based language choice (or, when it’s stable over time, diglossia): multilingual speakers don’t use their languages interchangeably — they assign specific languages to specific settings, like home, school, work, or religion.\n\n\nChloe’s post: growing up in Hawai’i with a Chinese family background, Chloe noticed she speaks differently depending on who she’s talking to — English at school, another language at home — and connected this to why multilingualism is so common across the Pacific.\nHanna’s post: a student from Ecuador who speaks four languages, Hanna noticed the exact triglossic pattern Lynch describes for Vanuatu (local language at home, Bislama in public, English/French at school) in her own life — German and Spanish with family, English for university, English and Spanish with roommates in Hawai’i.\n\nKiana’s question: multilingualism in Melanesia/Polynesia often develops out of necessity, not choice — does that change how it’s experienced? In Kiana’s own social circles, people react to multilingualism with excitement, suspicion, or by “dumbing down” their speech around less-fluent listeners. Do speakers in the Pacific relate to their own multilingualism the same way?\n\nDiscuss: Map your own languages (or registers, slang, codes) onto their domains — which goes with which setting? Then: does multilingualism by necessity feel different from multilingualism by choice?\n\n\n\n~5-7 min. Leading with the concept (domain-based choice / diglossia) is what this slide was missing — Chloe and Hanna’s posts are both textbook illustrations of it, not just personal anecdotes. Don’t let it stay abstract — if the room is quiet, offer your own example first. Kiana’s question is good to leave genuinely open as the close of the discussion-posts section — it pushes students past treating multilingualism as self-evidently good, into examining their own assumptions."
+    "objectID": "micronesia.html#fsm-1",
+    "href": "micronesia.html#fsm-1",
+    "title": "The Languages of Micronesia",
+    "section": "FSM 🇫🇲",
+    "text": "FSM 🇫🇲\nThe Federated States of Micronesia is four states, each with its own language — and those four languages fall into two very different linguistic categories.\n\n\nYapese stands alone — an early, separate branch of Oceanic (~1400 BC), not part of the “Nuclear Micronesian” group the other three belong to.\n\nChuukese, Pohnpeian, and Kosraean are all Nuclear Micronesian — descended from one shared ancestor, Proto-Micronesian, that spread out from the eastern end of Micronesia.\n\n\n\nSet up the two sub-threads before diving into states individually: (1) Yap is the outlier, (2) the other three share deep common ancestry. This primes the Chuukic-continuum material coming up under Chuuk."
   },
   {
-    "objectID": "10-1.html#for-tuesday",
-    "href": "10-1.html#for-tuesday",
-    "title": "Multilingualism & Language Diversity (cont.)",
-    "section": "For Tuesday",
-    "text": "For Tuesday\n\nQuiz 2 closes Friday, October 2 at 11:59pm\nRead Ch. 9 - The Languages of Micronesia (Bender) (13 pgs.)\nKeep in mind: Writing Assignment 1 First Draft due Friday, October 9 at 11:59pm\n\n\n\n~4 min. Exit ticket, silent writing."
+    "objectID": "micronesia.html#yap",
+    "href": "micronesia.html#yap",
+    "title": "The Languages of Micronesia",
+    "section": "Yap",
+    "text": "Yap\n\n\nYapese stands alone among the FSM’s languages — possibly linked to the Admiralty Islands, not part of “Nuclear Micronesian” at all.\n\nThe high island of Yap has historically provided famine relief to its surrounding atolls (Ulithi, Woleai, etc.) during typhoons — a tribute relationship sometimes called the Yap Empire\nThose outer-atoll languages (Ulithian, Woleaian, Satawalese, and others) are actually part of the Chuukic continuum — more on that next"
+  },
+  {
+    "objectID": "micronesia.html#chuuk",
+    "href": "micronesia.html#chuuk",
+    "title": "The Languages of Micronesia",
+    "section": "Chuuk",
+    "text": "Chuuk"
+  },
+  {
+    "objectID": "micronesia.html#chuuk-1",
+    "href": "micronesia.html#chuuk-1",
+    "title": "The Languages of Micronesia",
+    "section": "Chuuk",
+    "text": "Chuuk\nA great real-world test of the “language limit” idea from Week 5 (Cook, cognates): roughly 70% shared basic vocabulary is the rough cutoff between “dialect” and “different language.”\n\n\nCognate percentages across six related Chuukic varieties (Bender 1971):\n\n\n\n\nSon.\nUli.\nWol.\nSat.\nPul.\n\n\n\n\nUlithi\n68.8\n\n\n\n\n\n\nWoleai\n59.4\n74.1\n\n\n\n\n\nSatawal\n57.5\n65.5\n77.1\n\n\n\n\nPuluwat\n58.0\n63.6\n67.5\n79.9\n\n\n\nChuuk\n55.4\n56.6\n57.7\n64.4\n75.4\n\n\n\n\nNeighboring pairs hover right around that 70% line — classic dialect continuum. Pairs farther apart on the chain drop well below it.\n\n\nDiscuss: Given these numbers, is it more accurate to say Chuukic is “six languages” or “one language with six dialects”? Does the question even have a clean answer?\n\n\nThis is the strongest connective-tissue moment in the whole deck — ties directly back to the cognates/comparative method unit from two weeks ago. Worth slowing down here rather than rushing through."
+  },
+  {
+    "objectID": "micronesia.html#pohnpei",
+    "href": "micronesia.html#pohnpei",
+    "title": "The Languages of Micronesia",
+    "section": "Pohnpei",
+    "text": "Pohnpei\n\n\n\nPohnpeian is part of the Pohnpeic branch of Nuclear Micronesian, with its own satellite atoll languages (Mokilese, Pingilapese, Ngatikese)\nTwo unrelated Polynesian Outlier languages — Kapingamarangi and Nukuoro — are also spoken in Pohnpei State, despite being geographically deep in Micronesia. Their speakers arrived via Tuvalu around 1000 AD\nNan Madol — the massive stone ruins on Pohnpei — may be linked to the rise of an early, breadfruit-fueled Micronesian society\n\n\n\n\nNan Madol ruins, Pohnpei\n\n\n\nDiscuss: Kapingamarangi and Nukuoro are Polynesian languages spoken in Micronesia. What does that tell us about the difference between a geographic region and a linguistic one?"
+  },
+  {
+    "objectID": "micronesia.html#kosrae",
+    "href": "micronesia.html#kosrae",
+    "title": "The Languages of Micronesia",
+    "section": "Kosrae",
+    "text": "Kosrae\n\n\n\nKosraean may be the closest thing to a “homeland” for all of Nuclear Micronesian — genetic-tree evidence (Ross 1996) points to Kosrae as the likely point of origin\nIt’s the only high island among the four easternmost points of Micronesia (with Nauru, northern Kiribati, and the southern Marshalls) — more land, fresh water, and room for sustained settlement than an atoll offers\nLelu, Kosrae’s own set of stone ruins, parallels Nan Madol on Pohnpei"
+  },
+  {
+    "objectID": "micronesia.html#marshall-islands",
+    "href": "micronesia.html#marshall-islands",
+    "title": "The Languages of Micronesia",
+    "section": "Marshall Islands 🇲🇭",
+    "text": "Marshall Islands 🇲🇭"
+  },
+  {
+    "objectID": "micronesia.html#marshall-islands-1",
+    "href": "micronesia.html#marshall-islands-1",
+    "title": "The Languages of Micronesia",
+    "section": "Marshall Islands 🇲🇭",
+    "text": "Marshall Islands 🇲🇭\nBender uses Marshallese as the chapter’s showcase for Nuclear Micronesian grammar — a few standout features:\n\n\n\nTwo words for “we”, depending on whether the listener is included or not (inclusive vs. exclusive)\nAn elaborate demonstrative system layered on person (“close to me” vs. “close to you” vs. “close to someone else”) and human/nonhuman distinctions\nDirectional suffixes that fuse onto verbs for compass directions, sea vs. land, even “toward the lagoon” vs. “toward the ocean side”\n\n\n\n\nMarshallese stick chart (directional/wave navigation)\n\n\nA Marshallese language commissioner, writing to Bender about the capital Majuro, describes watching Marshallese (Kajin Ṃajeḷ, “KM”) lose ground to English (Kajin Pālle, “KP”) in real time: code-mixed parliamentary debates, kids raised in English when one parent isn’t Marshallese, phone numbers given in English even by people who know the Marshallese words, DVDs flooding households with English.\n\nDiscuss: The commissioner calls this “the beginning of the demise of KM.” Compare this to what we discussed last class about Bislama and Vanuatu’s indigenous languages — same mechanism, different island group?\n\n\nThis quote is genuinely moving in context — consider reading it aloud rather than summarizing. Strong bridge back to Tuesday’s Vanuatu/Bislama material and the Abui semantic-convergence slide; same underlying process (urbanization, a dominant contact/colonial language, generational break in transmission) recurring across completely different parts of the Pacific."
+  },
+  {
+    "objectID": "micronesia.html#nauru-naoero",
+    "href": "micronesia.html#nauru-naoero",
+    "title": "The Languages of Micronesia",
+    "section": "Nauru (Naoero) 🇳🇷",
+    "text": "Nauru (Naoero) 🇳🇷"
+  },
+  {
+    "objectID": "micronesia.html#nauru-naoero-1",
+    "href": "micronesia.html#nauru-naoero-1",
+    "title": "The Languages of Micronesia",
+    "section": "Nauru (Naoero) 🇳🇷",
+    "text": "Nauru (Naoero) 🇳🇷\n\nThe world’s smallest independent nation — just 8 sq. mi.\nNauruan is Nuclear Micronesian, but highly distinct from its nearest relatives — had it been included in the 2003 Proto-Micronesian reconstruction study, it likely would have formed its own top-level branch, just like Kosraean, Marshallese, and Kiribati each do\nTogether, Nauru, Kosrae, the southern Marshalls, and northern Kiribati form a roughly 500-mile “quadrilateral” that’s the best candidate for where Nuclear Micronesian first took root"
+  },
+  {
+    "objectID": "micronesia.html#kiribati",
+    "href": "micronesia.html#kiribati",
+    "title": "The Languages of Micronesia",
+    "section": "Kiribati 🇰🇮",
+    "text": "Kiribati 🇰🇮"
+  },
+  {
+    "objectID": "micronesia.html#kiribati-1",
+    "href": "micronesia.html#kiribati-1",
+    "title": "The Languages of Micronesia",
+    "section": "Kiribati 🇰🇮",
+    "text": "Kiribati 🇰🇮\n\nLikely the first landfall of the Nuclear Micronesian migration out of the southeast Solomons — a 1,100-mile voyage, around 3,000 years ago\nEntirely atolls — no point in the country rises more than 33 ft. above sea level\nA live, current existential threat: when Bender wrote this chapter, Kiribati had purchased land in Fiji and President Anote Tong was framing eventual relocation as “migration with dignity.”\nKiribati’s current president, Taneti Maamau (reelected 2024), has taken the opposite approach: rather than planning to relocate, his government is pursuing large-scale land reclamation and dredging — physically raising and expanding the islands, backed by Chinese aid — to stay in place\nEither way — relocating or raising the land — much of the atoll-specific vocabulary (navigation, fishing, canoe parts, star names) is tied to a way of life that’s already under pressure\n\n\nDiscuss: Two very different responses to the same threat — leave, or raise the land. What might each one mean for the long-term survival of the language?\n\n\nUpdated from Bender’s original framing: Tong’s “migration with dignity” was the policy in place when the chapter was written, but Maamau has since reversed course. Good moment to note that even a 2012-ish chapter can go out of date on fast-moving political material — model that kind of source-checking for students."
+  },
+  {
+    "objectID": "micronesia.html#activity-relocate-or-raise-the-land-12-min",
+    "href": "micronesia.html#activity-relocate-or-raise-the-land-12-min",
+    "title": "The Languages of Micronesia",
+    "section": "Activity: Relocate or Raise the Land? (12 min)",
+    "text": "Activity: Relocate or Raise the Land? (12 min)\nForm groups of 4. Each group is assigned a side (split the room in half):\n\n\nTeam Relocate\nKiribati should plan for “migration with dignity” — resettle its people abroad over time.\n\nTeam Raise the Land\nKiribati should stay: dredge, reclaim, and raise the islands.\n\nYour job (6 min): make the best case for your side using language and culture survival as your main criterion. Draw on today’s slides:\n\nAtoll vocabulary tied to a way of life (Living on a Life Raft)\nMarshallese in Majuro vs. Springdale, Arkansas\nCarolinian on Saipan; Mortlock Islanders on Pohnpei\n\nThen (6 min): pair with a group from the other side. Each side gets 90 seconds, then you try to find one point of agreement.\n\nTiming: ~1 min set-up, 6 min prep, 6 min cross-group pairing, ~3 min whole-class debrief (total about 12-15 min). Debrief questions: What did each side have to assume about language survival? Does a language need a place? Who gets to decide, and who was left out of the policy debate? Remind students this is a live political question for real communities, so aim for good-faith argument, not mockery. Tie directly into the exit ticket right after. A source worth having handy: coverage of Maamau’s land-reclamation plans and Tong’s “migration with dignity” (the Kiribati slide above already summarizes both)."
+  },
+  {
+    "objectID": "micronesia.html#modern-day-pressures",
+    "href": "micronesia.html#modern-day-pressures",
+    "title": "The Languages of Micronesia",
+    "section": "Modern-Day Pressures",
+    "text": "Modern-Day Pressures\nAcross all of Micronesia, the same underlying forces are reshaping language use, regardless of which specific islands or languages are involved:\n\nRapid urbanization — Majuro, Koror, Weno, Kolonia — pulls people off outer islands and atolls into crowded town centers\nA cash economy replaces subsistence fishing/farming, and with it, the specialized vocabulary tied to those practices\nEnglish spreads through schooling, media, and intermarriage, often becoming the de facto home language for the next generation\nThe US military presence at Kwajalein (Marshall Islands) is its own distinct pressure — a missile testing range that has reshaped Marshallese land use and labor for decades\n\n\nSynthesis slide pulling together Bender’s §8 “Modern-Day Micronesia” material — meant to generalize the Marshallese KM/KP story so students see it as a regional pattern, not a one-off."
+  },
+  {
+    "objectID": "micronesia.html#the-compact-of-free-association-cofa",
+    "href": "micronesia.html#the-compact-of-free-association-cofa",
+    "title": "The Languages of Micronesia",
+    "section": "The Compact of Free Association (COFA)",
+    "text": "The Compact of Free Association (COFA)\nThe FSM, the Marshall Islands, and Palau are independent nations, but each has a Compact of Free Association with the US — not colonies, but closely bound by treaty.\n\nCitizens of all three can live, work, and study in the US without a visa — this is why Micronesian communities exist across the US mainland and Hawai’i\nCOFA funding was renewed in 2024: $7.1 billion over 20 years ($3.3B to FSM, $2.3B to RMI, $889M to Palau). Separately, Medicaid eligibility for COFA citizens living in the US was restored by Congress in December 2020, after being cut off by the 1996 welfare reform law\nThis free-movement relationship is a major driver of the diaspora communities we’re about to look at"
+  },
+  {
+    "objectID": "micronesia.html#the-marshallese-diaspora-springdale-arkansas",
+    "href": "micronesia.html#the-marshallese-diaspora-springdale-arkansas",
+    "title": "The Languages of Micronesia",
+    "section": "The Marshallese Diaspora: Springdale, Arkansas",
+    "text": "The Marshallese Diaspora: Springdale, Arkansas\n\nSpringdale is now home to an estimated 12,000-15,000 Marshallese residents — the largest Marshallese community outside the Marshall Islands themselves\nDrawn originally by poultry-industry jobs, enabled by COFA’s visa-free travel\nThe community has built real institutional infrastructure: more than 30 Marshallese churches, a Marshallese-language radio station, and an RMI consulate — the only one in the continental US\nAn open question for a diaspora this size: does that infrastructure make it easier to maintain Kajin Ṃajeḷ across generations than it’s been in Majuro itself, where English pressure is also intense?\n\n\nDiscuss: Compare Springdale to the Chamorro/Carolinian bilingualism on Saipan, or to the KM/KP situation in Majuro. Does moving away from the homeland always mean faster language loss — or could it sometimes mean the opposite?\n\n\nDeliberately leaves this open — there’s a real research question here about whether concentrated diaspora communities with their own institutions can sometimes outperform the homeland at heritage-language maintenance. Good forward pointer to Week 11 (language endangerment/maintenance)."
+  },
+  {
+    "objectID": "micronesia.html#closer-to-home-micronesians-in-hawaii",
+    "href": "micronesia.html#closer-to-home-micronesians-in-hawaii",
+    "title": "The Languages of Micronesia",
+    "section": "Closer to Home: Micronesians in Hawai’i",
+    "text": "Closer to Home: Micronesians in Hawai’i\nHawai’i is home to a large COFA migrant community — and the discrimination against it is well documented.\n\nA 2019 U.S. Commission on Civil Rights report found Micronesian migrants face substantial barriers to housing, employment, healthcare, and education in Hawai’i — including landlords who refuse to rent to them and employers who won’t hire them\nHealth coverage: the 1996 federal welfare reform law cut COFA migrants off from Medicaid. Around 2010 Hawai’i moved them to a more limited state-funded plan, and in 2014 the Ninth Circuit (Korab v. Fink) held the state wasn’t required to make up the lost federal funding. Congress only restored Medicaid eligibility in December 2020\nCOVID-19: Pacific Islanders (a category that includes Micronesians) were about 5% of Hawai’i’s population but about 22% of cases from March 2020 to February 2021 — an infection rate roughly 4.8 times the state average (7,070 vs. 1,477 per 100,000)\nUH Mānoa’s own Thompson School of Social Work has studied discrimination directly, documenting Micronesians being stereotyped in local public discourse as “dirty,” “uneducated,” or a drain on the healthcare and welfare systems — stereotypes not supported by the data on actual service use\n\n\nDiscuss: We’ve spent today’s class treating Micronesian languages and peoples as subjects of academic study. What’s it like to realize this community’s everyday experience, here in the state where many of us live, includes this level of bias?\n\n\nDeliberately placed right after the Springdale/COFA material, in the “closer to home” slot — this is not a distant case study, it’s happening in Honolulu and across the state where (presumably) most students live. Handle with care: name the documented facts (the 2019 USCCR report, the Korab v. Fink Medicaid case, the COVID-19 case data, the UH Mānoa study). Note the COVID figures are for all Pacific Islanders, not Micronesians alone; Hawai’i DOH and the 2021 Hawai’i Advisory Committee report discuss COFA migrants specifically, including that Micronesians were overrepresented among cases and in COVID-order arrests. Likely contributing factors reported: crowded multigenerational housing, frontline jobs (hotels, airport, food service), and limited insurance access rather than generalizing about “Hawai’i locals” as a monolith, and don’t let the discussion collapse into guilt — the aim is awareness and connecting it back to the language-vitality themes from the rest of the lecture (the same communities whose languages we just spent an hour on are the ones facing this). If any FAS/Micronesian students are in the room, be mindful they may have lived experience here — don’t put anyone on the spot to represent “the community.”"
+  },
+  {
+    "objectID": "micronesia.html#exit-ticket-4-min",
+    "href": "micronesia.html#exit-ticket-4-min",
+    "title": "The Languages of Micronesia",
+    "section": "Exit Ticket (4 min)",
+    "text": "Exit Ticket (4 min)\nWrite silently; we’ll collect these on the way out.\n\nIf your family or community had to relocate entirely to a new country, what part of your language or culture do you think would survive the move, and what might not?\n\n\n~4 min, silent writing. Direct callback to today’s Kiribati relocation discussion and the Springdale diaspora slide — personalizes the same question Kiribati and Marshallese communities are actually facing."
+  },
+  {
+    "objectID": "micronesia.html#for-thursday",
+    "href": "micronesia.html#for-thursday",
+    "title": "The Languages of Micronesia",
+    "section": "For Thursday",
+    "text": "For Thursday\n\nRead Ch. 10 - The Languages of Polynesia (Schütz) (15 pgs.)\nWriting Assignment 1 First Draft due Friday, October 9 at 11:59pm\nQuiz #3 opens Friday, October 9 and closes Monday, October 12 at 11:59pm"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LINGUISTICS 150C",
+    "section": "",
+    "text": "Fall 2026 — University of Hawaiʻi at Mānoa"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "LINGUISTICS 150C",
+    "section": "1. Course Description",
+    "text": "1. Course Description\nThis course is an introduction to the languages of Hawaiʻi and the broader Pacific region. Topics covered include the prehistoric settlement of the Pacific and the history of the Austronesian language family, principles of historical language change, the organization of linguistic systems of sound and grammar, the social use of language, language contact and shift, pidgins and creoles, language endangerment and documentation, and language maintenance and revitalization.\nLING 150C has been approved for both Writing Intensive (WI) and Hawaiian, Asian and Pacific Issues (H or HAPS) focus. In order to receive WI and H credit, students must satisfy the specified course requirements, including the written assignments, as described in Sections 2.5 – 2.6.\n\n1.1 Student Learning Outcomes\nUpon successful completion of this course, students will:\n\nunderstand the breadth of linguistic diversity found in the Pacific region;\nunderstand similarities and differences among languages of the Pacific in terms of their structure, demographics, and use;\nbe able to describe how the study of language informs our understanding of culture, history, migration, and politics in the Pacific;\nunderstand the relationships between different groups in the Pacific through language contact;\nbe able to independently carry out research regarding language in the Pacific region; and\nbe able to describe in formal prose aspects of language structure and use in the Pacific."
+  },
+  {
+    "objectID": "index.html#grading-and-course-requirements",
+    "href": "index.html#grading-and-course-requirements",
+    "title": "LINGUISTICS 150C",
+    "section": "2. Grading and Course Requirements",
+    "text": "2. Grading and Course Requirements\n\n\n\n\n\n\n\n\nComponent\nWeight\nNotes\n\n\n\n\nParticipation\n10%\nAttendance + journal + Lamākū discussion posts\n\n\nQuizzes (4 total)\n10%\nOnline via Lamākū; released Fridays\n\n\nMidterm Exam\n20%\nIn-class; open notes (no laptops)\n\n\nWriting Assignment 1 – Language Autoethnography\n20%\nScaffolded: proposal → draft → final\n\n\nFinal Presentation\n15%\n10 min in-class; Weeks 15–16\n\n\nFinal Paper\n25%\nScaffolded: 2500 words; due Finals Week\n\n\n\n\n2.1 Grading Scale\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA+\nA\nA−\nB+\nB\nB−\nC+\nC\nC−\nD+\nD\nD−\nF\n\n\n\n\n98–100\n93–97\n90–92\n87–89\n83–86\n80–82\n77–79\n73–76\n70–72\n67–69\n63–66\n60–62\n59 and below\n\n\n\nFinal grades will be rounded (e.g., 87.5 → 88 = B+; 92.4 → 92 = A–). Grades will not be curved.\n\n\n2.2 Participation (10%)\nYour participation grade is made up of three components:\n\nAttendance & Journal – I will take attendance at the start of each class, usually with a brief journal prompt. Please bring a physical notebook to every class. Journals must be handwritten. If you have extenuating circumstances requiring you to miss class, contact me as soon as possible.\nLamākū Discussion Posts – You are responsible for 9 discussion posts over the semester, based on a prompt, and released roughly weekly. Each post must be at least 100 words. These posts contribute to your Writing Intensive (WI) requirement.\nSyllabus Quiz – A short quiz on the syllabus will be available in Week 1 on Lamākū. It familiarizes you with the course structure and the quiz format.\n\n\n\n2.3 Quizzes (10%)\nThere will be 4 online quizzes administered through Lamākū. Each quiz will be 10 questions (multiple choice, true/false, fill-in-the-blank, and 1–2 short answer questions) with a 1-hour limit and one attempt. Quizzes will be released on Fridays and close the following Monday at 11:55pm. They cover all course reader and lecture material up to that point. Because quizzes close automatically, late submissions receive a score of 0.\n\n\n2.4 Midterm Exam (20%)\nThe midterm exam will be held in-class on Tuesday, October 27. It will cover all course reader and lecture material through Week 8. The exam will be 25–30 questions and open-notes (no textbook or internet). A review sheet will be distributed two weeks beforehand.\n\n\n2.5 Writing Assignment 1 – Language Autoethnography (20%)\nThe first writing assignment asks you to reflect on your own experiences with language in Hawaiʻi or the Pacific region. This may include reflecting on your family’s language history, your experience of language shift or maintenance, your relationship to a heritage language, or your observations of multilingualism in your community. The autoethnography should connect your personal narrative to course concepts and readings.\nWA1 is scaffolded across three stages, each contributing to the assignment grade:\n\nProposal (10%): ~200 words describing your focus and how it relates to course content. Due Friday, Sep 25.\nDraft (30%): Complete first draft of at least 750 words. Due Friday, Oct 9.\nFinal (60%): Revised final version incorporating instructor feedback. At least 750 words, excluding references. Due Friday, Oct 23.\n\nDetailed instructions will be posted on Lamākū in Week 2.\n\n\n2.6 Final Paper (25%)\nThe Final Paper is a focused research paper of at least 2,500 words (excluding references) on one language, country, or island in the Pacific region, on any topic related to one or more course readings and pre-approved by the instructor. The paper must cite at least 7 academic sources using a consistent citation style. The Final Paper replaces a final exam and is due during Finals Week via Lamākū.\nLike WA1, the final paper is scaffolded:\n\nTopic Idea (5%): ~100-150 words identifying a topic or a few topics that you would be interested in pursuing. Due Friday, October 30.\nPreliminary Sources and Initial Research Question (15%): 3 academic sources that you think might be appropriate to this topic, and why each one fits, along with your initial research question(s), including a short explanation of what you anticipate you will learn. Due Friday, Nov 6.\nDraft (25%): Complete first draft of at least 1,750 words. Due Friday, November 20.\nFinal Paper (45%): Complete revised final version of at least 2,500 words. Due the date and time of our final exam period (Tuesday, Dec 15 9:45 – 11:45 am).\nFinal Reflection (10%): Submitted at the same time as the final paper, ~300 words reflecting on the process of researching and writing your final paper.\n\nDetailed instructions will be posted on Lamākū in Week 6.\n\n\n2.7 Final Presentation (15%)\nFinal Presentations will take place during Weeks 15–16, after your first draft but before your final paper is due. Each student will have a 10-minute slot: 7–8 minutes of presentation plus 2–3 minutes for questions. Sign-up will be via Google Sheets in Week 14. Presentations will be graded on:\n\nClear research topic/question\nContent accuracy and relevance\nUse of at least 3 academic sources\nQuality and clarity of slides\nPresentation flow and organization\n\n\n\n2.8 Extra Credit\nThere is one extra credit opportunity, worth 4% added to your final grade:\n\nOptional 1-on-1 Meeting (Week 14): Meet with me for 7 minutes via Zoom or in-person at my office hours to discuss your Final Paper/Presentation plans. You must have submitted your Initial Research Question on time and be prepared to discuss your topic and presentation ideas."
+  },
+  {
+    "objectID": "index.html#course-policies",
+    "href": "index.html#course-policies",
+    "title": "LINGUISTICS 150C",
+    "section": "3. Course Policies",
+    "text": "3. Course Policies\n\n3.1 Lateness Policy\nLate writing assignments (WA1, Final Paper Components, Final Paper) will be penalized 5% for each day submitted after the deadline. It is always better to submit late for partial credit than not to submit at all. Quizzes cannot be taken late — they close automatically on Lamākū.\n\n\n3.2 Academic Honesty\nAcademic honesty is expected in this course. Academic dishonesty includes plagiarism and cheating. Students who violate the University rules on scholastic dishonesty will be subject to disciplinary penalties, including possible failure in the course and/or dismissal from the University. Policies will be strictly enforced.\n\n\n3.3 Generative AI Policy\nGenerative AI tools (including ChatGPT, Gemini, Copilot, and similar) may be used to support your thinking and polish your writing, but not to generate first drafts, summarize readings, or otherwise substitute for your own intellectual work. You are expected to be the primary author of all submitted work. If you use an AI tool in any assignment, you must include a brief statement at the top describing how you used it (e.g., “I used ChatGPT to check for grammatical errors after completing my draft.”) Undisclosed use of AI to produce substantive written content will be treated as academic dishonesty. When in doubt, ask me.\nKeep in mind: learning to write is learning to think. Overreliance on AI undermines the development of your own analytical skills — which is the whole point of a writing-intensive course.\n\n\n3.4 Accessibility and Accommodations (Kōkua)\nIf you are a student with a disability and have disability-related needs or concerns, please contact the Kōkua program: (808) 956-7511, kokua@hawaii.edu, or in person at the Queen Liliʻuokalani Center for Student Services, Room 013.\n\n\n3.5 Counseling and Wellness\nIf you are experiencing personal difficulties or excessive stress and do not feel comfortable speaking with me directly, the UHM Counseling Center is available to you: http://manoa.hawaii.edu/counseling/.\n\n\n3.6 Title IX\nAs a UH employee, I am required to promptly report incidents of sex discrimination or sex-based harassment to the Title IX Coordinator. If you have experienced sex discrimination or harassment and wish to speak with someone confidentially, contact the Confidential Mānoa Advocate at manoaadv@hawaii.edu or (808) 956-9499. For more information: https://manoa.hawaii.edu/titleix/resources/."
+  },
+  {
+    "objectID": "index.html#course-schedule",
+    "href": "index.html#course-schedule",
+    "title": "LINGUISTICS 150C",
+    "section": "4. Course Schedule",
+    "text": "4. Course Schedule\nThis schedule is subject to change. The UHM Academic Calendar with administrative deadlines (add/drop, withdrawal, etc.) can be found at https://manoa.hawaii.edu/registrar/academiccalendar/.\n\n\n\nWeek\nDates\nTopics\nReadings (before class)\nAssignments / Notes\n\n\n\n\n1\nAug 25 / 27\nCourse overview; Pacific geography and linguistic diversity\nCh. 1 – Introduction (Lynch)\nLamākū syllabus quiz (opens Fri 8/28, closes Mon 8/31)\n\n\n2\nSep 1 / 3\nHistory of the Austronesian languages\nCh. 2 – History of Austronesian (Blust)\nDiscussion Post #1 (closes Thu 9/3)\n\n\n3\nSep 8 / 10\nHistorical linguistics and the Oceanic subgroup\nCh. 3 – Historical Linguistics (Kikusawa)\nDiscussion Post #2; Quiz #1 (opens Fri 9/11, closes Mon 9/14)\n\n\n4\nSep 15 / 17\nSound systems; Typology and grammar\nCh. 4 (Harrison); Ch. 5 (Lichtenberk)\nDiscussion Post #3\n\n\n5\nSep 22 / 24\nComparative linguistics; Cognates\nCh. 6 – Cognates (Cook)\nWA1 Proposal due Fri 9/25; Quiz #2 (opens Fri 9/25, closes Mon 9/28)\n\n\n6\nSep 29 / Oct 1\nMultilingualism; Language diversity in the Pacific\nCh. 7 – Multilingualism (Lynch)\nDiscussion Post #4\n\n\n7\nOct 6 / 8\nLanguages of Micronesia; Languages of Polynesia\nCh. 9 (Bender); Ch. 10 (Schütz)\nWA1 Draft due Fri 10/9; Quiz #3 (opens Fri 10/9, closes Mon 10/12)\n\n\n8\nOct 13 / 15\nPidgins and Creoles; Hawaiian Pidgin\nCh. 13 (Meyerhoff); Ch. 14 (Sakoda & Siegel)\nDiscussion Post #5\n\n\n9\nOct 20 / 22\nLanguage contact and borrowing; Midterm review\nCh. 15 – Borrowing (Geraghty)\nWA1 Final due Fri 10/23; Quiz #4 (opens Fri 10/23, closes Mon 10/26)\n\n\n10\nOct 27 / 29\nMidterm Exam (Tue 10/27); Hawaiian literacy\nCh. 17 – Hawaiian Literacy (Schütz)\nMidterm Exam Tue 10/27; Discussion Post #6; Final Paper Topic Idea due Fri 10/30\n\n\n11\nNov 3 / 5\nLanguage endangerment (no class Tue 11/3 — Election Day)\nCh. 18 (Guérin & Yourupi)\nPreliminary Sources and Research Question due Fri 11/6\n\n\n12\nNov 10 / 12\nHawaiian & Māori language revitalization\nCh. 19 (Wilson); Ch. 20 – Māori Revitalization (Benton)\nDiscussion Post #7\n\n\n13\nNov 17 / 19\nLanguage documentation; UHM Linguistics Dept.\nCh. 21 (Thieberger); Ch. 22 (Grace)\nDraft due Fri 11/20\n\n\n14\nNov 24 / 26\nOptional 1-on-1 meetings (Tue 11/24); Thanksgiving (no class Thu 11/26)\n—\nDiscussion Post #8; sign up for presentation slot\n\n\n15\nDec 1 / 3\nFinal Presentations – Days 1 & 2\n—\n\n\n\n16\nDec 8 / 10\nFinal Presentations – Days 3 & 4\n—\nDiscussion Post #9 (last day of class Dec 10)\n\n\nFinals\nWeek of Dec 14\n—\n—\nFinal Paper due on Lamākū (Tuesday, Dec 15 11:45 am)\n\n\n\n\nNote on Course Readings\nAll readings are drawn from Languages of the Pacific Islands: Introductory Readings (LPI), edited by Hiroko Sato and Joel Bradshaw, and are available as a Course Reader on Lamākū. If you would like a physical copy of the Course Reader, contact me in the first two weeks of the semester."
   },
   {
     "objectID": "day11.html#journal-5-min",
@@ -350,45 +413,220 @@
     "text": "Exit Ticket\n\nWhich of the three factors — time, separation, or social structure — best explains a pattern of multilingualism (or its absence) in your own family or community?\n\nTake 3 minutes, write silently. Hang onto this — it may help with your autoethnography.\nReading for next class: Ch. 8, Bradshaw — see Lamākū for the schedule.\n\n~4 min. Exit ticket, silent writing."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LINGUISTICS 150C",
-    "section": "",
-    "text": "Fall 2026 — University of Hawaiʻi at Mānoa"
+    "objectID": "10-1.html#journal-5-min",
+    "href": "10-1.html#journal-5-min",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Journal (5 min)",
+    "text": "Journal (5 min)\nChoose one option and write silently. We’ll hear from a couple of people afterward.\n\n\nOption A\nHave you ever noticed a group (a friend group, a team, your hometown) deliberately speaking differently from a neighboring group, almost as a way of saying “we’re not them”? What did that look like?\n\nOption B\nDescribe a word or phrase that’s specific to your family, hometown, or friend group — something an outsider wouldn’t get. What would be lost if you stopped using it?\n\n\n~5 min: 4 min silent writing, then 1-2 volunteers share."
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "LINGUISTICS 150C",
-    "section": "1. Course Description",
-    "text": "1. Course Description\nThis course is an introduction to the languages of Hawaiʻi and the broader Pacific region. Topics covered include the prehistoric settlement of the Pacific and the history of the Austronesian language family, principles of historical language change, the organization of linguistic systems of sound and grammar, the social use of language, language contact and shift, pidgins and creoles, language endangerment and documentation, and language maintenance and revitalization.\nLING 150C has been approved for both Writing Intensive (WI) and Hawaiian, Asian and Pacific Issues (H or HAPS) focus. In order to receive WI and H credit, students must satisfy the specified course requirements, including the written assignments, as described in Sections 2.5 – 2.6.\n\n1.1 Student Learning Outcomes\nUpon successful completion of this course, students will:\n\nunderstand the breadth of linguistic diversity found in the Pacific region;\nunderstand similarities and differences among languages of the Pacific in terms of their structure, demographics, and use;\nbe able to describe how the study of language informs our understanding of culture, history, migration, and politics in the Pacific;\nunderstand the relationships between different groups in the Pacific through language contact;\nbe able to independently carry out research regarding language in the Pacific region; and\nbe able to describe in formal prose aspects of language structure and use in the Pacific."
+    "objectID": "10-1.html#reminders",
+    "href": "10-1.html#reminders",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Reminders",
+    "text": "Reminders\nQuiz 2 closes on Lamakū tomorrow, Friday, October 2 at 11:59pm. Only 7 of you have completed it so far — please finish it before the deadline.\nOffice Hours: Wednesdays/Fridays 1:30-2:30pm in Moore Hall 574 or on Zoom\n\nIf you can’t make that time, email me to set up a different time.\n\nWriting Assignment 1 Draft is due next Friday, October 9 at 11:59pm\n\n750 words"
   },
   {
-    "objectID": "index.html#grading-and-course-requirements",
-    "href": "index.html#grading-and-course-requirements",
-    "title": "LINGUISTICS 150C",
-    "section": "2. Grading and Course Requirements",
-    "text": "2. Grading and Course Requirements\n\n\n\n\n\n\n\n\nComponent\nWeight\nNotes\n\n\n\n\nParticipation\n10%\nAttendance + journal + Lamākū discussion posts\n\n\nQuizzes (4 total)\n10%\nOnline via Lamākū; released Fridays\n\n\nMidterm Exam\n20%\nIn-class; open notes (no laptops)\n\n\nWriting Assignment 1 – Language Autoethnography\n20%\nScaffolded: proposal → draft → final\n\n\nFinal Presentation\n15%\n10 min in-class; Weeks 15–16\n\n\nFinal Paper\n25%\nScaffolded: 2500 words; due Finals Week\n\n\n\n\n2.1 Grading Scale\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA+\nA\nA−\nB+\nB\nB−\nC+\nC\nC−\nD+\nD\nD−\nF\n\n\n\n\n98–100\n93–97\n90–92\n87–89\n83–86\n80–82\n77–79\n73–76\n70–72\n67–69\n63–66\n60–62\n59 and below\n\n\n\nFinal grades will be rounded (e.g., 87.5 → 88 = B+; 92.4 → 92 = A–). Grades will not be curved.\n\n\n2.2 Participation (10%)\nYour participation grade is made up of three components:\n\nAttendance & Journal – I will take attendance at the start of each class, usually with a brief journal prompt. Please bring a physical notebook to every class. Journals must be handwritten. If you have extenuating circumstances requiring you to miss class, contact me as soon as possible.\nLamākū Discussion Posts – You are responsible for 9 discussion posts over the semester, based on a prompt, and released roughly weekly. Each post must be at least 100 words. These posts contribute to your Writing Intensive (WI) requirement.\nSyllabus Quiz – A short quiz on the syllabus will be available in Week 1 on Lamākū. It familiarizes you with the course structure and the quiz format.\n\n\n\n2.3 Quizzes (10%)\nThere will be 4 online quizzes administered through Lamākū. Each quiz will be 10 questions (multiple choice, true/false, fill-in-the-blank, and 1–2 short answer questions) with a 1-hour limit and one attempt. Quizzes will be released on Fridays and close the following Monday at 11:55pm. They cover all course reader and lecture material up to that point. Because quizzes close automatically, late submissions receive a score of 0.\n\n\n2.4 Midterm Exam (20%)\nThe midterm exam will be held in-class on Tuesday, October 27. It will cover all course reader and lecture material through Week 8. The exam will be 25–30 questions and open-notes (no textbook or internet). A review sheet will be distributed two weeks beforehand.\n\n\n2.5 Writing Assignment 1 – Language Autoethnography (20%)\nThe first writing assignment asks you to reflect on your own experiences with language in Hawaiʻi or the Pacific region. This may include reflecting on your family’s language history, your experience of language shift or maintenance, your relationship to a heritage language, or your observations of multilingualism in your community. The autoethnography should connect your personal narrative to course concepts and readings.\nWA1 is scaffolded across three stages, each contributing to the assignment grade:\n\nProposal (10%): ~200 words describing your focus and how it relates to course content. Due Friday, Sep 25.\nDraft (30%): Complete first draft of at least 750 words. Due Friday, Oct 9.\nFinal (60%): Revised final version incorporating instructor feedback. At least 750 words, excluding references. Due Friday, Oct 23.\n\nDetailed instructions will be posted on Lamākū in Week 2.\n\n\n2.6 Final Paper (25%)\nThe Final Paper is a focused research paper of at least 2,500 words (excluding references) on one language, country, or island in the Pacific region, on any topic related to one or more course readings and pre-approved by the instructor. The paper must cite at least 7 academic sources using a consistent citation style. The Final Paper replaces a final exam and is due during Finals Week via Lamākū.\nLike WA1, the final paper is scaffolded:\n\nTopic Idea (5%): ~100-150 words identifying a topic or a few topics that you would be interested in pursuing. Due Friday, October 30.\nPreliminary Sources and Initial Research Question (15%): 3 academic sources that you think might be appropriate to this topic, and why each one fits, along with your initial research question(s), including a short explanation of what you anticipate you will learn. Due Friday, Nov 6.\nDraft (25%): Complete first draft of at least 1,750 words. Due Friday, November 20.\nFinal Paper (45%): Complete revised final version of at least 2,500 words. Due the date and time of our final exam period (Tuesday, Dec 15 9:45 – 11:45 am).\nFinal Reflection (10%): Submitted at the same time as the final paper, ~300 words reflecting on the process of researching and writing your final paper.\n\nDetailed instructions will be posted on Lamākū in Week 6.\n\n\n2.7 Final Presentation (15%)\nFinal Presentations will take place during Weeks 15–16, after your first draft but before your final paper is due. Each student will have a 10-minute slot: 7–8 minutes of presentation plus 2–3 minutes for questions. Sign-up will be via Google Sheets in Week 14. Presentations will be graded on:\n\nClear research topic/question\nContent accuracy and relevance\nUse of at least 3 academic sources\nQuality and clarity of slides\nPresentation flow and organization\n\n\n\n2.8 Extra Credit\nThere is one extra credit opportunity, worth 4% added to your final grade:\n\nOptional 1-on-1 Meeting (Week 14): Meet with me for 7 minutes via Zoom or in-person at my office hours to discuss your Final Paper/Presentation plans. You must have submitted your Initial Research Question on time and be prepared to discuss your topic and presentation ideas."
+    "objectID": "10-1.html#todays-plan",
+    "href": "10-1.html#todays-plan",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Today’s Plan",
+    "text": "Today’s Plan\n\nActivity: Research a Pacific Country\nYour Discussion Questions\nLooking ahead to next week"
   },
   {
-    "objectID": "index.html#course-policies",
-    "href": "index.html#course-policies",
-    "title": "LINGUISTICS 150C",
-    "section": "3. Course Policies",
-    "text": "3. Course Policies\n\n3.1 Lateness Policy\nLate writing assignments (WA1, Final Paper Components, Final Paper) will be penalized 5% for each day submitted after the deadline. It is always better to submit late for partial credit than not to submit at all. Quizzes cannot be taken late — they close automatically on Lamākū.\n\n\n3.2 Academic Honesty\nAcademic honesty is expected in this course. Academic dishonesty includes plagiarism and cheating. Students who violate the University rules on scholastic dishonesty will be subject to disciplinary penalties, including possible failure in the course and/or dismissal from the University. Policies will be strictly enforced.\n\n\n3.3 Generative AI Policy\nGenerative AI tools (including ChatGPT, Gemini, Copilot, and similar) may be used to support your thinking and polish your writing, but not to generate first drafts, summarize readings, or otherwise substitute for your own intellectual work. You are expected to be the primary author of all submitted work. If you use an AI tool in any assignment, you must include a brief statement at the top describing how you used it (e.g., “I used ChatGPT to check for grammatical errors after completing my draft.”) Undisclosed use of AI to produce substantive written content will be treated as academic dishonesty. When in doubt, ask me.\nKeep in mind: learning to write is learning to think. Overreliance on AI undermines the development of your own analytical skills — which is the whole point of a writing-intensive course.\n\n\n3.4 Accessibility and Accommodations (Kōkua)\nIf you are a student with a disability and have disability-related needs or concerns, please contact the Kōkua program: (808) 956-7511, kokua@hawaii.edu, or in person at the Queen Liliʻuokalani Center for Student Services, Room 013.\n\n\n3.5 Counseling and Wellness\nIf you are experiencing personal difficulties or excessive stress and do not feel comfortable speaking with me directly, the UHM Counseling Center is available to you: http://manoa.hawaii.edu/counseling/.\n\n\n3.6 Title IX\nAs a UH employee, I am required to promptly report incidents of sex discrimination or sex-based harassment to the Title IX Coordinator. If you have experienced sex discrimination or harassment and wish to speak with someone confidentially, contact the Confidential Mānoa Advocate at manoaadv@hawaii.edu or (808) 956-9499. For more information: https://manoa.hawaii.edu/titleix/resources/."
+    "objectID": "10-1.html#activity-research-a-pacific-country",
+    "href": "10-1.html#activity-research-a-pacific-country",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Activity: Research a Pacific Country",
+    "text": "Activity: Research a Pacific Country\n\nIn your group: research your assigned country/territory on Wikipedia or another reliable source. You have 8 minutes.\n\n\n\nNew Caledonia\nTonga\nFederated States of Micronesia\n\n\n\nIndonesian Papua\nSolomon Islands\nFrench Polynesia\n\n\nhttps://go.hawaii.edu/RvH\n\n\nAnswer as a group:\n\n\n\nHow many indigenous languages does it have? What’s your source?\nWhat’s the metropolitan (colonial/official) language?\nIs there a pidgin, creole, or lingua franca used across language groups?\n\n\n\nWhich of today’s three factors best explains its level of diversity?\nAnything that doesn’t fit the patterns we discussed today?\nOne fun fact about the country/territory that your group didn’t know before\n\n\n\n\n~8 min research time. Groups have laptops. Circulate while they work."
   },
   {
-    "objectID": "index.html#course-schedule",
-    "href": "index.html#course-schedule",
-    "title": "LINGUISTICS 150C",
-    "section": "4. Course Schedule",
-    "text": "4. Course Schedule\nThis schedule is subject to change. The UHM Academic Calendar with administrative deadlines (add/drop, withdrawal, etc.) can be found at https://manoa.hawaii.edu/registrar/academiccalendar/.\n\n\n\nWeek\nDates\nTopics\nReadings (before class)\nAssignments / Notes\n\n\n\n\n1\nAug 25 / 27\nCourse overview; Pacific geography and linguistic diversity\nCh. 1 – Introduction (Lynch)\nLamākū syllabus quiz (opens Fri 8/28, closes Mon 8/31)\n\n\n2\nSep 1 / 3\nHistory of the Austronesian languages\nCh. 2 – History of Austronesian (Blust)\nDiscussion Post #1 (closes Thu 9/3)\n\n\n3\nSep 8 / 10\nHistorical linguistics and the Oceanic subgroup\nCh. 3 – Historical Linguistics (Kikusawa)\nDiscussion Post #2; Quiz #1 (opens Fri 9/11, closes Mon 9/14)\n\n\n4\nSep 15 / 17\nSound systems; Typology and grammar\nCh. 4 (Harrison); Ch. 5 (Lichtenberk)\nDiscussion Post #3\n\n\n5\nSep 22 / 24\nComparative linguistics; Cognates\nCh. 6 – Cognates (Cook)\nWA1 Proposal due Fri 9/25; Quiz #2 (opens Fri 9/25, closes Mon 9/28)\n\n\n6\nSep 29 / Oct 1\nMultilingualism; Language diversity in the Pacific\nCh. 7 – Multilingualism (Lynch)\nDiscussion Post #4\n\n\n7\nOct 6 / 8\nLanguages of Micronesia; Languages of Polynesia\nCh. 9 (Bender); Ch. 10 (Schütz)\nWA1 Draft due Fri 10/9; Quiz #3 (opens Fri 10/9, closes Mon 10/12)\n\n\n8\nOct 13 / 15\nPidgins and Creoles; Hawaiian Pidgin\nCh. 13 (Meyerhoff); Ch. 14 (Sakoda & Siegel)\nDiscussion Post #5\n\n\n9\nOct 20 / 22\nLanguage contact and borrowing; Midterm review\nCh. 15 – Borrowing (Geraghty)\nWA1 Final due Fri 10/23; Quiz #4 (opens Fri 10/23, closes Mon 10/26)\n\n\n10\nOct 27 / 29\nMidterm Exam (Tue 10/27); Hawaiian literacy\nCh. 17 – Hawaiian Literacy (Schütz)\nMidterm Exam Tue 10/27; Discussion Post #6; Final Paper Topic Idea due Fri 10/30\n\n\n11\nNov 3 / 5\nLanguage endangerment (no class Tue 11/3 — Election Day)\nCh. 18 (Guérin & Yourupi)\nPreliminary Sources and Research Question due Fri 11/6\n\n\n12\nNov 10 / 12\nHawaiian & Māori language revitalization\nCh. 19 (Wilson); Ch. 20 – Māori Revitalization (Benton)\nDiscussion Post #7\n\n\n13\nNov 17 / 19\nLanguage documentation; UHM Linguistics Dept.\nCh. 21 (Thieberger); Ch. 22 (Grace)\nDraft due Fri 11/20\n\n\n14\nNov 24 / 26\nOptional 1-on-1 meetings (Tue 11/24); Thanksgiving (no class Thu 11/26)\n—\nDiscussion Post #8; sign up for presentation slot\n\n\n15\nDec 1 / 3\nFinal Presentations – Days 1 & 2\n—\n\n\n\n16\nDec 8 / 10\nFinal Presentations – Days 3 & 4\n—\nDiscussion Post #9 (last day of class Dec 10)\n\n\nFinals\nWeek of Dec 14\n—\n—\nFinal Paper due on Lamākū (Tuesday, Dec 15 11:45 am)\n\n\n\n\nNote on Course Readings\nAll readings are drawn from Languages of the Pacific Islands: Introductory Readings (LPI), edited by Hiroko Sato and Joel Bradshaw, and are available as a Course Reader on Lamākū. If you would like a physical copy of the Course Reader, contact me in the first two weeks of the semester."
+    "objectID": "10-1.html#compare-and-constrast",
+    "href": "10-1.html#compare-and-constrast",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Compare and Constrast",
+    "text": "Compare and Constrast\n\nReport Each Each group gives a 1-2 minute rundown of what they found — locating the country/territory, reporting the numbers, the languages, and their factor hypothesis.\nLook at the doc Once all six are finished, look across the whole set together — what patterns jump out?\n\n\nDiscuss: Which factor came up most often as the best explanation across the six? Did any country not fit neatly into the patterns from Tuesday?\n\n\n~8 min research time. Groups have laptops. Circulate while they work."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "10-1.html#from-your-discussion-posts",
+    "href": "10-1.html#from-your-discussion-posts",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "From Your Discussion Posts",
+    "text": "From Your Discussion Posts\nGreat questions and connections came in on Chapter 7 — let’s dig into a few.\n\nOnly 11 of you posted this week; Remember that these posts contribute to your Writing Intensive (WI) requirement, and make up part of your final grade for this class.\n\n\nOpening framing slide. Names the three threads we’re pulling from student posts before diving into each."
+  },
+  {
+    "objectID": "10-1.html#vanuatu-revisited",
+    "href": "10-1.html#vanuatu-revisited",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Vanuatu, Revisited",
+    "text": "Vanuatu, Revisited\n\n\nMichael asked: how can one small island group have languages so different that neighboring islands can’t understand each other?\nDyllan asked: when a language is only spoken by a few hundred people and isn’t being passed to kids, what happens next — and does losing the language mean losing parts of the culture?\n\nDiscuss: What would it take for a language with a few hundred speakers to survive another generation?\n\n\n\n\n\nTie back to Tuesday’s three factors (time, separation, social structure) — Vanuatu is the extreme case of all three stacking together.\nDyllan’s question, updated: Crowley (2000) famously argued Bislama posed no real threat to Vanuatu’s indigenous languages. A 2025 review (Lavender Forsyth) challenges that — 2020 census data show only 14% of Vanuatu’s population now speaks an indigenous language as their first language, and in rural areas as many as 1 in 5 people aged 4-20 have Bislama, not an indigenous language, as their first language. That’s the mechanism behind Dyllan’s question: kids growing up with Bislama at home instead of the local language breaks the chain of transmission. Don’t over-explain this — just flag it, since full language endangerment is covered in a later unit."
+  },
+  {
+    "objectID": "10-1.html#why-so-many-languages",
+    "href": "10-1.html#why-so-many-languages",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Why So Many Languages?",
+    "text": "Why So Many Languages?\n\n\nLinguist Alexandre François has spent decades documenting this exact puzzle in northern Vanuatu (the Torres and Banks Islands).\n\n17 languages, 9,400 people — all descended from one ancestor language, 3,000 years of divergence\nIsolation alone doesn’t explain it — people there are constantly in contact: trading, intermarrying, visiting\nLanguage as identity marker: communities deliberately keep their speech different from close, friendly neighbors — François calls this language’s “emblematic function”\nEgalitarian multilingualism: no village outranks another, so no variety becomes “the” prestige language — everyone just learns their neighbors’ languages instead\n\n\n\n\n\nFrançois (2012)\n\n\n\nDiscuss: If isolation alone doesn’t explain Vanuatu’s diversity, what does this suggest about places that are very isolated but still only have one language?\n\n\n\nDirect answer to Michael’s and Dyllan’s questions, grounded in François (2011, 2012). Key reframe: diversity isn’t an accident of geography, it’s maintained on purpose. Also sets up Dyllan’s endangerment question — the same egalitarian multilingualism that sustains tiny languages today is exactly what’s eroding under colonial-era disruption and modern schooling (mention briefly, don’t dive deep — save for later unit on endangerment)."
+  },
+  {
+    "objectID": "10-1.html#zooming-out-is-this-just-vanuatu",
+    "href": "10-1.html#zooming-out-is-this-just-vanuatu",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Zooming Out: Is This Just Vanuatu?",
+    "text": "Zooming Out: Is This Just Vanuatu?\n\nNot unique to the Pacific: linguists call this pattern “small-scale” or “egalitarian” multilingualism — the same setup (many small languages, no prestige hierarchy, everyone multilingual) is documented in West Africa, the Amazon, and northern Australia too (Lüpke 2016; Pakendorf, Dobrushina & Khanina 2021)\nA bigger claim: linguist Nicholas Evans (2018) argues this may be close to the ancestral human condition — that language itself likely evolved in multilingual small-scale societies, not isolated monolingual ones\nIf he’s right, multilingualism isn’t the exception that needs explaining — monolingual nation-states are the historically recent, unusual case\n\n\nDiscuss: If small-scale multilingualism was the human norm for most of history, why does monolingualism feel like the “default” to so many people today?\n\n\n~5 min. Good note to end the Vanuatu thread on: reframes the whole unit. Monolingualism isn’t neutral/natural — it’s a product of nation-state language policy, mass schooling, and standardization, which is a much more recent development than multilingual small-scale societies. Don’t need to resolve the discuss prompt — just let it sit before moving to Kale’s question."
+  },
+  {
+    "objectID": "10-1.html#vanuatus-other-language-split",
+    "href": "10-1.html#vanuatus-other-language-split",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Vanuatu’s Other Language Split",
+    "text": "Vanuatu’s Other Language Split\n\n\nJinghao’s question: the reading mentions ni-Vanuatu learn English or French depending on their school — how is that distributed? Do families choose, or is it based on where they live? Is there debate about it?\n\nVanuatu was jointly ruled by Britain and France until 1980 — a colonial “condominium” — and kept two entirely separate, parallel school systems at independence rather than merging them\nSchools register as English-medium or French-medium, not mixed; children usually attend whichever is available locally, often tied to earlier missionary history in that area\nYears 1-2: Bislama or the local vernacular; English or French phased in by Year 3; Years 3-13: instruction entirely in English or French\nThe split isn’t a strict geographic English-region/French-region boundary — it’s institutional, school by school, a direct legacy of the colonial system surviving 45+ years after independence\n\n\n\n\nDiscuss: Why might a newly independent country choose to keep two parallel colonial-language school systems rather than consolidating into one national language of instruction (English, French, or Bislama)?\n\n\n\nDirect answer to Jinghao’s question. Good follow-up point if time: this is a different kind of “diversity” than the indigenous-language diversity from earlier slides — this one is purely a colonial-era institutional artifact, not organic. Worth distinguishing the two kinds of multilingualism for students."
+  },
+  {
+    "objectID": "10-1.html#language-and-local-knowledge",
+    "href": "10-1.html#language-and-local-knowledge",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Language and Local Knowledge",
+    "text": "Language and Local Knowledge\nKale’s connection: in BOT 444 (Ethnoecology), Kale has studied how Indigenous and Local Knowledge (ILK) develops over generations through a community’s relationship with its environment — and noticed this tracks closely with how Lynch describes language diverging through geographic and social separation.\nKale’s question: could neighboring language groups in Melanesia have different names, classifications, or knowledge systems for the same plants and animals?\n\nDiscuss: If language and ecological knowledge both diverge through isolation, which one do you think usually changes first?\n\n\nThis is a strong interdisciplinary connection — worth explicitly praising in class. If no one has a confident answer to the discuss prompt, that’s fine; the point is raising the possibility that linguistic diversity and biocultural diversity are entangled, not resolving it today."
+  },
+  {
+    "objectID": "10-1.html#kales-question-globally",
+    "href": "10-1.html#kales-question-globally",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Kale’s Question, Globally",
+    "text": "Kale’s Question, Globally\nDavid Harmon (1996) compared the countries with the most endemic languages (found nowhere else) to the countries with the most endemic vertebrate species (mammals, reptiles, birds, amphibians found nowhere else).\n\n64% overlap between the top 25 countries on each list\nPapua New Guinea ranks #1 for endemic languages (847) and in the top 10 for endemic vertebrate species\nHis explanation: the same conditions — rugged terrain, isolation, small-scale societies — that let species diverge into new forms also let languages diverge into new forms. One doesn’t cause the other; both are downstream of the same isolation\n\n\nDiscuss: Harmon’s explanation is about geographic isolation producing both effects in parallel. How does this compare to François’s claim (from the Vanuatu slides) that language diversity is partly deliberate, not just a byproduct of isolation? Could both be true at once?\n\n\nAnswers Kale’s question at the macro/statistical level: diversity of language and diversity of species co-occur geographically, worldwide, not just impressionistically in Melanesia. Harmon (1996), Southwest Journal of Linguistics. Good moment to have students hold two explanations in tension rather than picking one — isolation-as-shared-cause (Harmon) vs. deliberate differentiation (François) aren’t mutually exclusive."
+  },
+  {
+    "objectID": "10-1.html#example",
+    "href": "10-1.html#example",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "Example",
+    "text": "Example\nA concrete case: the Kalam people of the Upper Kaironk Valley, Papua New Guinea highlands (~13,000 speakers).\n\n\nZoology (Bulmer 1967): Kalam classify cassowaries separately from all other birds — not by mistake, but because cassowaries occupy a unique role in Kalam thought and ritual. Their system also sorts animals by habitat (forest vs. garden vs. homestead; aerial vs. terrestrial vs. underground), not just by body shape the way Western biology does.\n\n\nBotany (Gardner 2010): Kalam distinguish roughly 500 named plants — many finer-grained than Western scientific species, some grouping things Western botany splits apart.\n\nDiscuss: Bulmer titled his paper “Why is the cassowary not a bird?” What does it tell us that this is a real, serious research question?\n\n\n\nThis is the direct, concrete answer to Kale’s original question — yes, a documented Melanesian group has a classification system for plants/animals that diverges meaningfully from both Western science and (presumably) from neighboring groups, though a direct neighbor-to-neighbor comparison wasn’t found in this search. Emphasize: Kalam taxonomy isn’t “wrong” or “primitive” — it’s organized around different, equally coherent criteria (ritual significance, habitat, practical use) rather than evolutionary descent."
+  },
+  {
+    "objectID": "10-1.html#this-research-is-happening-right-now",
+    "href": "10-1.html#this-research-is-happening-right-now",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "This Research Is Happening Right Now",
+    "text": "This Research Is Happening Right Now\nA 2024 PhD dissertation — from right here at UH Mānoa — documented exactly this kind of plant knowledge for the Abui people of Alor Island, eastern Indonesia (A.L. Blake, advised by Gary Holton). It’s a direct, current answer to Kale’s question about how a group actually classifies plants.\n\n\nNames encode different kinds of knowledge, not just appearance:\n\nal fiyaai “nettlespurge,” lit. “Islam candlenut” — two plants that look nothing alike, linked because both were burned for lamp oil; the name preserves history, not shape\nfia beeka “fern bad” — marks a fern as inedible, in contrast to “good” (edible) ferns — classification by utility\nkupai meeting “forest betel-vine” — classification by habitat\n\n\nMetaphor drives the categories, often from the body or animals:\n\nkaai hawet “Ziziphus,” lit. “dog its teeth” (thorns)\nwata muur “pomelo,” lit. “coconut citrus” (fruit size)\nkatiki “Conyza,” lit. “loincloth broke” (shredded-looking leaves)\n\n\nDiscuss: Western botany classifies primarily by evolutionary descent. Abui plant names show at least five other organizing logics — history, utility, habitat, body-part metaphor, taxonomic prototype. Is any one of these more “correct” than the others?\n\n\n\nThis is the most direct, current answer to Kale’s actual question. Good closing move on the Kale thread: shows this isn’t settled 1960s-70s scholarship (Bulmer) — it’s live research, happening now, at Andy’s own institution, on a different island group from Vanuatu/PNG, reinforcing that this pattern isn’t one-off. The “metaphor hardening into taxonomy” point (alokai example) is worth dwelling on — it shows folk classification isn’t a fixed system handed down unchanged, it’s actively being renegotiated as new plants and new generations enter the picture."
+  },
+  {
+    "objectID": "10-1.html#from-pidgin-to-mother-tongue",
+    "href": "10-1.html#from-pidgin-to-mother-tongue",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "From Pidgin to Mother Tongue",
+    "text": "From Pidgin to Mother Tongue\nFrancesca’s question: Bislama, Tok Pisin, and Pijin all started as simplified contact languages for 19th-century trade and plantation labor — how does a language like that become someone’s actual first language?\n\nThe short answer: urbanization, not a deliberate decision. As towns like Port Vila, Port Moresby, and Honiara grew, people from many different indigenous-language backgrounds ended up living side by side\nWith no single shared indigenous language in these mixed communities, the pidgin — already everyone’s common second language — became the only shared language of daily life\nAdults kept making the pidgin more expressive through ordinary creative use, even before any child spoke it natively\nOnce children in these communities grew up hearing only the pidgin at home, it became their native language — this is creolization: pidgin → creole happens when a generation of kids acquires it as a first language\nThe scale today: Tok Pisin alone has an estimated 3-5 million speakers, many now native\n\n\nDiscuss: This is the same process (urbanization, a shared contact language taking over daily life) driving the Bislama/indigenous-language shift from earlier in class. Is a pidgin becoming a creole a loss, a gain, or both?\n\n\nDirect answer to Francesca’s question, and a nice bridge back to Dyllan’s endangerment thread — same underlying mechanism (urbanization + a dominant contact language) creates new creole-speaking generations AND erodes smaller indigenous languages simultaneously. Worth being explicit that this is not a contradiction, it’s the same process viewed from two angles."
+  },
+  {
+    "objectID": "10-1.html#one-person-several-languages",
+    "href": "10-1.html#one-person-several-languages",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "One Person, Several Languages",
+    "text": "One Person, Several Languages\nLinguists call it domain-based language choice (or, when it’s stable over time, diglossia): multilingual speakers don’t use their languages interchangeably — they assign specific languages to specific settings, like home, school, work, or religion.\n\n\nChloe’s post: growing up in Hawai’i with a Chinese family background, Chloe noticed she speaks differently depending on who she’s talking to — English at school, another language at home — and connected this to why multilingualism is so common across the Pacific.\nHanna’s post: a student from Ecuador who speaks four languages, Hanna noticed the exact triglossic pattern Lynch describes for Vanuatu (local language at home, Bislama in public, English/French at school) in her own life — German and Spanish with family, English for university, English and Spanish with roommates in Hawai’i.\n\nKiana’s question: multilingualism in Melanesia/Polynesia often develops out of necessity, not choice — does that change how it’s experienced? In Kiana’s own social circles, people react to multilingualism with excitement, suspicion, or by “dumbing down” their speech around less-fluent listeners. Do speakers in the Pacific relate to their own multilingualism the same way?\n\nDiscuss: Map your own languages (or registers, slang, codes) onto their domains — which goes with which setting? Then: does multilingualism by necessity feel different from multilingualism by choice?\n\n\n\n~5-7 min. Leading with the concept (domain-based choice / diglossia) is what this slide was missing — Chloe and Hanna’s posts are both textbook illustrations of it, not just personal anecdotes. Don’t let it stay abstract — if the room is quiet, offer your own example first. Kiana’s question is good to leave genuinely open as the close of the discussion-posts section — it pushes students past treating multilingualism as self-evidently good, into examining their own assumptions."
+  },
+  {
+    "objectID": "10-1.html#for-tuesday",
+    "href": "10-1.html#for-tuesday",
+    "title": "Multilingualism & Language Diversity (cont.)",
+    "section": "For Tuesday",
+    "text": "For Tuesday\n\nQuiz 2 closes Friday, October 2 at 11:59pm\nRead Ch. 9 - The Languages of Micronesia (Bender) (13 pgs.)\nKeep in mind: Writing Assignment 1 First Draft due Friday, October 9 at 11:59pm\n\n\n\n~4 min. Exit ticket, silent writing."
+  },
+  {
+    "objectID": "slides/01/introduction.html#today",
+    "href": "slides/01/introduction.html#today",
+    "title": "Course overview",
+    "section": "Today",
+    "text": "Today\n\nCourse overview\nPacific geography and linguistic diversity\nIntroductions\nSyllabus walkthrough"
+  },
+  {
+    "objectID": "slides/01/introduction.html#introductions",
+    "href": "slides/01/introduction.html#introductions",
+    "title": "Course overview",
+    "section": "Introductions",
+    "text": "Introductions\nTake a minute with the person next to you:\n\nWhere are you from?\nWhat languages do you speak, or grew up hearing?\nWhy did you enroll in this course?"
+  },
+  {
+    "objectID": "slides/01/introduction.html#syllabus",
+    "href": "slides/01/introduction.html#syllabus",
+    "title": "Course overview",
+    "section": "Syllabus",
+    "text": "Syllabus\nFull syllabus, grading breakdown, and schedule:\nView the syllabus\nKey things to note today:\n\nWriting Intensive (WI) and Hawaiian, Asian and Pacific Issues (H/HAPS) focus\nParticipation includes a handwritten journal — bring a notebook every class\nSyllabus quiz opens Friday on Lamākū"
+  },
+  {
+    "objectID": "slides/01/introduction.html#pacific-geography",
+    "href": "slides/01/introduction.html#pacific-geography",
+    "title": "Course overview",
+    "section": "Pacific geography",
+    "text": "Pacific geography\n\n\nThree culture areas\n\nMelanesia\nMicronesia\nPolynesia\n\n\nToday’s reading\nCh. 1 – Introduction (Lynch)"
+  },
+  {
+    "objectID": "slides/01/introduction.html#linguistic-diversity-in-the-pacific",
+    "href": "slides/01/introduction.html#linguistic-diversity-in-the-pacific",
+    "title": "Course overview",
+    "section": "Linguistic diversity in the Pacific",
+    "text": "Linguistic diversity in the Pacific\n\nOne of the most linguistically diverse regions on Earth\nHome to a large share of the world’s Austronesian languages\nAlso Papuan (Non-Austronesian) languages in parts of Melanesia\n\n\nSpeaker notes go here — press s during the presentation to open the speaker view."
+  },
+  {
+    "objectID": "slides/01/introduction.html#discussion",
+    "href": "slides/01/introduction.html#discussion",
+    "title": "Course overview",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat does “language in Hawaiʻi and the Pacific” mean to you, before we’ve read anything?"
+  },
+  {
+    "objectID": "slides/01/introduction.html#next-time",
+    "href": "slides/01/introduction.html#next-time",
+    "title": "Course overview",
+    "section": "Next time",
+    "text": "Next time\n\nReading: Ch. 2 – History of Austronesian (Blust)\nDue: Discussion Post #1 (closes Thursday)"
+  },
+  {
+    "objectID": "template.html#journal-5-min",
+    "href": "template.html#journal-5-min",
+    "title": "Lecture Title Here",
+    "section": "Journal (5 min)",
+    "text": "Journal (5 min)\nChoose one option and write silently. We’ll hear from a couple of people afterward.\n\n\nOption A\n[Personal/experiential prompt A — students respond better to these than fact-recall prompts.]\n\nOption B\n[Personal/experiential prompt B.]\n\n\n~5 min: 4 min silent writing, then 1-2 volunteers share."
+  },
+  {
+    "objectID": "template.html#todays-plan",
+    "href": "template.html#todays-plan",
+    "title": "Lecture Title Here",
+    "section": "Today’s Plan",
+    "text": "Today’s Plan\n\n[Agenda item 1]\n[Agenda item 2]\n[Agenda item 3]\n[Agenda item 4]"
+  },
+  {
+    "objectID": "template.html#content-slide-title",
+    "href": "template.html#content-slide-title",
+    "title": "Lecture Title Here",
+    "section": "[Content Slide Title]",
+    "text": "[Content Slide Title]\n\n[Point 1]\n[Point 2]\n[Point 3]\n\n\n[Timing and facilitation notes for this slide.]"
+  },
+  {
+    "objectID": "template.html#two-column-example",
+    "href": "template.html#two-column-example",
+    "title": "Lecture Title Here",
+    "section": "[Two-Column Example]",
+    "text": "[Two-Column Example]\n\n\n[Left heading]\n\n[point]\n[point]\n\n\n[Right heading]\n\n[point]\n[point]"
+  },
+  {
+    "objectID": "template.html#three-stat-example",
+    "href": "template.html#three-stat-example",
+    "title": "Lecture Title Here",
+    "section": "[Three-Stat Example]",
+    "text": "[Three-Stat Example]\n\n\n[Number]\n[caption]\n\n[Number]\n[caption]\n\n[Number]\n[caption]"
+  },
+  {
+    "objectID": "template.html#activity-slide",
+    "href": "template.html#activity-slide",
+    "title": "Lecture Title Here",
+    "section": "[Activity Slide]",
+    "text": "[Activity Slide]\n\n[Step name] — [instruction]\n[Step name] — [instruction]\n[Step name] — [instruction]\n\n\nDiscuss: [discussion prompt]\n\n\n[~X min. Facilitation notes: group size, materials needed, etc.]"
+  },
+  {
+    "objectID": "template.html#exit-ticket",
+    "href": "template.html#exit-ticket",
+    "title": "Lecture Title Here",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\n\n[Reflection prompt tied to today’s material.]\n\nTake 3 minutes, write silently.\nReading for next class: [Chapter/reading] — see Lamākū for the schedule.\n\n~4 min. Exit ticket, silent writing."
   }
 ]

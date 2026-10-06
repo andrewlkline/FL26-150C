@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://andrewlkline.github.io/FL26-150C/template.html</loc>
-    <lastmod>2026-09-30T22:22:31.626Z</lastmod>
+    <loc>https://andrewlkline.github.io/FL26-150C/micronesia.html</loc>
+    <lastmod>2026-10-06T19:59:35.547Z</lastmod>
   </url>
   <url>
-    <loc>https://andrewlkline.github.io/FL26-150C/slides/01/introduction.html</loc>
-    <lastmod>2026-09-30T20:19:35.684Z</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewlkline.github.io/FL26-150C/10-1.html</loc>
-    <lastmod>2026-10-01T18:27:35.810Z</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewlkline.github.io/FL26-150C/day11.html</loc>
-    <lastmod>2026-09-30T22:43:19.423Z</lastmod>
+    <loc>https://andrewlkline.github.io/FL26-150C/about.html</loc>
+    <lastmod>2026-08-28T06:36:03.470Z</lastmod>
   </url>
   <url>
     <loc>https://andrewlkline.github.io/FL26-150C/index.html</loc>
     <lastmod>2026-10-01T19:04:29.951Z</lastmod>
   </url>
   <url>
-    <loc>https://andrewlkline.github.io/FL26-150C/about.html</loc>
-    <lastmod>2026-08-28T06:36:03.470Z</lastmod>
+    <loc>https://andrewlkline.github.io/FL26-150C/day11.html</loc>
+    <lastmod>2026-09-30T22:43:19.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewlkline.github.io/FL26-150C/10-1.html</loc>
+    <lastmod>2026-10-01T18:27:35.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewlkline.github.io/FL26-150C/slides/01/introduction.html</loc>
+    <lastmod>2026-09-30T20:19:35.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewlkline.github.io/FL26-150C/template.html</loc>
+    <lastmod>2026-09-30T22:22:31.626Z</lastmod>
   </url>
 </urlset>
