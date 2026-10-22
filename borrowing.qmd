@@ -525,6 +525,45 @@ Fill in the table on the board as groups report (about 1 minute each). ANSWERS /
 Use as a summary after the report-out. Source: WOLD (checked against the online site for Hawaiian; other values from the downloaded database). Nouns first: in the full word lists, about 23% of Hawaiian nouns are loans compared with about 6% of verbs and 2% of function words; Takia about 36% of nouns and 3% of verbs. This agrees with Geraghty's (p. 170) claim and Tadmor et al. (2010). Cattle: Hawaiian pipi (English beef), Takia makao (Pacific Pidgin English bulmakau), WOLD Gurindji puliki (English bullock; Gurindji is in WOLD but not in the lab), plus Fijian bulumakau (English bull and cow, possibly via Tongan pulu mo kau; Tent & Geraghty 2004, p. 257, citing Nawadra). Link back to the cow-and-beef slides: the animal word and meat word again. Malagasy has native words for cattle, money, and mother, but kisoa 'pig' is French cochon, ondry 'sheep' is Bantu, and sekoly 'school' is English, a reminder that the Austronesian core vocabulary of a language can sit beside many loans.
 :::
 
+---
+
+![](images/takia.png){fig-alt="Map of Papua New Guinea and neighboring islands with a green marker" fig-align="center" height="520px"}
+
+::: {.notes}
+Takia (WOLD id 29): 23.1% clearly borrowed, mainly English (186) and Tok Pisin (68), then Bargam (18) and Gedaged (11). Spoken on Karkar Island off the north coast of Papua New Guinea; contact situations include "Contact with the Western world," "Bible teaching," and "Bilingualism in Bargam." Check the marker against Karkar Island before class: the green dot looks inland.
+:::
+
+---
+
+![](images/cheqwong.png){fig-alt="Map of Peninsular Malaysia showing traditional territories of Semai, Batek, and Chewong Orang Asli groups" fig-align="center" height="560px"}
+
+::: {.notes}
+Ceq Wong (WOLD id 26): 33.6% clearly borrowed, 302 of 318 loans from Malay (about 95%). Map: traditional territories of Orang Asli societies in Peninsular Malaysia (Endicott and Dentan 2004); check the Chewong/Ceq Wong spelling. Close daily contact with Malay speakers: intimate borrowing, even verbs (about 31%).
+:::
+
+---
+
+::: {.columns}
+::: {.column width="38%"}
+![](images/jawi.jpg){fig-alt="Chart of the Jawi (Arabic-based) alphabet with Latin transliterations" width="100%"}
+:::
+::: {.column width="62%"}
+![](images/javanese_script.png){fig-alt="Javanese-language Wikipedia page written in the Javanese script" width="100%"}
+:::
+:::
+
+::: {.notes}
+Indonesian (WOLD id 27): 30.2%; Sanskrit 143, Dutch 106, Arabic 94, Javanese 62. Jawi (left) is the Arabic-based script for Malay, brought with Islam; the Javanese script (right) descends from Indian writing, the same contact history that brought Sanskrit words. Dutch from colonial rule; Javanese from the dominant neighbor.
+:::
+
+---
+
+![](images/madagascar_french.jpg){fig-alt="1890s French poster 'La Guerre a Madagascar' showing a French soldier planting a flag on a map of Madagascar" fig-align="center" height="620px"}
+
+::: {.notes}
+Malagasy (WOLD id 28): 12.5%; French 89, Malay 45, English 26, Bantu 17. The poster advertises a French illustrated book on the war in Madagascar (date not on the poster; check before giving one). French colonization is the source of the French loans; Malay and Bantu donors reflect much earlier contact. A French colonial image of the conquest.
+:::
+
 <!-- Thursday group: Hawaiian Words on the Move (section title removed: an all-hidden section leaves blank slides) -->
 
 ## Loans from Hawaiian {.smaller visibility="hidden"}
@@ -735,17 +774,17 @@ The **Hawaiian Lexicon Committee** (founded **1987**; kūpuna and native speaker
 | Strategy | Example |
 |---|---|
 | Describe the concept in Hawaiian words | *uila mahu pele* 'geothermal electricity' ('electricity-steam-volcano') |
-| Combine words | *poelele* 'satellite'; *hamulau* 'herbivore' |
-| Shorten and combine | *ikehu* 'energy' (*ika* + *ehu*) |
-| Add affixes | *kalaianiau* 'climatology' (*kalai-* 'study of') |
-| Extend an old word | *haumia* 'pollution'; *hoʻoili* 'download' (also 'transplant') |
-| **Borrow from another Polynesian language** | *pounamu* 'jade' (Māori); *makahiʻo* 'explore' (*maka* + Tahitian *hiʻo*) |
+| Combine words | *poelele* 'satellite' (*poe* 'buoy' + *lele* 'fly'); *hamulau* 'herbivore' (*hamu* 'to chew' + *lau* 'leaf') |
+| Shorten and combine | *ikehu* 'energy' (*ika* 'strength' + *ehu* 'lively') |
+| Add affixes | *kalaianiau* 'climatology' (*kalai-* 'study of' + *aniau* 'climate') |
+| Extend an old word | *haumia* 'pollution' (old word 'defiled, unclean'); *hoʻoili* 'download' (*hoʻo-* 'cause' + *ili* 'transfer'; also 'transplant') |
+| **Borrow from another Polynesian language** | *pounamu* 'jade' (Māori); *makahiʻo* 'explore' (*maka* 'eye' + Tahitian *hiʻo* 'look') |
 | **Hawaiianize a foreign word** | *naelona* 'nylon'; *kaimine* 'saimin' (Japanese); *kokeiʻa* 'prairie dog' (Ute); *ʻōmā* 'lobster' (French *homard*) |
 
 > **Discuss:** The committee **builds first** but still **borrows**. Is that purism? What would you call it?
 
 ::: {.notes}
-From the English introduction to *Māmaka Kaiao* (Hawaiian Lexicon Committee; 2003 edition, with the vocabulary created 1987-2000; ʻAha Pūnana Leo and Hale Kuamoʻo). The introduction lists ten guidelines; the table above gives seven. Others: make minor changes to an existing word (adding a kahakō), record words native speakers already use, and use reduplication (*ulialia* 'coincidence'). Also in the book: *Pūnaewele Puni Honua* is the World Wide Web; *uea makika* ('mosquito wire') is a window screen. ANSWER / TALKING POINT: it is a pragmatic mix, not strict purism. The committee prefers Hawaiian resources, then other Polynesian languages, and only then Hawaiianizes non-Polynesian words, and the book itself uses *kamepiula* in an example sentence. This is the "build or borrow" choice from earlier, made by a community committee instead of missionaries ("Take my word for it"). WOLD's Hawaiian list includes many of these committee words as loans (the source is "Kōmike Huaʻōlelo 2003"), e.g., *puolo* 'music' from Māori *puoro*, and the Lexicon Committee's Ute loans. Whether you call it purism is a matter of degree; students will have different views.
+From the English introduction to *Māmaka Kaiao* (Hawaiian Lexicon Committee; 2003 edition, with the vocabulary created 1987-2000; ʻAha Pūnana Leo and Hale Kuamoʻo). The introduction lists ten guidelines; the table above gives seven. Others: make minor changes to an existing word (adding a kahakō), record words native speakers already use, and use reduplication (*ulialia* 'coincidence'). Also in the book: *Pūnaewele Puni Honua* is the World Wide Web; *uea makika* ('mosquito wire') is a window screen. ANSWER / TALKING POINT: it is a pragmatic mix, not strict purism. The committee prefers Hawaiian resources, then other Polynesian languages, and only then Hawaiianizes non-Polynesian words, and the book itself uses *kamepiula* in an example sentence. This is the "build or borrow" choice from earlier, made by a community committee instead of missionaries ("Take my word for it"). The component glosses on the table: *poelele* ('flying buoy'), *hamulau* (hamu + lau), *kalaianiau* (kalai- + aniau), *haumia* and *hoʻoili* (existing words with extended meanings) are from the dictionary entries in Māmaka Kaiao; *ika* 'strength', *ehu* 'lively', *hamu* 'to chew', and *ili* 'transfer' are from general Hawaiian knowledge, so check them against Pukui and Elbert before class. WOLD's Hawaiian list includes many of these committee words as loans (the source is "Kōmike Huaʻōlelo 2003"), e.g., *puolo* 'music' from Māori *puoro*, and the Lexicon Committee's Ute loans. Whether you call it purism is a matter of degree; students will have different views.
 :::
 
 ## Activity: You Are the Lexicon Committee (10 min) {.smaller visibility="hidden"}
