@@ -1,0 +1,442 @@
+---
+title: "Hawaiian Language Revitalization"
+subtitle: "LING 150C, Week 12"
+author:
+  - name: Andrew Kline
+    email: klineal@hawaii.edu
+    affiliations: University of Hawai'i at Mānoa
+    orcid: 0009-0003-2895-2126
+date: Tuesday, November 10 2026
+format:
+  clean-revealjs:
+    theme: [default, "_extensions/clean/manoa.scss", custom.scss]
+    slide-number: c/t
+    progress: true
+    controls: false
+    chalkboard: false
+    logo: images/left.png
+    footer: "LING 150C"
+    transition: slide
+    incremental: false
+    code-fold: false
+---
+
+## Reminders
+
+**I will not be in class this Thursday, November 12.**
+
+  - **[Fill in the plan for Thursday here: for example, an assignment or reading on Lamākū.]**
+  - The Week 12 reading on **Māori revitalization (Ch. 20, Benton)** is still due, and **Discussion Post #7** is this week.
+
+**Friday, November 20:** Draft due (at least 1,750 words).
+
+**Tuesday, November 24:** optional 1-on-1 meetings (extra credit); **Week 14:** sign up for a presentation slot.
+
+**Next week:** Ch. 21 (Thieberger, language documentation) and Ch. 22 (Grace, UHM Linguistics).
+
+::: {.notes}
+Say the Thursday news at the very start and again at the end of class. Replace the bracketed line on the slide with the actual plan (I do not know what you have arranged for Thursday). The syllabus lists Ch. 19 (Wilson) and Ch. 20 (Benton) together for Week 12 and Discussion Post #7 that week; check the exact due date on Lamākū. The optional 1-on-1 meetings are Tuesday 11/24 and require that the student submitted the Initial Research Question on time. Presentation slot sign-up is a Google Sheet in Week 14.
+:::
+
+## Today's Plan {.smaller}
+
+**Part 1: How we got here (about 25 min)**
+
+1. Recall: what do we know about how Hawaiian was lost?
+2. **Video:** *Ola Ka ʻŌlelo Hawaiʻi* (first half)
+3. Reactions: what did you see and hear?
+
+**Part 2: How revitalization worked in Hawaiʻi (about 30 min)**
+
+4. From a radio show to Pūnana Leo to Kaiapuni Hawaiʻi
+5. *Honua*: spaces where Hawaiian is the language
+6. Growing the vocabulary; Hawaiian and Pidgin
+7. "Loving the language to death"
+
+**Part 3: Compare Aotearoa (Benton, Ch. 20) (about 20 min)**
+
+8. The Waitangi Tribunal and the Māori story
+9. Hawaiʻi and Aotearoa side by side; measuring progress
+10. Whose language is it?
+
+::: {.notes}
+Roughly 75 minutes, and this deck is long. Keep: the video, the Kaiapuni discussion, "Hawaiʻi and Aotearoa Side by Side," and "Putting It Together." Cut first: "Language and Worldview," "Expanding the Vocabulary," "Hawaiian and Pidgin," the group scoring task (it can be a quick whole-class discussion), and "Measuring Progress." The Māori slides use Benton (Ch. 20), which students are reading this week.
+:::
+
+# Part 1: How We Got Here
+
+## Warm-Up: Where Would You Start? (3 min) {.smaller}
+
+You are starting a program to bring a language back, and you have **limited money and time**.
+
+> **Where do you start: the home, the school, the community, or the government?** Why?
+
+::: {.notes}
+Quick pair discussion, then take 2-3 answers. This sets up one of the chapter's main points: Wilson says Hawaiian revitalization "has run counter to many of Fishman's proposals, especially those relating to schooling," but agrees with Fishman about creating environments where the language is used (Wilson p. 229). There is no single right answer; the point is that the Hawaiian movement started with university students and preschool children and not with the home.
+:::
+
+## Warm-Up: Where Would You Start? (3 min) {.smaller}
+
+You are starting a program to bring a language back, and you have **limited money and time**.
+
+> **Where do you start: the home, the school, the community, or the government?** Why?
+
+*Fishman's well-known model begins with the home and neighborhood and treats schools, especially universities, as late stages.*
+
+## What is language revitalization?
+
+- "Language revitalization (LR) is commonly understood as giving new life and vigor to a language that has been decreasing in use (or has ceased to be used altogether)" (Hinton, Huss, & Roche 2018)
+
+- "the process of re-awakening languages" whose primary focus is "to produce speakers of the language in question, essentially to breathe new life into the language community" (Penfield & Tucker 2011: 292, 294)
+
+
+## How Hawaiian Was Lost (Wilson's Account) {.smaller}
+
+- **1896:** ban on Hawaiian-medium education
+- **Within one generation:** Hawaiian was no longer the normal **peer-group language of children**
+- **By the 1970s:** those who grew up speaking Hawaiian on the main islands were all **kūpuna** (elders)
+- **Niʻihau:** about **200** speakers, under economic pressure to move to Kauaʻi, where they too were losing the language
+- Wilson: "The writing was on the wall: Hawaiian would soon be extinct."
+
+> **Which causes from Chapter 18 do you see here?**
+
+::: {.notes}
+Source: Wilson pp. 222-223. Wilson attributes the attack on Hawaiian-medium schooling to the Anglo-American oligarchy, first through the Kamehameha Schools (following United States Indian boarding school policy, citing Eyre 2004) and then through the public schools after the overthrow of the Monarchy; this is his account and he cites Eyre 2004 and Wilson and Kamanā 2006, so attribute it to him rather than stating it as settled fact. Answer for Ch. 18: political pressures (a language policy that banned the language in schools, p. 210), attitudes (Wilson says schools also destroyed confidence in identity), economic pressure (Niʻihau migration), and the pattern of shift through children (parents and children stop using the language, p. 209). Link to last week: Bromham et al. 2022 found that more years of schooling is associated with greater endangerment, and Hawaiian is a case where schooling in the dominant language did exactly that. Link to Ch. 17: 19th-century Hawaiian was the medium of education and had a large literate population, which makes the 1896 ban a striking reversal.
+:::
+
+## Watch: *Ola Ka ʻŌlelo Hawaiʻi* (first half) {.smaller}
+
+**While you watch, jot down:**
+
+1. **Where** is Hawaiian being used (which "domains")?
+2. **Who** is speaking it, and how old are they?
+3. Anything you notice about **attitudes** toward the language
+
+{{< video https://www.youtube.com/watch?v=IK-eKWjPcvw width="100%" height="380" >}}
+
+::: {.notes}
+
+:::
+
+## After the Video {.smaller}
+
+> **What did you notice?** Discuss with a neighbor, then share.
+
+- Which **domains** did you see (home, school, work, media)? Which were **missing**?
+- Who were the speakers? Are they **first-language** or **second-language** speakers?
+- How would you have rated **F4 and F5** (domains) and **F8** (attitudes) before watching? After?
+
+::: {.notes}
+Collect their observations on the board in three columns: Domains, Speakers, Attitudes. Tie back to last week's UNESCO factors: F4 (trends in existing language domains), F5 (response to new domains and media), F8 (community members' attitudes toward their own language). Point out what to look for in the chapter: Wilson says that a language must be "spoken throughout daily life" (p. 227) and lists honua beyond schools such as hālau hula, a football team, a newspaper column, radio programs, food and beverage establishments, theater companies, and ʻŌiwi TV (p. 229); the video is by OiwiTV, one of the honua the chapter names, which is worth saying out loud. Also ask: what do you learn from a video made by a community organization about the movement, and what might a video like this leave out? (It is a promotional piece, produced by the movement itself.)
+:::
+
+# Part 2: How Revitalization Worked
+
+## A Timeline, 1970s-1999 {.smaller}
+
+| When | What happened |
+|---|---|
+| **1970s** | Larry Kimura's students connect with kūpuna and Niʻihau speakers; weekly radio show *Ka Leo Hawaiʻi* |
+| **1978** | UH Hilo Hawaiian Studies major, taught **in Hawaiian** after year one; the Wilsons' family raises **two children in Hawaiian** |
+| **1981-83** | News of Māori **Kōhanga Reo**; **ʻAha Pūnana Leo** formed in 1983 |
+| **1984** | First Pūnana Leo (Niʻihau families on Kauaʻi): it **failed** |
+| **1985** | Pūnana Leo open in **Hilo** and **Honolulu** |
+| **1986** | **1896 ban repealed** after a three-year fight |
+| **1987** | First **Kaiapuni Hawaiʻi** classes in public schools |
+| **1999** | **First Kaiapuni graduation** |
+
+> **Which step is most surprising for a revitalization story?**
+
+::: {.notes}
+Sources: Wilson pp. 223-226. Details: in the 1970s Kimura had students speak Hawaiian with kūpuna and Niʻihau speakers outside class and ran the weekly radio talk show Ka Leo Hawaiʻi, which he recorded for teaching; after four years some students (including Kauanoe Kamanā and William Wilson) had enough fluency for daily life, but they used it only with kūpuna and English was still the language of instruction (p. 223). In 1978 UH Hilo recruited the Wilsons to develop a Hawaiian Studies degree taught totally through Hawaiian after the first year; they also changed to total use of Hawaiian outside class, which created the idea that second-language speakers could raise first-language children (p. 224). In 1981 they learned of Kōhanga Reo and formed ʻAha Pūnana Leo, Inc. in 1983, with Larry Kimura as president (p. 224). They counted 35 Hawaiian-dominant children under 18 (children moving between Kauaʻi and Niʻihau) plus four first-language toddlers raised by second-language speakers (p. 224). The legal barrier: the 1896 ban was still on the books; a lobbying effort led by ʻAha Pūnana Leo prevailed in 1986 after three years, over opposition from the preschool and K-12 educational establishments (p. 225). Surprise answers: that the movement started with university students; that preschools were modeled on Māori Kōhanga Reo; that the first one failed. Next week's reading (Benton, Ch. 20) is about Māori revitalization, so tell students to notice what Hawaiʻi borrowed from Aotearoa.
+:::
+
+## Lesson From a Failure {.smaller}
+
+**The first Pūnana Leo (1984)** served Niʻihau families on Kauaʻi, and its staff were all **young Niʻihau native speakers**.
+
+- The teachers ended up using **English**
+- Wilson: the greatest challenge was **attitudes, perspectives, and practices** about using Hawaiian in the modern world, **even among fluent speakers**
+- The next two Pūnana Leo (1985) succeeded: the vision of making Hawaiian **"primary"** was finally understood
+- The board began holding its own meetings in **Hawaiian**
+
+> **Why would fluent speakers use English with children?**
+
+::: {.notes}
+Source: Wilson pp. 224-225. Answer: language shift is driven by attitudes and economics more than ability (Ch. 18): English had prestige and was the language of schooling and the economy, and speakers who were bilingual and used English by habit; compare the Pollapese borrowing reasons (prestige, ease) and Mavea. Also the second and third Pūnana Leo had the advantage of a small core of first-language child speakers (children of Kimura's students) and the board changed to Hawaiian: "we forced ourselves to change to Hawaiian" (p. 225). Key idea: actions must match goals; revitalization needs the adults' own practices to change. Do not overstate: this is the Wilsons' own account of the movement they founded, and Wilson was a founder (he co-developed the Hilo program and was on the board), so the chapter is both a primary source and an argument; mention that when discussing how to read it. This is a good example for the final paper: an author who is a participant.
+:::
+
+## Kaiapuni Hawaiʻi: Education Through Hawaiian {.smaller}
+
+**The debate (late 1980s-1990s):** partial **bilingual** programs vs. **full** Hawaiian-medium education
+
+- The Native Hawaiian educational and political establishment generally **supported the bilingual approach**; outside experts predicted **negative academic outcomes** for total Hawaiian
+- The ʻAha Pūnana Leo **opposed** bilingual programs, having seen a bilingual program **speed the loss** of Hawaiian among Niʻihauans on Kauaʻi
+- The state delayed **English language arts until grade 5**, and allowed total-Hawaiian high school programs
+
+**Results (Wilson):** every student in the first graduating group **graduated**; a higher percentage went on to college; strongest-Hawaiian programs have the **strongest academic results**, including in **English**
+
+> **What evidence of academic success would you want to see reported?**
+
+::: {.notes}
+Source: Wilson pp. 225-227. Facts from the chapter: the first Kaiapuni graduation was in 1999 and "not a single child who enrolled in the initial group of first graders failed to graduate from high school," and a higher percentage went to college than in standard public schools; Kaiapuni continues to show higher academic outcomes than English-medium public schools for students of similar backgrounds (Takayama 2008; Kanaʻiaupuni, Brandon and Jenson 2010); the strongest Hawaiian programs are also strongest academically, including English language arts (Wilson and Kamanā 2011). Be careful: these are the author's summary of studies, and he is an interested party. Students should notice: who is making each claim, what they are comparing ("students of similar backgrounds"), and what the chapter does not report (the underlying data). This links to Part 2 of last week's class on evaluating sources. Also note: Wilson says literacy comes about two years earlier in Hawaiian because of the very regular writing system (p. 227), which connects to Ch. 17: Schütz said the efficient Hawaiian orthography was one of two main reasons 19th-century Hawaiians learned to read quickly. Federal law: under No Child Left Behind the state was not recognized as having two official languages and had to evaluate Hawaiian-medium schools as if they were English-medium; better understanding since the Every Student Succeeds Act of 2015 (p. 227).
+:::
+
+## By the Numbers {.smaller}
+
+**Enrollments taught through Hawaiian, 2015-2016** (Wilson, Table 4)
+
+| Level | Sites | Students |
+|---|---|---|
+| Pūnana Leo preschools | 11 | 301 |
+| Elementary | 15 | 1,937 |
+| Intermediate/high (fully Hawaiian) | 6 | 310 |
+| Intermediate/high (partly Hawaiian) | 7 | 311 |
+| **Total** | **39** | **2,859** |
+
+Enrollment up **25.5%** between 2010-11 and 2015-16. On Hawaiʻi Island, Hawaiian is the **top non-English language spoken by children**; Ilocano, the next, has **half as many** child speakers.
+
+> **Is 2,859 students a lot or a little? What would you compare it to?**
+
+::: {.notes}
+Source: Wilson p. 226-227 (Table 4). Check: 301 + 1,937 + 310 + 311 = 2,859. Answer: it depends on the comparison. Compared with the situation in the 1970s, when Hawaiian was no longer a children's language outside Niʻihau, it is large; compared with the state's school population, it is a small share (I do not have the exact enrollment total, so do not quote one). Compare with the Mavea scoring from last week and with Krauss's "safe" threshold of 100,000 speakers: this is a movement that works with small numbers, so the number of child speakers and intergenerational transmission matter more than the total. Note that the numbers are from 2015-16, so ask students to check the current figures if they write about this. Wilson also says that the number of first-language child speakers (children raised in Hawaiian by second-language-speaker parents) is now "several hundred," more than the remaining kūpuna speakers (p. 228).
+:::
+
+## *Honua ʻŌlelo Hawaiʻi*: Places Where Hawaiian Is the Language {.smaller}
+
+**Honua** = 'locations of use'. A real *honua ʻōlelo Hawaiʻi* is **over 75% Hawaiian and growing**. Otherwise it is a **second-language learning environment**.
+
+- **Schools:** Pūnana Leo, Kaiapuni, and a pathway from **infant-toddler to doctorate** (Ka Haka ʻUla O Keʻelikōlani)
+- **Beyond schools:** hālau hula, the Ānuenue football team, a weekly newspaper column, radio, food and beverage establishments, theater companies, ʻŌiwi TV
+- **Personal honua:** a few people decide to **always** use Hawaiian with each other, "at first this feels unnatural"
+- Children in a honua will drift into **English** with each other, so **committed adults** must keep it up
+
+> **Where could *you* create a honua in a language you speak? What would make it hard?**
+
+::: {.notes}
+Source: Wilson pp. 229-230. Link to last week: UNESCO factors F4 and F5 (domains) and the LEI's "domains of use"; Guérin and Yourupi say a healthy language is used in all domains by all segments of the population (p. 214). Wilson's key claim: Fishman's model starts at home and treats schools as late stages, but Hawaiian went the opposite way for schooling while following Fishman on creating environments of use. Point out the difference between a language class (second-language learning environment) and a honua, where the language is the medium for everything, including meetings and secretarial work. The "75%" test is Wilson's definition. Student answers will vary; draw out that honua need leaders who decide to use the language, and that unconscious participants (children) will use English informally, so adults must maintain it (p. 230). Also note that Wilson says adolescents often refuse to speak Hawaiian for a while after moving to an English-medium school, and later-born siblings may never learn it (p. 230).
+:::
+
+## Expanding the Vocabulary: Māmaka Kaiao {.smaller}
+
+A committee of elders and teachers (chair: Larry Kimura) collects and coins words; *Māmaka Kaiao* 'Carrying Pole of Dawn'. Where do the new words come from?
+
+| Term | Meaning | Parts |
+|---|---|---|
+| *kukui hāweo* | fluorescent light | *kukui* 'light' + *hā-* (causative) + *weo* 'glow' |
+| *paleʻili kāʻawe* | tank top | from the **Niʻihau community** |
+| *kaʻa pāmia* | used car | *kaʻa* 'car' + *pā* 'touched' + *-mia* (< *haumia* 'contaminated') |
+| *muku* | tight end (football) | *muku* 'cut-off part' (also 'cut-off end of outrigger booms') |
+| *liliuewe* | evolve | *liliu* 'change' + *ewe* 'lineage' |
+
+> **Sort the strategies:** compounding, adding an affix, **extending** an old word's meaning, taking a word from a **community**. Which does each use?
+
+::: {.notes}
+Source: Wilson pp. 228 (Table 5). Callback to Ch. 15 and the Lexicon Committee slide from the borrowing lesson (Māmaka Kaiao is the committee's lexicon). Answers: kukui hāweo = compounding with an affix (kukui 'light' + causative hā- + weo 'glow'); paleʻili kāʻawe = a word from the Niʻihau community (paleʻili 'T-shirt' + kāʻawe 'strap'), which also shows the committee draws on Niʻihau, the community of first-language speakers; kaʻa pāmia = compound with a shortened form (pā 'touched' + -mia from haumia 'contaminated'); muku = extension of an existing word's meaning (a semantic extension, the same strategy as palapala for 'writing' in Ch. 17); liliuewe = compounding (liliu 'change' + ewe 'lineage'). Wilson emphasizes that 19th-century Hawaiian also adapted quickly to technology and that there is a long tradition of conscious lexical enrichment (p. 228); and that the expansion of vocabulary allows Hawaiian to be the medium of education from preschool to the doctorate. One myth that he addresses: that modern Hawaiian is a totally different language from that of kūpuna; he says primary speakers today can converse with the remaining first-language kūpuna and understand materials written by speakers born in the 1800s (p. 228). Wilson's note about vocabulary in math and science: terms are more transparent than the Latinate terms in English (p. 227). The glosses are Wilson's; check them against the dictionary if you want to say more about the individual words.
+:::
+
+## Language and Worldview? {.smaller}
+
+Wilson (Table 6) lists **aspects of worldview encoded in the two languages**:
+
+| Feature | English | Hawaiian |
+|---|---|---|
+| **Gender** | *he*/*she* require attention to gender | one third-person pronoun **downplays gender** |
+| **"We"** | one term; focus on the self | **inclusive vs. exclusive**; focus on others |
+| **Kin terms** | focus on the nuclear family | focus on the **extended family** |
+| **Possession** | one category | **different possessive relationships** marked |
+
+> **Discuss:** What is Wilson's claim? What **evidence** would you need? 
+
+::: {.notes}
+Source: Wilson p. 230 (Table 6). The chapter presents these as differences in worldview "encoded" in the languages and uses them in programs for adolescents so that students understand how languages, worldviews, and cultures are interconnected. Be even-handed: the claim that language shapes thought is debated (this is the linguistic relativity question), and a table of grammatical differences does not by itself show that speakers think differently; the chapter does not give evidence about thinking. Facts that are in the grammar and not disputed: Hawaiian has a single third-person singular pronoun (the chapter's point), an inclusive/exclusive distinction in first-person non-singular pronouns, and different marked possessive categories. Useful link: Guérin and Yourupi (p. 216) say languages are reservoirs of knowledge, and last week's debate (Hale, Krauss, Ladefoged) included the claim that a language and its intellectual productions are often inseparable. Ask students what kind of study could test the claim, and how it relates to the argument that revitalization matters for a distinct worldview (p. 230, 234).
+:::
+
+## Hawaiian and Pidgin {.smaller}
+
+**ʻŌlelo Paʻiʻai** ('dry pounded taro language'): a **pidginized Hawaiian** used by people of many backgrounds in the 1800s
+
+| ʻŌlelo Paʻiʻai | Standard Hawaiian | English |
+|---|---|---|
+| *hanahana* | *hana* | 'do, make, work' |
+| *pilau* | *maikaʻi ʻole* | 'bad; mean' |
+| *kaukau* | *ʻai; meaʻai* | 'eat; food' |
+| *Hō ka lepo!* | (same) | 'Boy, is it dirty!' |
+
+When Hawaiian was banned in schools: **"Hō ka lepo!" → "Hō ka dirty!"**
+
+> **How does Wilson say Pidgin helps Hawaiian revitalization? What did we learn about Pidgin in Week 8?**
+
+::: {.notes}
+Source: Wilson pp. 232-233 (Table 7). Wilson's argument: (1) in the 1800s, children of Hawaiian-immigrant unions and many children of immigrants grew up speaking Hawaiian, and locally raised children could modify Hawaiian into ʻŌlelo Paʻiʻai for adult immigrants; (2) when Hawaiian was banned, children continued with ʻŌlelo Paʻiʻai with English words, often using Hawaiian conversational styles and meanings; (3) modern ʻŌlelo Paʻiʻai is what linguists call Hawaiʻi Creole English and the general population calls Pidgin; (4) Hawaiian words and structural similarities give Pidgin speakers an advantage in learning Hawaiian, and revitalization strengthens Hawaiian components in Pidgin; (5) because both Hawaiian and then Pidgin were suppressed, many people in the multiracial population identify with being excluded from power because of the way they speak, which gives a strong base for community identification with Hawaiian. Link to Week 8: Ch. 13 and Ch. 14 (Sakoda and Siegel) give other accounts of how Hawaiʻi Creole formed (the plantation era); this chapter emphasizes the Hawaiian-based pidgin before it, so ask how the accounts differ and note this is Wilson's argument. Link to Ch. 17: the 1820 "pidgin Hawaiian" recorded by Bingham and Thurston. Also link to Maria's discussion post about bumbai and akamai: akamai is a Hawaiian word in Pidgin. Wilson says Derek Bickerton documented cases where Hawaiian was the home language in immigrant households (p. 232).
+:::
+
+## Hawaiʻi vs. Aotearoa: Community Identity {.smaller}
+
+**Aotearoa/New Zealand (1999):** a controversy over singing the anthem in **Māori** at a rugby game; many non-Māori citizens were **uncomfortable not understanding** the words
+
+**Hawaiʻi:** the anthem *Hawaiʻi Ponoʻī* is **only in Hawaiian**, widely sung by **all races**; the government has always used the name *Hawaiʻi*, not "Sandwich Islands"
+
+Native Hawaiians are **less than a quarter** of the population, yet Wilson says Hawaiian is accepted as a **unifying element**.
+
+> **Why might Hawaiʻi be different? Does everyone agree with Wilson?**
+
+::: {.notes}
+Source: Wilson pp. 231-232. Wilson's explanations: the strong association of the Hawaiian language with Hawaiʻi as a whole; the history of ʻŌlelo Paʻiʻai (multiracial use of Hawaiian in the 1800s); and the shared experience of being excluded from power because of how one speaks (Pidgin, previously Hawaiian). Be careful that these are his arguments, and he is a participant and advocate. Ask what other factors students think matter, and what evidence they would want (for example, surveys of attitudes in Hawaiʻi versus Aotearoa). Do not state beliefs of all residents; some students may disagree with the claim that Hawaiian is widely accepted, and that is fine. Benton's chapter (Ch. 20) gives the Aotearoa side in more detail in Part 3 below. If you want the history of the Māori language nests, the chapter says Hawaiʻi's Pūnana Leo were inspired by news of Kōhanga Reo in 1981 (p. 224).
+:::
+
+## "Loving the Language to Death" {.smaller}
+
+- **Census:** people speaking Hawaiian at home grew **90%** from 1990 to 2000 (14,315 to 27,160)
+- But **fully fluent** speakers are rare; about **10,000** are fairly fluent
+- **The new threat:** rising status pulls speakers away from **poorly funded honua** to **well-funded English-dominant** organizations, where they **lose fluency**
+- **Symbolic use** (ceremonies, names, university pomp) can replace real use: a language with only a **symbolic function**, like **Latin**
+
+*Wilson's metaphor:* a **lei made from endangered plants** can wipe out the plants; nurture speakers in their **natural environment**, like **endangered species**
+
+> **What is the difference between *symbolic* and *primary* use? Can you name an example near you?**
+
+::: {.notes}
+Source: Wilson pp. 233-234. Chapter figures: between 1990 and 2000 the number identifying as speaking Hawaiian at home grew by 90%, from 14,315 to 27,160 (US Census 2000); at the core are about 10,000 fairly fluent people; Wilson says they are likely to be Native Hawaiians living on Hawaiian Homelands, though a growing number have little or no Hawaiian ancestry. Check before quoting: the chapter says fluent speakers equal about 3% of the Native Hawaiian population and "less than 0.1%" of the total state population; 10,000 people would be around 0.7% of a state population of roughly 1.4 million (my general knowledge of the population, not from the chapter), so the 0.1% figure looks wrong or uses a different count; I would not read it out. Warning from Wilson: well-financed private schools should consider establishing Kaiapuni programs on their campuses instead of taking speakers out of existing honua; universities using Hawaiian symbolically should not replace teaching content through Hawaiian; "without full primary use of Hawaiian in Hawaiʻi, Hawaiian will become a dead language with a solely symbolic function" (p. 234). Link to last week: Krauss and Hale use the biological analogy for endangered languages; Wilson uses it here for care and nurturing (nurseries are the university Hawaiian programs). Ladefoged criticized the species analogy as an appeal to emotion; ask students how they would respond.
+:::
+
+## Group Task: Score Hawaiian (10 min) {.smaller}
+
+**Use last week's UNESCO nine factors (F1-F9).** In groups of 3-4, take **three factors each**. Find **evidence from Wilson's chapter** and give each a **tentative rating (0-5)** with **one sentence of evidence**.
+
+
+[Link to details about each factor here](https://ich.unesco.org/doc/src/00120-EN.pdf)
+
+| Group | Factors |
+|---|---|
+| A | F1 Transmission, F2 Number of speakers, F3 Proportion |
+| B | F4 Domains, F5 New domains and media, F6 Education materials |
+| C | F7 Policy, F8 Attitudes, F9 Documentation |
+
+> **What information are you lacking? What would you *still* want to know?**
+
+::: {.notes}
+Prepare a blank copy of the Mavea table from last week (F1-F9, rating, comment) on the board. Evidence available in Wilson. F1: few first-language child speakers (several hundred children raised in Hawaiian) and the Niʻihau community; second-generation movement beginning (p. 228); F2 and F3: 27,160 speaking Hawaiian at home in 2000, about 10,000 fairly fluent, a very small proportion of the state's population (p. 233); F4 and F5: honua beyond schools (hālau hula, radio, newspaper column, theater, ʻŌiwi TV), vocabulary expansion for modern life via Māmaka Kaiao, medium of education from preschool to doctorate (pp. 228-229); F6: curriculum materials produced annually by ʻAha Pūnana Leo, Māmaka Kaiao in all Hawaiian-medium schools (pp. 226, 228); F7: official status provisions in the 1978 State Constitution, the 1990 Native American Languages Act, and the UN Declaration on the Rights of Indigenous Peoples (2010), but Hawaiian is still treated institutionally as a foreign language in many ways, and the state was denied recognition of two official languages under No Child Left Behind (pp. 222, 227); F8: positive attitudes among the general population, widely sung anthem (p. 231); F9: the Pukui and Elbert dictionary, large records in 19th-century newspapers (Ch. 17), a modern writing system with ʻokina and kahakō (p. 222). Do not give the "right" number; the point is that ratings are judgments, differences between groups are interesting, and a score hides things (Grenoble: do not reduce complex social dynamics to a number). Compare with Mavea: transmission 2, domains 2, education 0, policy 0 (exists but not implemented), attitudes 1, documentation 3. Also use the LEI warning: evidence for some factors is thin. Use this to emphasize that Hawaiian is not "saved": Wilson himself says fluent speakers are rare and the movement is fragile (p. 228, 233).
+:::
+
+# Part 3: Compare Aotearoa
+
+## Aotearoa: A Parallel Story {.smaller}
+
+| When | What happened (Benton) |
+|---|---|
+| **1920s-30s** | Decline begins; schools **effectively ban** Māori in class and school grounds |
+| **1961** | Government report calls keeping the language "**entirely a matter of individual choice**" |
+| **1972** | Petition with **30,000 signatures** to Parliament (Ngā Tamatoa, Te Reo Māori Society) |
+| **1973-78** | NZCER survey: about **70,000 fluent speakers**, mostly middle-aged or older |
+| **1980s** | First **kōhanga reo** (language nests) |
+| **1986** | **Waitangi Tribunal** report on te reo |
+| **1987** | **Māori Language Act**: official language, Māori Language Commission |
+| **2016** | New Māori Language Act; **Te Mātāwai** |
+
+> **What is the same as Hawaiʻi? What is different?**
+
+::: {.notes}
+Source: Benton, pp. 239-246, 251-252. Benton dates the decline to the 1920s and 30s (influenza after World War I and the Depression) with education policy that effectively proscribed te reo in classrooms and school grounds, accelerated by urbanization during and after World War II (by the 1960s most Māori had moved to urban areas where they were outnumbered). The 1961 Hunn report to the government treated maintenance as "entirely a matter of individual choice" (p. 240); the 1972 petition asked that language and culture courses be available in all schools with substantial Māori enrollments (p. 240-241); the NZCER survey documented several hundred North Island communities and led to bilingual schools, kōhanga reo, and later kura kaupapa Māori (immersion schools) (p. 241); trends then pointed to a drop to 2,000-3,000 fluent speakers over 30 years (p. 241). Compare with Wilson: both movements began in the 1970s-80s, both turned to preschool language nests, and both had to deal with an English-only school system; Hawaiʻi's 1896 ban was a specific law, while Benton says in New Zealand the policy was informal ("an extremely effective gentlemen's agreement," in Sir James Henare's words to the Tribunal, p. 242). The timeline puts kōhanga reo in the 1980s; Benton says the first ones were set up as a result of the 1970s survey and that they were established when the Tribunal hearings (1985) were taking place (pp. 241-243), while Wilson says news of kōhanga reo reached Hawaiʻi in 1981 (p. 224), so the exact start year is not clear from the two chapters.
+:::
+
+## The Waitangi Tribunal and *Taonga* {.smaller}
+
+**1985-86 claim:** the Crown **failed to protect** te reo Māori, breaching the **Treaty of Waitangi**
+
+- Treaty of Waitangi: Guaranteed Māori undisturbed possession of their properties (lands, forests, fisheries, and taonga (treasured things))
+
+- Argument: te reo is a ***taonga*** (something of great value, protected by the Treaty), not just "property"
+- Tribunal: "If the language should vanish, **we vanish**, just as the moa."
+- Schools: punishments for speaking Māori; "English is the **bread-and-butter language**"
+- **Result:** Māori became an **official language** (1987); right to use it in **court**; a **Language Commission**; hundreds of **kōhanga reo** within a decade
+
+> **Compare Hawaiʻi: what did the law do there? Who made the case, and on what basis?**
+
+::: {.notes}
+Source: Benton pp. 241-246. The claim was lodged by Huirangi Waikerepuru and Ngā Kaiwhakapūmau i te Reo (the Wellington Māori Language Board). The Tribunal accepted that te reo is a taonga protected by Article II of the Treaty, and that the Crown has a duty to actively protect it, including the right to use Māori in court even if the person speaks English (p. 243). The moa saying is the Tribunal's quotation of a Māori proverb (Ka ngaro te reo, ka ngaro taua, pera i te ngaro o te moa) (p. 242). Sir James Henare told the Tribunal about being punished with supplejack for speaking Māori at school and an inspector saying English was the "bread-and-butter language"; the Department of Education officials contested that there was an official policy (p. 242). Five recommendations: legislation for use of Māori in dealings with courts and public bodies, a statutory body to foster the language, an inquiry into Māori education, broadcasting obligations, and bilingualism as a prerequisite for appropriate appointments (p. 245). The Tribunal also found that 76 of 100 Māori children left school without passing three School Certificate subjects, compared with 37 of 100 Pākehā (p. 244). Hawaiʻi comparison from Wilson: the legal basis is different (the 1978 State Constitution, the 1990 federal Native American Languages Act, and UNDRIP, and the repeal in 1986 of the 1896 ban after a three-year lobbying effort), and the case was made by the ʻAha Pūnana Leo, a nonprofit (pp. 222, 225). A good question to ask: what is the difference between legal recognition and real use? Benton says that the 2016 Act says there is no right to insist on being answered in Māori and that Māori is "truly an official language only for accused criminals, lawyers, and other litigants" (p. 253); Wilson says that in Hawaiʻi, official recognition can become only symbolic (p. 222).
+:::
+
+## Hawaiʻi and Aotearoa Side by Side {.smaller}
+
+| | **Hawaiʻi** (Wilson) | **Aotearoa** (Benton) |
+|---|---|---|
+| **Language nests** | ʻAha Pūnana Leo, 1983 (inspired by Kōhanga Reo) | **Kōhanga reo**; peak 1996: 46% of Māori preschoolers, **over 14,000** |
+| **Schools** | **Kaiapuni Hawaiʻi**; 2,859 students (2015-16), growing | Kura kaupapa and bilingual classes; peak share **1999**, then **declining** |
+| **Speakers** | about **10,000** fairly fluent | about **50,000** speak well (11% of Māori); under **4%** of NZ |
+| **Law** | State constitution; 1896 ban repealed 1986 | **Treaty**; Māori Language Acts 1987 and 2016 |
+| **Main worry** | Rising status pulls speakers away; **symbolic** use | Funding **flat since 1990**; **teacher shortage**; proportion of speakers **falling** |
+
+> **Which is "ahead"? What does "ahead" even depend on?**
+
+::: {.notes}
+Sources: Wilson pp. 224-229, 233; Benton pp. 239-247, 253. Caution: the two chapters count different things, so do not treat the speaker numbers as comparable. Wilson counts about 10,000 "fairly fluent" Hawaiian speakers and 27,160 people speaking Hawaiian at home (census 2000); Benton gives a census figure of 148,395 people able to converse in Māori in 2013 and an estimate of about 50,000 who speak "well" or "very well" (11% of the Māori population) (p. 239). The chapter also gives two different percentages for the 2013 census (about 26% of the Māori population in section 2, and 21.3% in the list of census figures in section 3.6), so check before quoting either. Benton also says the speakers are less than 4% of the total New Zealand population (p. 241), and that the number of Māori speakers rose in absolute numbers from 108,712 in 1996 to 148,395 in 2013 but fell as a proportion of the Māori population, from 25.0% to 21.3% (p. 246). Hawaiian enrollments grew 25.5% between 2010-11 and 2015-16 (Wilson, p. 226), while Māori kōhanga enrollment peaked in 1996 and fell to under 10,000 children (24% of Māori preschoolers) by 2008, and Māori-medium class enrollments peaked in 2004 (27,127) (Benton p. 247). Benton gives reasons: a shortage of qualified Māori-medium teachers and static funding since 1990 (pp. 246-247). Answer to the discussion: "ahead" depends on the measure (numbers, share of population, child speakers, laws, trend) and on population size (Aotearoa has a much larger Māori population), and these are two authors' summaries. Hawaiʻi's trend is upward in schools but from a smaller base. Also these are two authors describing movements they know well (Benton was involved in the NZCER survey and Māori language policy; Wilson co-founded the Pūnana Leo).
+:::
+
+## Measuring Progress: Fishman's GIDS {.smaller}
+
+**8 levels** from near-total loss to society-wide use. Key: **Level 6** = the language is in the **home, family, and neighborhood** (oral use; "language in community"). Fishman: this is where the **battle is won or lost**.
+
+| Level | Description |
+|---|---|
+| 8-7 | Few or only older speakers |
+| **6** | **Home and community use, across generations** |
+| 5-4 | Literacy; schools |
+| 3-1 | Work, government, media, higher education |
+
+- Benton: New Zealand's approach is **"scattershot"**: schools, courts, media, universities all at once
+- Fishman would say Māori efforts are **spread too thin**; Benton asks: **is it better to do whatever you can, wherever you are?**
+
+> **Return to our warm-up: where would *you* start? Did Hawaiʻi follow Fishman?**
+
+::: {.notes}
+Source: Benton pp. 248-250; Wilson p. 229. Benton's list of the eight GIDS levels is on pp. 249; he says level 7 describes many North Island communities in the 1970s and some southern North Island communities were near level 8. In Fishman's view, securing levels 5 and 6 is the critical task and level 1 is "icing on the cake"; he sees the home-family-neighborhood-community nexus as the place where the battle is won or lost (p. 249). Benton's counter: the "Choon Tan" type of problem solving means meeting needs and responding to learner enthusiasms as they come, and since the long-term goal is societywide use of the language, it can make sense to do whatever is possible, wherever you are (pp. 249-250). The Hawaiʻi answer from Wilson: the movement ran counter to many of Fishman's proposals about schooling (starting with preschools and schools), but agreed with Fishman on creating environments where the language is used (honua) (p. 229). Link back to the warm-up: most students said home or school; here we see both movements started with preschools and schools because the home generation had been lost. Other measures from Benton: Grin and Vaillancourt's seven "status of success" conditions (two well met: political agitation and technical effectiveness; two partly met: government funding and public acceptance; two mostly unmet: cost of using Māori versus English and strict preference for using Māori; and "individual preference" hardly attempted, i.e., using Māori anywhere with the expectation of the same result as English), and Grin and Moring's three conditions for vitality: capacity, opportunity, and desire (pp. 250, 253). Ask how these relate to the nine UNESCO factors from last week.
+:::
+
+## Whose Language Is It? {.smaller}
+
+**Aotearoa:** the 2016 Act calls Māori a *taonga* **of iwi and Māori**, but only "**a language valued by the nation**"
+
+- Debate: Should policy mostly serve Māori? Should **non-Māori** learn it? Are Māori who don't speak it "**less Māori**"?
+- Politician Kelvin Davis: Māori must **let go of some control**: the whole country has to be there
+- Te Wānanga o Aotearoa target: **40%** of Māori and **6%** of all New Zealanders speaking by **2030**
+
+**Hawaiʻi (Wilson):** Hawaiian is accepted as a **unifying element** for a population in which Native Hawaiians are **under a quarter**
+
+> **Should a revitalization movement belong to the community whose language it is, or to everyone?**
+
+::: {.notes}
+Source: Benton pp. 247-248, 251, 253-254; Wilson pp. 231-232. Benton notes immersion and dual-medium programs are available primarily to Māori children (p. 251). The Māori Language Act 2016 says the language is a taonga "of iwi and Māori" but merely "a language valued by the nation" (p. 253). Benton also points out that people whose Māori identity is mostly tied to the language might feel the language has been captured by outsiders if it were used widely outside the Māori community, and says iwi or dialect-based revitalization may help local variants become a source of identity with "generic Māori" as a shared lingua franca (p. 254). The Wānanga target of doubling the proportion of Māori speakers to 40% of the Māori population and 6% of the total population by 2030 is on p. 253 (Wānanga o Aotearoa 2014). There is no single right answer; this is a debate within and outside the Māori community (Benton 2001a, Ngaha 2014). Do not give your own view on the question unless you want to; ask students to identify who is affected by each answer. Link back: last week's debate (Ladefoged, Hale, Krauss) about who decides what happens to a language, and Wilson's concern that symbolic use of Hawaiian should not replace primary use. For students writing on Hawaiian or Māori: this contrast is a good source of research questions.
+:::
+
+## Putting It Together {.smaller}
+
+What **made the difference** in Hawaiʻi? Wilson's chapter suggests:
+
+1. **Children:** first-language child speakers, protected in **immersion schools**
+2. **Adults who changed their own habits** (even board meetings in Hawaiian)
+3. **Places** where Hawaiian is the language (*honua*), not just classes
+4. **Law:** repeal of the 1896 ban; official-language status
+5. **Vocabulary** for modern life
+6. A broad **community identity**, including Pidgin speakers
+
+> **Which one could a community with 30 elderly speakers copy? Which one could it not? What would Benton add or challenge?**
+
+::: {.notes}
+Use this as a closing discussion (5 minutes). Likely answers: a community with very few elderly speakers cannot start with child speakers raised by fluent parents, but may use documentation (F9) and second-language learners, as Wilson's group did: the movement began with second-language speakers raising first-language children. The small size makes honua easier to start (a few people) but harder to sustain. Law and institutions depend on whether the state or country supports the language (Vanuatu's constitution protects local languages but the policy is not implemented, as in Mavea). Remember that this is one success story and Wilson's own perspective: the revitalization has not removed the barriers (p. 227), and Hawaiʻi has features that other places do not have, such as political history built from an indigenous base (p. 222). Connect to final papers: this is a good topic for students interested in revitalization (Hanna, Kiana, Rucella, Nathan): the key idea is the comparison of Hawaiian, Māori, and a smaller community.
+:::
+
+## Looking Ahead {.smaller}
+
+**Thursday, November 12:** I will not be in class. **[Fill in the plan.]**
+
+- Re-read **Ch. 20 (Benton)** with these questions: How did the Waitangi Tribunal change things? Which of Fishman's levels is Māori on? **Whose language** is it?
+- **Discussion Post #7** is due this week (check Lamākū)
+
+**Friday, November 20:** Draft due (at least 1,750 words)
+
+**Next week:** documentation (Ch. 21, Thieberger) and the UHM Linguistics Department (Ch. 22, Grace)
+
+::: {.notes}
+Repeat the Thursday announcement before students leave, and be specific about what they should do. Suggested comparison prompt for Ch. 20: how did Māori revitalization begin, who led it, what role did schools and government play, and what does Benton say about results? The questions point to the Ch. 20 slides from today. If you want a worksheet or Lamākū task for Thursday, I can draft one.
+:::
