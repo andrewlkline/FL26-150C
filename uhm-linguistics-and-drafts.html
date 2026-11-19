@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
+
+  <meta name="author" content="Andrew Kline">
+  <meta name="dcterms.date" content="2026-11-19">
+  <title>FL26-150C – Linguistics at UH Mānoa, Fieldwork, and Your Drafts</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-aaf15f2e6bacd977546a24656bd9161d.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Linguistics at UH Mānoa, Fieldwork, and Your Drafts</h1>
+  <p class="subtitle">LING 150C, Week 13</p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Andrew Kline <a href="https://orcid.org/0009-0003-2895-2126" class="quarto-title-author-orcid" aria-label="ORCID profile for Andrew Kline"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
+</div>
+<div class="quarto-title-author-email">
+<a href="mailto:klineal@hawaii.edu">klineal@hawaii.edu</a>
+</div>
+        <p class="quarto-title-affiliation">
+            University of Hawai’i at Mānoa
+          </p>
+    </div>
+</div>
+
+  <p class="date">November 19, 2026</p>
+</section>
+<section id="reminders" class="slide level2 smaller">
+<h2>Reminders</h2>
+<p><strong>Monday, November 23, 8:00 am (extended from Friday):</strong> Draft due on Lamākū (at least <strong>1,750 words</strong>, excluding references).</p>
+<p><strong>Week 14:</strong> sign up for a presentation slot (Google Sheet); Discussion Post #8.</p>
+<p><strong>No class Thursday, November 26</strong> (Thanksgiving).</p>
+<aside class="notes">
+<p>All dates are from the syllabus (Week 13 and Week 14 rows, and the Final Paper section). Late components lose 5% per day (syllabus §3.1). Presentations are December 1, 3, 8, and 10.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="todays-plan" class="slide level2 smaller">
+<h2>Today’s Plan</h2>
+<p><strong>Part 1: Linguistics at UH Mānoa (about 10 min)</strong></p>
+<ol type="1">
+<li>Grace (Ch. 22): why the department focuses on Oceania</li>
+<li>One example: Rehg and the Pohnpeian grammar</li>
+<li>Documentation at UHM today, and how you can get involved</li>
+</ol>
+<p><strong>Part 2: Fieldwork (about 10 min)</strong></p>
+<ol start="4" type="1">
+<li>My work on Midiki</li>
+</ol>
+<p><strong>Part 3: Draft clinic (about 35 min)</strong></p>
+<ol start="5" type="1">
+<li>Pair up, swap drafts, and give each other feedback</li>
+</ol>
+<p><strong>Wrap-up (about 5 min)</strong></p>
+<aside class="notes">
+<p>Roughly 60 minutes of teaching plus pairing; adjust to the length of the class period. If time is short, shorten Part 1 (keep “From PLDP to DLPHI”) and protect the draft clinic, since the draft is due Monday at 8 am (extended from Friday).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section>
+<section id="part-1-linguistics-at-uh-mānoa" class="title-slide slide level1 center">
+<h1>Part 1: Linguistics at UH Mānoa</h1>
+
+</section>
+<section id="why-oceania-grace-ch.-22" class="slide level2 smaller">
+<h2>Why Oceania? (Grace, Ch. 22)</h2>
+<p>From its start in <strong>1963-64</strong>, the department has focused on the languages of Oceania. Grace gives <strong>four reasons</strong>:</p>
+<ol type="1">
+<li><strong>The host language</strong> and its relatives: an obligation, given their interest to the people of Hawaiʻi</li>
+<li><strong>Convenience:</strong> speakers were in Hawaiʻi, and fieldsites were easier to reach from here than from anywhere else in the US</li>
+<li><strong>Prehistory:</strong> how the languages are related is evidence for how the peoples settled the Pacific</li>
+<li><strong>Expertise:</strong> most early faculty were already Oceanic specialists</li>
+</ol>
+<aside class="notes">
+<p>Source: Grace, Ch. 22, §2, p.&nbsp;265. The four reasons are his (the fourth he calls one he “might add”). There is no single answer. Reasons 1 and 2 still apply: Hawaiian and the migrant communities in Hawaiʻi (see DLPHI later in class); reason 3 is the kind of question we met in the weeks on settlement and language families. Reason 4 changed in that today’s faculty work across Asia and the Americas too (see “Where We Work Now”). Note that Grace is a founding faculty member writing from memory (his footnote 2 thanks others for their memories), so this is an insider’s account.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="three-regions-three-needs" class="slide level2 smaller">
+<h2>Three Regions, Three Needs</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Region</th>
+<th>State of knowledge in the 1960s</th>
+<th>What the department did</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Polynesia</strong></td>
+<td>Fairly well known: accurate list of languages, some dictionaries and grammars</td>
+<td>Studies of Hawaiian and specific problems; two Outlier languages; Tongan</td>
+</tr>
+<tr class="even">
+<td><strong>Melanesia</strong></td>
+<td>Hundreds of languages, many unknown; the greatest diversity</td>
+<td>Fieldwork in New Caledonia, Vanuatu, the Solomons, and Papua New Guinea; the Fijian dictionary; the New Guinea project (1975-76)</td>
+</tr>
+<tr class="odd">
+<td><strong>Micronesia</strong></td>
+<td>Poorly known until World War II</td>
+<td>The department’s <strong>greatest impact</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Why would Micronesia be where UH made the biggest difference?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>Source: Grace §4, pp.&nbsp;266-270. Answer, from Grace: Micronesia was among the least-known areas; the Peace Corps needed language materials, and then the Trust Territory government, faced with improving education, funded a series of UH projects (the Pacific Languages Development Project, 1970-74, to develop standard orthographies and produce bilingual dictionaries and reference grammars, with linguistic training for Micronesian consultants). He says Micronesian languages went from among the least known in Oceanic to perhaps more adequately described than those of any other comparable area. This is Grace’s own assessment. The Fijian dictionary: begun in 1971 by a committee of Fijians and linguists, funded through the interest of the actor Raymond Burr, who owned an island in Fiji; it is monolingual, with Schütz as director and Paul Geraghty as assistant, later editor (pp.&nbsp;267-268).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="from-grace-to-rehg-one-grammar" class="slide level2 smaller">
+<h2>From Grace to Rehg: One Grammar</h2>
+<p><strong>The Pacific Languages Development Project (1970-74):</strong> standard orthographies, reference grammars, bilingual dictionaries, and <strong>training for Micronesians</strong></p>
+<p><strong>Example:</strong> the <em>Ponapean Reference Grammar</em> (Pohnpeian), written by <strong>Ken Rehg</strong> with a native-speaker assistant, <strong>for speakers</strong> of the language</p>
+<p>Rehg (2014) says it:</p>
+<ul>
+<li>changed how young speakers <strong>viewed</strong> their language (teenagers used to say Pohnpeian “had no grammar”)</li>
+<li>is used to teach Pohnpeian to <strong>learners</strong>, including Peace Corps volunteers</li>
+<li>supports teaching of the <strong>standard orthography</strong> and led to a <strong>community grammar</strong> written by two Pohnpeians</li>
+</ul>
+<blockquote>
+<p><strong>Is a grammar “documentation” or “description”?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>Sources: Grace §4.3, p.&nbsp;270 (PLDP, seven reference grammars: Chamorro, Palauan, Yapese, Mokilese, Kosraean, Pohnpeian, and Woleaian); Rehg 2014 (LD&amp;C Special Publication 8, pp.&nbsp;53-67), §5.1 (pp.&nbsp;58-60): the Pohnpeian grammar was written by Rehg with the assistance of Damian Sohl, a native speaker who participated in the project; drafts were used in a seminar and reviewed by about thirty native speakers over about six years; the three uses on the slide are his three points (p.&nbsp;60). Rehg’s larger argument (pp.&nbsp;53-57): grammars and dictionaries should normally be in the documentary record, even though Himmelmann (2006) treats the reference grammar and dictionary as a format for description, not documentation; Rehg says one cannot easily separate the two in practice, that at UH the goal is to bring data, documentation, analysis, description, and theory together in one “seamless whole,” and that the right choice depends on context (for a language with a few elderly speakers and no interest in revitalization, build the corpus first; if the language might be revitalized, a grammar should have high priority). He also argues that analysis checks the adequacy of the corpus, with his story about recorded narratives that contained no example of a question (p.&nbsp;56). Rehg also describes a “community grammar” and gives an acronym for what it should be (FINE: focused, interesting, naturalistic, and a fourth letter I did not see in my copy, so check page 61 before using it). Rehg says he does not take credit for the plan: the audience and approach were guidelines for all the grammars in the project (p.&nbsp;59). Answer to the question: both, in his view; it is a record that serves linguists and the community, which is why he argues against drawing a hard line between documentation and description. Link to Tuesday: Himmelmann (1998, 2006).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="the-authors-you-have-read" class="slide level2 smaller">
+<h2>The Authors You Have Read</h2>
+<p>Grace’s list of contributors to the reader (22 people): <strong>every one</strong> has a UH connection (a degree, teaching, or an affiliation):</p>
+<ul>
+<li><strong>Schütz</strong> (Ch. 17 and Fijian), <strong>Lynch</strong> (diversity), <strong>Meyerhoff</strong> (pidgins and creoles), <strong>Sakoda &amp; Siegel</strong> (Hawaiʻi Creole English), <strong>Guérin &amp; Yourupi</strong> (endangerment), <strong>Wilson</strong> (Hawaiian revitalization), <strong>Benton</strong> (Māori), <strong>Thieberger</strong> (documentation)</li>
+</ul>
+<p>Grace also lists <strong>three kinds of contribution:</strong> research, <strong>publishing</strong> (<em>Oceanic Linguistics</em>, brought to UH in the 1960s), and <strong>students</strong>: “the multiplier effect.”</p>
+<aside class="notes">
+<p>Source: Grace §§5-6 (p.&nbsp;271) and “Contributing Authors” (pp.&nbsp;272-273). The topic labels next to each name (Fijian, diversity, pidgins and creoles, and so on) are from the readings and chapter titles I have seen this semester; check them against your reader’s table of contents before showing the slide, especially Meyerhoff, Sakoda and Siegel, and Benton. Individual affiliations per the contributor notes: Schütz taught at UH 1962-2000; Lynch PhD Hawaiʻi 1974; Meyerhoff PhD Pennsylvania, taught at UH 1997-2000; Sakoda MA Hawaiʻi 1991 and is outreach facilitator of the Sato Center; Siegel MA Hawaiʻi 1973, directed the Sato Center 2002-2004; Guérin PhD Hawaiʻi 2008; Yourupi MA Hawaiʻi 2009; Wilson PhD Hawaiʻi 1981 and teaches at UH Hilo; Benton PhD Hawaiʻi 1972; Thieberger taught at UH 2008-2010. Answer to the question, per Grace (p.&nbsp;271): knowledge is cumulative, so every project needs to be able to build on earlier work, which requires being able to find and read it; suitable outlets were scarce when the department started. He says <em>Oceanic Linguistics</em> has been published by UH ever since, with a monograph series (39 Special Publications by 2012), and the Comparative Austronesian conference series started in 1974. Link to last week’s source hunting: <em>Oceanic Linguistics</em> is a journal to search.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="part-2-documentation-at-uhm-today" class="title-slide slide level1 center">
+<h1>Part 2: Documentation at UHM Today</h1>
+
+</section>
+<section id="from-pldp-to-dlphi" class="slide level2 smaller">
+<h2>From PLDP to DLPHI</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>1970-74</strong></th>
+<th><strong>2024 on</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Project</strong></td>
+<td>Pacific Languages Development Project</td>
+<td>Diaspora Languages Project in Hawaiʻi (<strong>DLPHI</strong>)</td>
+</tr>
+<tr class="even">
+<td><strong>Where</strong></td>
+<td>Micronesia (Trust Territory)</td>
+<td><strong>Micronesian communities in Hawaiʻi</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Funding</strong></td>
+<td>Trust Territory government</td>
+<td>National Science Foundation</td>
+</tr>
+<tr class="even">
+<td><strong>Aims</strong></td>
+<td>Orthographies, grammars, dictionaries, training</td>
+<td>Annotated documentation, research, training</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>What stayed the same, and what changed?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>Sources: Grace §4.3 and the DLPHI page (manoa.hawaii.edu/linguistics/research/dlphi). Answer: the focus on Micronesia, on training community members, and on materials that last has continued; what has changed is that the community is now in Hawaiʻi (a diaspora), the methods now include digital archiving and tools such as ultrasound, and the training is aimed at students and community organizations here. Be careful not to overstate the link: the DLPHI page does not say it builds on the PLDP; the comparison is mine and Grace’s chapter gives the history. You can say it from your own knowledge of the department.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="dlphi-whats-happening-now" class="slide level2 smaller">
+<h2>DLPHI: What’s Happening Now</h2>
+<p><strong>An NSF-funded project</strong> to support diaspora language communities, focusing on the <strong>Micronesian diaspora in Hawaiʻi</strong></p>
+<ul>
+<li><strong>Why?</strong> Outmigration and rising seas threaten Micronesian languages; the Micronesian population in Hawaiʻi may be as many as <strong>30,000</strong> (nearly <strong>2%</strong> of the state), yet support for Micronesian languages here is almost nonexistent</li>
+<li><strong>LDTC:</strong> training workshops for specific skills and specific communities</li>
+<li><strong>MURAL:</strong> undergraduates of Micronesian heritage do their <strong>own documentation project</strong> and present it each year</li>
+<li><strong>Research:</strong> ultrasound studies of <strong>Palauan</strong> and <strong>Woleaian</strong>; corpus building; typology and grammar</li>
+</ul>
+<blockquote>
+<p><strong>Why would a documentation project train community members instead of only recording?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>Source: the DLPHI page, “Goals,” “Why Micronesia?” and “Projects.” The page says the Micronesian population in Hawaiʻi “has swelled to as many as 30,000,” nearly 2% of the state, and describes support for Micronesian languages as almost non-existent despite the visible support for the Hawaiian renaissance. The LDTC (Language Documentation Training Center) held a workshop on November 23-24, 2024; MURAL stands for Micronesian Undergraduate Research Apprenticeship in Linguistics and culminates in a public presentation each year; ultrasound projects on Palauan and Woleaian were presented at the Acoustical Society of America meeting in 2025. This is the department’s largest current project, as you said; add anything you know that the page does not say (for example, who the other participants are). The NSF award number (2421485) is cited on the page; I could not open the NSF award abstract itself (robots.txt blocked it), so I did not use it. Answer to the question: it builds lasting capacity in the community (the DLPHI goals say so), and echoes what we read on Tuesday: community-based research (Czaykowska-Higgins), Leonard’s argument that community members should be core stakeholders, François’s example of community-made materials in Vanuatu, and Grace’s point about training Micronesian consultants in the 1970s.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="get-involved-icldc-10" class="slide level2 smaller">
+<h2>Get Involved: ICLDC 10</h2>
+<p><strong>10th International Conference on Language Documentation &amp; Conservation</strong></p>
+<div class="column">
+<ul>
+<li><strong>March 4-7, 2027</strong>, Honolulu (Hawaiʻi Imin International Conference Center)</li>
+<li>Theme: <strong>“Arts Sustaining Language”</strong> (storytelling, song, performance, visual arts)</li>
+<li>Hosted by UH Mānoa Linguistics with UH Hilo’s Ka Haka ʻUla O Keʻelikōlani; co-chairs <strong>Holton, Pappas, and Solomon</strong></li>
+</ul>
+<p><strong>Volunteer and get free registration and a free T-shirt:</strong></p>
+<ul>
+<li>Go to an <strong>orientation session</strong> before the conference</li>
+<li>Work <strong>at least 5 hours</strong> across the conference days</li>
+<li>Fill out the <strong>Volunteer Interest Form</strong> by <strong>Jan 31, 2027</strong></li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/icldc-volunteer-qr.png" style="width:60.0%" alt="QR code linking to the ICLDC 10 volunteer interest form"></p>
+<figcaption>Scan to sign up, or go to <strong>go.hawaii.edu/SSV</strong></figcaption>
+</figure>
+</div>
+</div><aside class="notes">
+<p>Sources: the ICLDC site (ling.lll.hawaii.edu/sites/icldc): dates, venue, theme, co-chairs (Holton, Pappas, N. Haʻalilio Solomon), the optional Hilo Field Study (March 8-9, separately organized with its own registration), and ComputEL-10 on March 2-3 (also separate). Registration for accepted presenters opens Nov.&nbsp;1, 2026 and registration opens to the general public on December 1, 2026. The volunteer details (free registration and T-shirt, one orientation session, at least 5 hours of work across the conference days, interest form closing Jan 31, 2027) come from the ICLDC Volunteer Coordination Committee’s announcement email that you received; the short link go.hawaii.edu/SSV and the QR code are yours and point to their form. The committee asked instructors to share the invitation with students. Questions: icldc@hawaii.edu. Also say that ICLDC was held in Honolulu most recently in March 2025 (theme: diaspora communities).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="part-3-fieldwork" class="title-slide slide level1 center">
+<h1>Part 3: Fieldwork</h1>
+
+</section>
+<section id="my-fieldwork-the-midiki-language" class="slide level2 smaller">
+<h2>My Fieldwork: the Midiki language</h2>
+<div class="columns">
+<div class="column" style="width:52%;">
+<p><strong>Midiki</strong> is a language spoken in Timor-Leste, Asia’s youngest country (independent since 2002)</p>
+<ul>
+<li>Began after living in the Midiki-speaking community for two years as a Peace Corps volunteer</li>
+<li>Work with local leadership to determine goals for the language documentation project</li>
+<li>Find ways to develop materials useful to the community in addition to my own research outputs</li>
+<li>This past summer:
+<ul>
+<li>10 weeks, ~15 hours of recordings, 45 speakers, 9 villages</li>
+<li>All archived in Kaipuleohone Archive <a href="https://hdl.handle.net/10125/737754">https://hdl.handle.net/10125/737754</a></li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:48%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/timor-leste-map.png" alt="Map of Southeast Asia and northern Australia with East Timor and its capital Dili highlighted."></p>
+<figcaption>Timor-Leste in Southeast Asia (Encyclopædia Britannica)</figcaption>
+</figure>
+</div>
+<!-- Save the language map as images/timor-languages-map.png, then uncomment:
+![Dominant vernacular by area in Timor-Leste](images/timor-languages-map.png){fig-alt="Map of Timor-Leste colored by dominant vernacular, with Austronesian and non-Austronesian languages listed, including Kairui-Midiki."}
+-->
+</div></div>
+<blockquote>
+<p><strong>What would you want to record if you were documenting a language today?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>I only know what you have told me: the language is Midiki, a lingua franca (Tetun) is replacing it among children, and the testimony in the video was recorded in the summer. Everything in brackets needs your details. The question for students: expect answers like stories, conversations, songs; steer them to the idea from Tuesday that a documentation records a range of communicative events, not only elicited words (Himmelmann 2006).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="fieldwork-in-timor-leste" class="slide level2 smaller">
+<h2>Fieldwork in Timor-Leste</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fieldwork-forest.jpg" style="width:90.0%" alt="A man with gray hair stands in a forest, holding onto bamboo poles and speaking toward the camera."></p>
+<figcaption>Recording in the field, summer 2026</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fieldwork-photo4.jpg" style="width:90.0%" alt="Five men sit around a table of food inside an earthen-walled house, with a dog by the door."></p>
+<figcaption>Sharing a meal with community members, summer 2026</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fieldwork-weaving.jpg" style="width:90.0%" alt="Two women sit under trees weaving palm leaves while the researcher sits beside them, watching."></p>
+<figcaption>Documenting traditional weaving with two women, summer 2026</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/fieldwork-photo3.jpg" style="width:90.0%" alt="Six people sit in plastic chairs outdoors beside a road, smiling at the camera."></p>
+<figcaption>With community members in the village, summer 2026</figcaption>
+</figure>
+</div>
+</div></div>
+<aside class="notes">
+<p>Photos from your summer fieldwork (file dates July 2026). I do not know the people, places, or activities, so the captions are generic: replace them with who, where, and what was being recorded, and say whether the speakers agreed to be shown. Good talking points: documentation happens in daily activities (work, crafts, conversation), not only in elicitation sessions; what you record and who decides. The ELAN screenshot that used to be on this slide is still on Tuesday’s deck (“What Goes Into Documentation?”).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="part-4-draft-clinic" class="title-slide slide level1 center">
+<h1>Part 4: Draft Clinic</h1>
+
+</section>
+<section id="ground-rules-for-giving-and-getting-feedback" class="slide level2 smaller">
+<h2>Ground Rules for Giving and Getting Feedback</h2>
+<p><strong>When you are the reader</strong></p>
+<ul>
+<li>Start with the <strong>big picture</strong>. Do not fix spelling or grammar today.</li>
+<li>Say what you <strong>understood</strong>: <em>“I read this as…”</em></li>
+<li>Say what <strong>works</strong>, then what is <strong>unclear</strong>. Be specific: point to a sentence or paragraph.</li>
+</ul>
+<p><strong>When you are the writer</strong></p>
+<ul>
+<li><strong>Before your partner reads:</strong> tell them <strong>one question</strong> you want help with. <em>Example: “Is my question too big?”</em></li>
+<li><strong>While they talk:</strong> <strong>listen and take notes</strong>. Do not defend or explain your draft.</li>
+<li><strong>After:</strong> say back what you heard. You decide which advice to use.</li>
+</ul>
+<aside class="notes">
+<p>These are the guidelines; the next slide is the procedure. Students do better with both: guidelines say what to comment on, and the procedure says how and when. The practices here come from writing-center guides (UMN Writing Across the Curriculum; Grand Valley State University; Caltech Hixon Writing Center): big picture before copyediting, say back what you understood, writer states a question up front, writer listens silently and takes notes, writer decides what to use. Say plainly that a partial draft is fine and that nobody has to apologize for their draft. Skip grammar and spelling: with the draft due Monday morning, the big issues (question, argument, evidence, citations) matter most.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="how-this-will-work-about-35-min" class="slide level2 smaller">
+<h2>How This Will Work (about 35 min)</h2>
+<ol type="1">
+<li><strong>Pair up</strong> (4 min). Have your draft/outline, even if it is not finished. Tell your partner <strong>one question</strong> you want help with.</li>
+<li><strong>Round 1, the big picture (9 min).</strong> Read your partner’s <strong>introduction</strong>. Try to identify their <strong>thesis</strong>. Then say: <em>“Your question is <strong><em>, and your answer is </em></strong>.”</em></li>
+<li><strong>Round 2, the body (9 min).</strong> Read the <strong>first sentence of each paragraph</strong>. Does each one support the answer?</li>
+<li><strong>Round 3, evidence and citations (9 min).</strong> Check the <strong>sources and the reference list</strong>.</li>
+<li><strong>Make a plan (4 min).</strong> Write down <strong>one change</strong> you will make this weekend.</li>
+</ol>
+<p><strong>In every round:</strong></p>
+<ol type="1">
+<li><strong>Swap drafts.</strong> Both of you <strong>read at the same time</strong> (about 3 minutes).</li>
+<li><strong>Partner A</strong> gives feedback (about 3 minutes). <strong>Writer A listens and takes notes.</strong></li>
+<li><strong>Switch.</strong> <strong>Partner B</strong> gives feedback (about 3 minutes). <strong>Writer B listens and takes notes.</strong></li>
+</ol>
+<aside class="notes">
+<p>Adjust timings to the class period. The structure (say-it-back, topic sentences, evidence) follows the draft criteria in the Final Paper guide: the draft should state the research question, present an argument supported by academic sources with in-text citations, connect to at least one course idea or reading, have a clear structure with body paragraphs that each support one point and point back to the question, and include a reference list in a consistent style. Walk around and read over shoulders; use the time to answer questions about scope or sources. If the room has an odd number, make one group of three. Tell students the overall rhythm once: read, talk, switch, then move to the next round. Announce “time to switch” and “next round” out loud, since pairs will not keep time on their own. Last step: have them write the one change on their draft or in their notes; the closing question on the Wrap-Up slide asks the same thing. Optionally put the Reader’s Checklist on screen or hand it out during the rounds.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="what-a-strong-draft-has" class="slide level2 smaller">
+<h2>What a Strong Draft Has</h2>
+<p>From the Final Paper guide:</p>
+<ul>
+<li><strong>Introduces</strong> the language, country, or island and the topic, and <strong>states the research question</strong> clearly</li>
+<li><strong>Argues</strong> an answer supported by <strong>evidence from academic sources</strong>, with in-text citations</li>
+<li><strong>Connects</strong> to at least one <strong>idea or reading from the course</strong></li>
+<li>Has a <strong>clear structure</strong>: each body paragraph makes <strong>one point</strong> and points back to the question</li>
+<li>Includes a <strong>reference list</strong> in one <strong>consistent citation style</strong></li>
+</ul>
+<p><em>It does not have to be polished, but it does need to be complete: introduction, body, conclusion.</em></p>
+<aside class="notes">
+<p>Directly from the Draft section of the Final Paper guide you have already given students. The draft is worth 25% of the final paper grade, the final paper 45%, and the final paper needs at least 7 academic sources and at least 2,500 words, excluding references.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="readers-checklist" class="slide level2 smaller">
+<h2>Reader’s Checklist</h2>
+<p><strong>Introduction</strong></p>
+<ul>
+<li>Can you say the <strong>question</strong> and the <strong>answer</strong> in one sentence each?</li>
+<li>Is the question <strong>one question</strong>, not two?</li>
+</ul>
+<p><strong>Body</strong></p>
+<ul>
+<li>Does each paragraph make <strong>one point</strong> and back it with a <strong>source</strong>?</li>
+<li>Is there a link to a <strong>course reading</strong>?</li>
+</ul>
+<p><strong>Sources and citations</strong></p>
+<ul>
+<li><strong>Academic</strong> sources (books, chapters, peer-reviewed articles, grammars, dictionaries)?</li>
+<li>Each in-text citation matches the <strong>reference list</strong>; one <strong>style</strong> throughout</li>
+</ul>
+<p><strong>Conclusion</strong></p>
+<ul>
+<li>Does it answer the question and say what is left to find out?</li>
+</ul>
+<aside class="notes">
+<p>Hand this out or leave it on screen. The points about “one question” and academic sources come from the pattern in the preliminary-sources submissions: many questions had two parts or assumed their answer, and several source lists included encyclopedias, tourism sites, or URL-only citations that would not count as academic sources. Do not name students. Remind them of the academic-source definition in the guide: scholarly books, book chapters, and peer-reviewed articles, including reference grammars and dictionaries.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="common-fixes" class="slide level2 smaller">
+<h2>Common Fixes</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>If you see…</th>
+<th>Try…</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A question with <strong>two parts</strong></td>
+<td>Pick the part you can answer well; make the other background</td>
+</tr>
+<tr class="even">
+<td>A question that <strong>assumes the answer</strong> (“Why is X so …?”)</td>
+<td>Ask what the evidence says: “In what ways …?”</td>
+</tr>
+<tr class="odd">
+<td><strong>Summary</strong> of sources, with no argument</td>
+<td>Add a <strong>claim</strong> to each paragraph, then use the source as evidence</td>
+</tr>
+<tr class="even">
+<td>A <strong>website</strong> or <strong>encyclopedia</strong> as a source</td>
+<td>Find the scholarly source it cites</td>
+</tr>
+<tr class="odd">
+<td>A citation with only a <strong>URL</strong></td>
+<td>Add author, year, title, and publication details</td>
+</tr>
+<tr class="even">
+<td>No link to the <strong>course</strong></td>
+<td>Name a reading and say how your case fits or changes its idea</td>
+</tr>
+</tbody>
+</table>
+<aside class="notes">
+<p>Use as a quick reference during the pairing. Everything here is general advice built from the earlier feedback, not from a specific source. If students ask whether Course Reader chapters count among the 7 academic sources, you have not decided yet (it was a question from at least one student), so settle it before class.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="writing-support-and-ai" class="slide level2 smaller">
+<h2>Writing Support and AI</h2>
+<ul>
+<li><strong>Questions?</strong> Office hours <strong>W/F 1:30-2:30, Moore 574</strong>, or email</li>
+<li><strong>Generative AI (syllabus §3.3):</strong> you may use it to support your thinking and polish your writing, but <strong>not</strong> to generate first drafts or summarize readings</li>
+<li>If you use it, include a brief <strong>statement at the top</strong> of the assignment; undisclosed use to produce substantive content is treated as <strong>academic dishonesty</strong>. <em>When in doubt, ask me.</em></li>
+</ul>
+<aside class="notes">
+<p>Paraphrased from syllabus §3.3 (Generative AI Policy), which I re-read for this deck. Office hours (Wednesdays and Fridays 1:30-2:30, Moore 574) are from the Final Paper guide.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="wrap-up" class="slide level2 smaller">
+<h2>Wrap-Up</h2>
+<ul>
+<li><strong>Today:</strong> UH linguistics and documentation, my fieldwork, and your drafts</li>
+<li><strong>Mon 11/23, 8:00 am:</strong> draft due on Lamākū</li>
+<li><strong>Want to volunteer at ICLDC (March 2027)?</strong> Form closes <strong>Jan 31</strong>: <strong>go.hawaii.edu/SSV</strong></li>
+</ul>
+<blockquote>
+<p><strong>What is one thing you will change in your draft this weekend?</strong></p>
+</blockquote>
+<aside class="notes">
+<p>Take 2-3 answers if there is time. Remind them that a partial draft is better than none (Final Paper guide).</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="sources-behind-todays-slides" class="slide level2 smaller">
+<h2>Sources Behind Today’s Slides</h2>
+<ul>
+<li>Grace, George W. Ch. 22: The University of Hawaiʻi linguistics department and Oceanic linguistics. In <em>Languages of the Pacific Islands: Introductory Readings</em>, 265-271.</li>
+<li>Rehg, Kenneth L. 2014. On the role and utility of grammars in language documentation and conservation. In Nakayama &amp; Rice (eds.), <em>The Art and Practice of Grammar Writing</em>, LD&amp;C Special Publication 8, 53-67.</li>
+<li>UH Mānoa Department of Linguistics. Diaspora Languages Project in Hawaii (DLPHI): manoa.hawaii.edu/linguistics/research/dlphi</li>
+<li>UH Mānoa Department of Linguistics. Research: manoa.hawaii.edu/linguistics/research</li>
+<li>ICLDC 10: ling.lll.hawaii.edu/sites/icldc</li>
+<li>Himmelmann (1998, 2006), Thieberger Ch. 21, and the other readings from Tuesday’s deck</li>
+</ul>
+<aside class="notes">
+<p>Web pages were read on November 18, 2026 (check that they still say the same). The list of places faculty and students work, the volunteer-for-registration option, and the Midiki details come from you.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+
+
+</section></section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="images/left.png" class="slide-logo"></p>
+<div class="footer footer-default">
+<p>LING 150C</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': false,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":false},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/andrewlkline\.github\.io\/FL26-150C\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>
