@@ -1,0 +1,163 @@
+---
+title: "Citing Sources and Making a Reference List"
+subtitle: "LING 150C"
+author:
+  - name: Andrew Kline
+    email: klineal@hawaii.edu
+    affiliations: University of Hawai'i at Mānoa
+    orcid: 0009-0003-2895-2126
+format:
+  clean-revealjs:
+    theme: [default, "_extensions/clean/manoa.scss", custom.scss]
+    slide-number: c/t
+    progress: true
+    controls: false
+    chalkboard: false
+    logo: images/left.png
+    footer: "LING 150C"
+    transition: slide
+    incremental: false
+    code-fold: false
+---
+
+## Why Cite? {.smaller}
+
+- **Give credit** to the people whose ideas, data, and words you use
+- **Let readers check** your evidence and find the source themselves
+- **Show your argument is built on research**, not opinion
+- **Avoid plagiarism:** using someone's words or ideas without credit, even by accident, is academic dishonesty (syllabus §3.2)
+
+> **Rule of thumb:** if a fact, idea, number, or phrase came from a source, cite it where you use it.
+
+::: {.notes}
+The syllabus sections on academic honesty (§3.2) and generative AI (§3.3) are referred to in the Final Paper guide. Plain statement for students: common knowledge in the field (for example, that Hawaiian is a Polynesian language) does not need a citation; specific claims, numbers, dates, and anyone's interpretation do. When unsure, cite.
+:::
+
+## Two Parts That Must Match {.smaller}
+
+1. **In-text citation:** a short pointer in your sentence (author, year, sometimes page)
+2. **Reference list** (also "Works Cited" or "Bibliography"): the full details, at the end, in alphabetical order by author
+
+**Every in-text citation needs an entry in the list, and every entry in the list needs an in-text citation.**
+
+::: {.notes}
+A frequent problem in the drafts: sources in the reference list that never appear in the text, quotations with no citation, and in-text citations with no matching entry. Tell students to do a "match check" at the end: go through the paper and tick each in-text citation against the list, then go through the list and find each source in the paper.
+:::
+
+## Pick One Style and Use It Throughout {.smaller}
+
+The Final Paper guide says: use **any style you like, but be consistent**.
+
+| Style | Common in | In-text looks like |
+|---|---|---|
+| **APA** | Psychology, education, social sciences | (Silva, 2004, p. 12) |
+| **MLA** | Literature, humanities | (Silva 12) |
+| **Unified Style Sheet for Linguistics (LSA)** | Linguistics | Silva (2004: 12) |
+
+*The styles differ in punctuation, order, and capitalization, but they ask for the same information.*
+
+::: {.notes}
+The Unified Style Sheet for Linguistics is the style used by many linguistics journals, which is why it is included; students may use any style. Page numbers in these examples are only for illustration. Format details below come from my general knowledge of APA (7th ed.), MLA (9th ed.), and the Unified Style Sheet, not from a source I read for this deck, so check them against the current guides before posting. Purdue OWL and the UH library guides cover APA and MLA; the LSA publishes the Unified Style Sheet on its website.
+:::
+
+## Collect the Details While You Read {.smaller}
+
+For every source, write down:
+
+- **Author(s)**, with full names
+- **Year**
+- **Title** (of the article or chapter, and of the book or journal it is in)
+- **Publication details:** publisher (books), or journal, volume, issue, and **page numbers** (articles and chapters)
+- **DOI or stable URL**, if it has one
+- **Page number** of any quotation or specific claim
+
+*Finding these later is much harder than writing them down now.*
+
+::: {.notes}
+Practical tip: keep a running list or use a reference manager (Zotero is free and works with Word and Google Docs). Reference managers can format entries in any style, but the output often needs correcting, especially capitalization and missing details, so read every entry. Several drafts have bare URLs or links in the reference list; these cannot be cited this way. Also, remind students that tools such as generative AI can invent references, so every entry must be checked against the real source (syllabus §3.3).
+:::
+
+## Book {.smaller}
+
+| Style | Reference list entry |
+|---|---|
+| **APA** | Silva, N. K. (2004). *Aloha betrayed: Native Hawaiian resistance to American colonialism*. Duke University Press. |
+| **MLA** | Silva, Noenoe K. *Aloha Betrayed: Native Hawaiian Resistance to American Colonialism*. Duke UP, 2004. |
+| **Unified Style Sheet** | Silva, Noenoe K. 2004. *Aloha betrayed: Native Hawaiian resistance to American colonialism*. Durham, NC: Duke University Press. |
+
+**Same information, different order and punctuation.** Note where the year goes, what is italic, and how the title is capitalized.
+
+::: {.notes}
+Example source is a real book that students in the class are using (Silva 2004). The entries follow the conventions of each style as I understand them: APA uses sentence-case titles and initials; MLA uses title case, full names, and "UP" as an abbreviation for University Press; the Unified Style Sheet puts the year after the author, uses full names, and includes the place of publication before the publisher. MLA 9 does not require a place of publication.
+:::
+
+## Journal Article {.smaller}
+
+| Style | Reference list entry |
+|---|---|
+| **APA** | Bromham, L., Dinnage, R., Skirgård, H., Ritchie, A., Cardillo, M., Meakins, F., Greenhill, S., & Hua, X. (2022). Global predictors of language endangerment and the future of linguistic diversity. *Nature Ecology & Evolution, 6*(2), 163–173. https://doi.org/10.1038/s41559-021-01604-y |
+| **MLA** | Bromham, Lindell, et al. "Global Predictors of Language Endangerment and the Future of Linguistic Diversity." *Nature Ecology & Evolution*, vol. 6, no. 2, 2022, pp. 163–73. |
+| **Unified Style Sheet** | Bromham, Lindell, Russell Dinnage, Hedvig Skirgård, Andrew Ritchie, Marcel Cardillo, Felicity Meakins, Simon Greenhill & Xia Hua. 2022. Global predictors of language endangerment and the future of linguistic diversity. *Nature Ecology & Evolution* 6(2). 163–173. |
+
+::: {.notes}
+Real article (the DOI is as it appears in a student reference list). Journal articles need the journal name, volume, issue, and page range. MLA and the USS can include the DOI as well; it is optional in MLA 9 but recommended. In APA 7, list up to 20 authors; MLA uses the first author followed by "et al." for three or more; the Unified Style Sheet lists all authors. First names (Lindell, Russell, and so on) are from the published author list; check them if you use this slide.
+:::
+
+## Chapter in an Edited Book {.smaller}
+
+| Style | Reference list entry |
+|---|---|
+| **APA** | François, A. (2015). The exceptional linguistic density of Vanuatu. In A. François, S. Lacrampe, M. Franjieh, & S. Schnell (Eds.), *The languages of Vanuatu: Unity and diversity* (pp. 1–21). Asia-Pacific Linguistics. |
+| **MLA** | François, Alexandre. "The Exceptional Linguistic Density of Vanuatu." *The Languages of Vanuatu: Unity and Diversity*, edited by Alexandre François et al., Asia-Pacific Linguistics, 2015, pp. 1–21. |
+| **Unified Style Sheet** | François, Alexandre. 2015. The exceptional linguistic density of Vanuatu. In Alexandre François, Sébastien Lacrampe, Michael Franjieh & Stefan Schnell (eds.), *The languages of Vanuatu: Unity and diversity*, 1–21. Canberra: Asia-Pacific Linguistics. |
+
+**Two titles:** the chapter *and* the book. Cite the author of the chapter, not the editor.
+
+::: {.notes}
+Many course readings are chapters in an edited volume (for example, the chapters in Languages of the Pacific Islands), so this is the format students will use most for readings. For those, use the editors' names and the publisher from the book's title page; I did not check them for this slide. Several drafts cite a chapter without editors, year, publisher, or pages: all of these are needed.
+:::
+
+## Quoting and Paraphrasing {.smaller}
+
+- **Paraphrase** (put it in your own words) for most evidence. Still cite it.
+- **Quote** only when the exact wording matters. Use quotation marks and give the **page number**.
+- A paraphrase that stays too close to the original (a few words changed) is still plagiarism. Change the structure, not just the words.
+- Say **what the source found**, not only that it exists:
+
+| Weak | Stronger |
+|---|---|
+| Schütz provides a detailed history of this process. | Schütz shows that the 1826 alphabet was chosen by a vote of the missionaries, after native speakers disagreed on spellings (pp. 195-96). |
+
+::: {.notes}
+The "stronger" example paraphrases a point that appears in one student's draft, which cites Schütz pages; I have not checked it against the chapter myself, so confirm or replace it with an example you know. The key point for students: in a paper graded on argument, the citation is attached to a specific finding, and the page number shows you read it. This is the biggest difference between the strong and the weaker drafts.
+:::
+
+## Common Problems {.smaller}
+
+- **No in-text citations**, or citations only at the end of a paragraph
+- **Bare URLs** instead of full references
+- **Reference list does not match the text** (extra sources, or missing ones)
+- **Mixed styles** (APA for one entry, MLA for the next)
+- **Non-academic sources** (Wikipedia, tourism pages, encyclopedias): find the scholarly source they cite
+- **Missing page numbers** for quotations
+- **Not alphabetical** by author's last name
+
+::: {.notes}
+All of these appear in the first drafts (without naming students). The Final Paper guide defines academic sources as scholarly books, book chapters, and peer-reviewed articles, including reference grammars and dictionaries, with at least 7 in the final paper. Whether Course Reader chapters count toward the 7 is your decision from earlier.
+:::
+
+## Checklist Before You Submit {.smaller}
+
+1. Every fact, idea, or quotation from a source has an **in-text citation**
+2. Every in-text citation has a matching **reference list entry**, and vice versa
+3. Entries are in **one style**, in **alphabetical order**
+4. Each entry has **author, year, title, and publication details** (no bare URLs)
+5. **Quotations** have quotation marks and page numbers
+6. I checked each entry against the **real source** (especially if a tool made it)
+7. AI use is **disclosed** at the top, if applicable (syllabus §3.3)
+
+*Questions? Office hours W/F 1:30-2:30, Moore 574.*
+
+::: {.notes}
+This is a good slide to leave up during the draft clinic or the work time in class. Office hours are from the Final Paper guide.
+:::
